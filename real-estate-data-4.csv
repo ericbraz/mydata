@@ -1,0 +1,552 @@
+Preço,Condomínio,Área,Quartos,Banheiros,Vagas,Abaixo $,Endereço,Descrição,0,1,2,3,4,Latitude,Longitude
+790000,0,120,3,3,1,0,"Quadra 203, 9 - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 120m²",Churrasqueira,Elevador,Condomínio fechado,Academia,Aceita animais,-15.81665745,-47.88876239998757
+435000,520,60,2,2,1,0,"Rua 25, 23 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.5428028,-47.2904443
+259990,220,30,1,1,1,0,"SGAN 906, 906 - Asa Norte, Brasília - DF","Apartamento com Quarto à Venda, 30m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Portaria 24h,-15.7723906,-47.8936221
+320000,200,27,1,1,1,0,"Asa Norte, Brasília - DF","Apartamento com Quarto à Venda, 27m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Espaço gourmet,-15.75799565,-47.871353931704704
+560000,491,74,1,1,2,0,"Rua 19, 000 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 74m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-16.2359637,-47.943354
+850000,530,98,1,2,1,0,"Rua 13, 1 - Aguas Claras, Brasília - DF","Apartamento com Quarto à Venda, 98m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-15.84093715,-48.01792736245497
+850000,800,99,4,2,2,0,"Quadra 205, 4 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 99m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8423553,-48.0214125
+700000,0,230,0,0,0,0,"Avenida Jequitibá, 885 - Aguas Claras, Brasília - DF","Ponto comercial/Loja/Box à Venda, 230m²",,,,,,-15.8375098,-48.0413804
+7800000,0,720,5,4,10,0,"SHIS QL 8 Conjunto 7, 9 - Lago Sul, Brasília - DF","Casa com 5 Quartos à Venda, 720m²",Piscina,Churrasqueira,Elevador,Aceita animais,Ar-condicionado,-15.8411673,-47.886081
+540000,0,83,3,1,2,0,"Rua 36, 36 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 83m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-16.2350961,-47.950191
+530000,0,65,2,2,1,0,"Rua 25, 25 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 65m²",Piscina,Elevador,Condomínio fechado,Varanda,Academia,-15.5428028,-47.2904443
+390000,0,360,3,3,3,0,"Norte, Brasília - DF","Casa com 3 Quartos à Venda, 360m²",Portaria 24h,Portão eletrônico,Condomínio fechado,Varanda gourmet,,-15.764044877985176,-47.83296336309007
+763000,0,88,3,1,2,0,"Rua 27, 01 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 88m²",,,,,,-16.2362276,-47.9490021
+398000,430,60,2,1,1,0,"Rua 9, 52 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",,,,,,-16.0540406,-47.9918808
+610000,480,79,3,2,2,0,"Quadra 208, 10 - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 79m²",,,,,,-15.79787385,-47.88303256783667
+760000,0,180,3,3,0,0,"Avenida Comercial, 0 - Setor Habitacional Taquari, Brasília - DF","Casa com 3 Quartos à Venda, 180m²",Aceita animais,Ar-condicionado,Varanda gourmet,Closet,Cozinha americana,-15.6928749,-47.86704
+300000,0,110,3,2,4,0,"QNN 3, 3 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 110m²",,,,,,-15.815169,-48.1129645
+650000,0,152,3,3,2,0,"Chácaras Itaipú, 0 - Setor Habitacional Jardim Botânico, Brasília - DF","Casa com 3 Quartos à Venda, 152m²",Conexão à internet,Quintal,Aceita animais,Varanda gourmet,,-15.8882539,-47.7716916
+125000,180,50,2,1,0,0,"Guara II, Brasília - DF","Apartamento com 2 Quartos à Venda, 50m²",Cozinha,Interfone,Área de serviço,,,-22.7990134,-45.1635665
+335000,450,63,2,2,2,0,"QNN 27, 0 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 63m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8204834,-48.1211339
+273200,1,30,1,1,1,0,"SGAN 910, 10 - Asa Norte, Brasília - DF","Apartamento com Quarto à Venda, 30m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,-15.759451,-47.8959413
+1350000,1750,200,4,3,2,0,"Rua das Paineiras, 4 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 200m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8429824,-48.037021
+265000,370,64,3,2,1,0,"Quadra - Setor Central, Brasília - DF","Apartamento com 3 Quartos à Venda, 64m²",Portão eletrônico,Condomínio fechado,Salão de festas,Elevador,Portaria 24h,-16.0180715,-48.0732945
+700000,0,96,3,3,2,0,"Rua das Carnaúbas, 12 - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 96m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8298303,-48.0180953
+750000,750,107,3,3,1,0,"Rua Alecrim, 9 - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 107m²",Churrasqueira,Elevador,Academia,Aceita animais,Jardim,-15.8366997,-48.0178029
+3300000,2700,338,4,7,3,0,"SQN 303, 6 - Asa Norte, Brasília - DF","Apartamento com 4 Quartos à Venda, 338m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Área de serviço,-15.7742506,-47.8863282
+6000000,4500,750,4,8,4,0,"SMDB Conjunto 24, 1 - Lago Sul, Brasília - DF","Casa com 4 Quartos à Venda, 750m²",Aceita animais,Ar-condicionado,Varanda gourmet,Armário embutido no quarto,Conexão à internet,-15.8523218,-47.8388667
+8000000,0,1200,6,4,6,0,"SHIS QI 26 Conjunto 14, 1 - Lago Sul, Brasília - DF","Casa de condomínio com 6 Quartos à Venda, 1200m²",Piscina,Churrasqueira,Condomínio fechado,Varanda,Quintal,-15.8306812,-47.821065
+215000,0,110,3,2,2,0,"QNP 11 Conjunto E, 20 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 110m²",Varanda,Aceita animais,Área de serviço,Armário embutido,Armário na cozinha,-15.8161255,-48.1306596
+1330000,1200,110,3,4,1,0,"Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 110m²",Garagem,Jardim,Área de serviço,Armário embutido,Interfone,-15.8139652,-47.89960928071284
+690000,180,400,3,4,3,0,"Rua Rodobelo I, 3 - Gama, Brasília - DF","Casa com 3 Quartos à Venda, 400m²",Piscina,Churrasqueira,Condomínio fechado,Espaço gourmet,Jardim,-15.9540703,-48.032103295126554
+250000,100,82,4,2,0,0,"QN 1 Conjunto 1 - Riacho Fundo I, Brasília - DF","Apartamento com 4 Quartos à Venda, 82m²",,,,,,-15.8797502,-48.0099277
+634900,0,180,5,4,0,0,"QR 4 Conjunto D, 26 - Candangolândia, Brasília - DF","Casa com 5 Quartos à Venda, 180m²",Churrasqueira,Portão eletrônico,Aceita animais,Varanda gourmet,,-15.8489663,-47.9476764
+250000,0,145,2,1,0,0,"QNP 5 Conjunto V, 0 - Ceilandia Norte, Brasília - DF","Casa com 2 Quartos à Venda, 145m²",,,,,,-15.8221209,-48.1268576
+899000,0,225,3,1,4,0,"Guará, Brasília - DF","Casa com 3 Quartos à Venda, 225m²",,,,,,-15.8235629,-47.9768165
+2100000,0,783,6,8,5,0,"SMPW Quadra 12 Conjunto 3, 0 - Park Way , Brasília - DF","Casa com 6 Quartos à Venda, 783m²",Condomínio fechado,Varanda,Área de serviço,Escritório,Armário embutido,-15.9097038,-47.9785559
+292967,0,54,2,2,1,0,"QNN 30 Área Especial B - Ceilândia Sul, Ceilândia - DF",Versato,,,,,,-15.8363678,-48.1105802
+590000,600,81,3,2,1,0,"Rua Manacá, 4 - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 81m²",Piscina,Mobiliado,Elevador,Academia,Móvel planejado,-15.8314663,-48.0095679
+640000,807,106,2,2,2,0,"Quadra 208, 208 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 106m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Varanda,-15.8452235,-48.0274093
+340000,0,43,2,1,0,0,"Cruzeiro Novo, Brasília - DF","Apartamento com 2 Quartos à Venda, 43m²",,,,,,-8.2712552,-49.2609357
+320000,0,144,3,1,0,0,"QNO 13 Conjunto I, 1 - Ceilândia, Brasília - DF","Casa com 3 Quartos à Venda, 144m²",,,,,,-15.7907995,-48.1296487
+220000,0,144,2,1,2,0,"QNN 26 Conjunto D - Ceilandia Sul, Brasília - DF","Casa com 2 Quartos à Venda, 144m²",,,,,,-15.8403982,-48.1043725
+630000,0,85,2,3,2,0,"Rua 25, 100 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 85m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.5428028,-47.2904443
+195000,0,45,2,1,1,0,"QNN 11, 0 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 45m²",Churrasqueira,Elevador,Condomínio fechado,Academia,Área de serviço,-15.8190255,-48.1151953
+2290000,0,729,6,9,12,0,"Setor Habitacional Taquari, Brasília - DF","Casa com 6 Quartos à Venda, 729m²",Piscina,Mobiliado,Churrasqueira,Quintal,Garagem,-15.697389,-47.875332
+1598000,628,600,5,6,3,0,"Condomínio Estância Jardim Botânico - Setor Habitacional Jardim Botânico, Brasília - DF","Casa com 5 Quartos à Venda, 600m²",Piscina,Churrasqueira,Varanda,Quintal,Ar-condicionado,-15.8794238,-47.7823493
+110000,150,58,2,1,0,0,"Avenida Sucupira, 20 - Riacho Fundo I, Brasília - DF","Apartamento com 2 Quartos à Venda, 58m²",,,,,,-15.887748,-48.0126674
+410000,0,50,1,1,1,0,"CLNW 10/11 - Setor Noroeste, Brasília - DF","Apartamento com Quarto à Venda, 50m²",,,,,,-15.74318695,-47.9120831495934
+3349994,480,800,4,6,4,0,"Park Way , Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 800m²",Piscina,Churrasqueira,Quintal,Área de serviço,Closet,-15.9027386,-47.963322
+590000,500,79,2,2,1,0,"Rua das Pitangueiras, 0 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 79m²",Churrasqueira,Elevador,Condomínio fechado,Academia,Espaço gourmet,-15.8339339,-48.0176421
+234900,0,44,2,1,1,0,"QNM 29, 1 - Ceilandia Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 44m²",Piscina,Churrasqueira,Condomínio fechado,Espaço gourmet,Playground,-15.8269556,-48.0925771
+820000,940,123,4,4,2,0,"Quadra 206, 9 - Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 123m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.7930602,-47.892502
+500000,0,160,3,3,4,0,"QN 1 Conjunto 1, 0 - Riacho Fundo I, Brasília - DF","Sobrado com 3 Quartos à Venda, 160m²",Aceita animais,,,,,-15.8797502,-48.0099277
+450000,480,70,2,2,1,0,"Rua 24, 16 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 70m²",,,,,,-15.5447019,-47.2922802
+167990,0,40,2,1,1,0,"Avenida Planalto - Vila Jayara, Anápolis - GO",Arcos do Campo,Minha Casa Minha Vida,,,,,-16.2856592,-48.9752404
+274500,0,6490,23,23,12,0,"Avenida Armando de Godoy - Setor Negrão de Lima, Goiânia - GO",Residencial Alameda Leste,,,,,,-16.657531,-49.2461224
+155500,250,44,2,1,1,0,"Rua 400, 1 - Santa Maria, Brasília - DF","Apartamento com 2 Quartos à Venda, 44m²",Piscina,Churrasqueira,Condomínio fechado,Academia,Aceita animais,-29.7152919,-53.8578606
+666304,0,86,23,24,12,0,"Rua 28 - Setor Central, Goiânia - GO",New Way Aeroporto,,,,,,-16.6722197,-49.25571
+120000,0,45,2,2,0,0,"Rua 4C, 4 - Vicente Pires, Brasília - DF","Apartamento com 2 Quartos à Venda, 45m²",Portão eletrônico,Condomínio fechado,Portaria 24h,Cozinha americana,,-15.8203945,-48.0201694
+580000,250,800,2,3,3,0,"Condomínio Residencial Privê La Font, 0 - Paranoá, Brasília - DF","Casa com 2 Quartos à Venda, 800m²",Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,Área de serviço,-15.7594743,-47.7446557
+1205000,0,174250,34,45,0,0,"Rua 70 - Jardim Goiás, Goiânia - GO",RESIDENCIAL M CENTRAL PARK,,,,,,-16.705221,-49.2337572
+1180000,336,400,6,5,3,0,"Quadra 1 Conjunto H, 0 - Condominio Imperio dos Nobres, Brasília - DF","Casa com 6 Quartos à Venda, 400m²",Piscina,Churrasqueira,Condomínio fechado,Aceita animais,Ar-condicionado,-15.6816505,-47.8336271
+2950000,1560,227,3,4,2,0,"SQN 213, 1 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 227m²",Churrasqueira,Elevador,Aceita animais,Ar-condicionado,Varanda gourmet,-15.759388,-47.889352004715114
+149600,0,46,2,1,1,0,"Samambaia Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 46m²",,,,,,-15.8690878,-48.0715818
+305000,0,58,2,2,1,0,"Rua 25 A - Setor Aeroporto, Goiânia - GO",Wish Aeroporto - 58m²,,,,,,-16.6697245,-49.2722338
+1454010,0,163,4,4,3,0,"Avenida Parque Águas Claras, 1075 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 163m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-15.833485101482292,-48.02000757922699
+370000,0,37,0,1,0,0,"Setor Sudoeste, Brasília - DF","Ponto comercial/Loja/Box à Venda, 37m²",Segurança 24h,,,,,-15.78831755,-47.918639386271956
+265000,0,95,3,1,3,0,"Santa Maria, Brasília - DF","Casa com 3 Quartos à Venda, 95m²",Cozinha,Lavanderia,Quintal,Área de serviço,,-29.6716736,-53.820794331001224
+150000,0,55,2,1,0,0,"QS 16, 4 - Riacho Fundo I, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",,,,,,-15.88615685,-48.010428177055985
+411000,0,79,3,2,2,0,"Rua 25 A, - - Setor Aeroporto, Goiânia - GO",Wish Aeroporto - 79m²,,,,,,-16.6697245,-49.2722338
+214000,0,45,2,1,1,0,"QR 212, 10 - Samambaia, Brasília - DF","Apartamento com 2 Quartos à Venda, 45m²",Churrasqueira,Elevador,Condomínio fechado,Academia,Espaço gourmet,-15.8631597,-48.0728081
+400000,1,160,3,2,5,0,"QNL 13, 23 - Taguatinga, Brasília - DF","Casa com 3 Quartos à Venda, 160m²",,,,,,-15.8152539,-48.09357
+1028256,0,170199,34,1,1,0,"Rua 135, 442 - Setor Marista, Goiânia - GO",Único Marista,,,,,,-16.6978932,-49.2549759
+115000,320,37,1,1,1,0,"Avenida das Araucárias, 4155 - Aguas Claras, Brasília - DF","Apartamento com Quarto à Venda, 37m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8351995,-48.0474594
+3375000,0,445,4,4,4,0,"Rua 9, 13 - Setor Oeste, Goiânia - GO",The Sun,Piscina,Academia,Espaço gourmet,Playground,Piscina infantil,-16.6858485,-49.2673023
+2650000,0,283,4,3,3,0,"Quadra 206, 206 - Asa Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 283m²",Piscina,Mobiliado,Churrasqueira,Elevador,Varanda,-15.82281985,-47.89545618828765
+345000,0,3476,12,1,1,0,"Rua 7, . - Setor Oeste, Goiânia - GO",ID Vida Urbana,,,,,,-16.684755,-49.2665376
+635000,550,62,2,2,1,0,"Rua 19, 0 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 62m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-16.2359637,-47.943354
+650000,180,400,3,5,4,0,"Núcleo Rural Ponte Alta de Cima, 52 - Gama, Brasília - DF","Casa com 3 Quartos à Venda, 400m²",Condomínio fechado,Quintal,Aceita animais,Área de serviço,Varanda gourmet,-16.0483499,-48.1466389
+138000,0,4500,0,0,0,0,"Paranoá, Brasília - DF","Lote/Terreno à Venda, 4500m²",,,,,,-15.77544,-47.7797631
+670000,0,115,3,1,1,0,"Rua 143, 170 - Setor Marista, Goiânia - GO",On Marista,,,,,,-16.6925366,-49.2619485
+797000,536,300,7,6,5,0,"Condomínio Ouro Vermelho I, 0 - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 7 Quartos à Venda, 300m²",Piscina,Varanda,Jardim,Próximo a escola,Escritório,-15.8756357,-47.7664568
+630000,0,144,4,2,2,0,"QN 5, 0 - Riacho Fundo I, Brasília - DF","Sobrado com 4 Quartos à Venda, 144m²",,,,,,-15.8808303,-48.0180296
+320000,0,33,1,1,1,0,"Rua das Figueiras, 6 - Aguas Claras, Brasília - DF","Apartamento com Quarto à Venda, 33m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.830982,-48.0110504
+3000000,2150,414,5,2,4,0,"Rua 20, 1 - Aguas Claras, Brasília - DF","Apartamento com 5 Quartos à Venda, 414m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.84093715,-48.01792736245497
+350000,0,135,4,2,2,0,"QNP 11 Conjunto M, 6 - Ceilandia Norte, Brasília - DF","Casa com 4 Quartos à Venda, 135m²",Garagem,Cozinha,,,,-15.8160281,-48.1322877
+1500000,0,265,4,45,4,0,"Rua Amélia Artiaga Jardim, 1140 - Setor Marista, Goiânia - GO",Miami,,,,,,-16.7035776,-49.2566298
+845076,0,116,23,2,12,0,"Rua Amélia Artiaga Jardim, 258 - Setor Marista, Goiânia - GO",Hit Marista,,,,,,-16.7018554,-49.2553072
+410000,415,47,2,1,1,0,"Rua 37, 4 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 47m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8346814,-48.0389901
+210000,0,110,2,1,2,0,"QNP 32 Conjunto V, 0 - Ceilandia Sul, Brasília - DF","Casa com 2 Quartos à Venda, 110m²",,,,,,-15.8513691,-48.1231052
+580000,0,95,3,4,2,0,"Rua 146, 0 - Setor Marista, Goiânia - GO",Elev Marista,,,,,,-16.698698,-49.2604288
+105000,0,135,3,2,0,0,"QNP 5 Conjunto L, 25 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 135m²",,,,,,-15.821708,-48.1250256
+2000000,0,267504,45,12,1,0,"Rua 146, 500 - Setor Marista, Goiânia - GO",Opus Penthouse 146,,,,,,-16.698698,-49.2604288
+591000,0,84,2,3,0,0,"Alameda Ricardo Paranhos, 4571 - Setor Marista, Goiânia - GO",Tempus,,,,,,-16.7018301,-49.2570375
+70900,0,135,2,1,0,0,"QNP 36 Conjunto E, 1 - Ceilandia Sul, Brasília - DF","Casa com 2 Quartos à Venda, 135m²",,,,,,-15.8535693,-48.1186349
+570472,0,8389,13,23,12,0,"Rua 137, - - Setor Marista, Goiânia - GO",Tempus by Palme,,,,,,-16.699311,-49.2637364
+890000,0,239,6,7,7,0,"QN 5 Conjunto 18, 5 - Riacho Fundo I, Brasília - DF","Casa com 6 Quartos à Venda, 239m²",Aceita animais,Ar-condicionado,Closet,,,-15.879053,-48.0157812
+1100000,0,179355,34,45,0,0,"Rua João de Abreu - Setor Oeste, Goiânia - GO",RESIDENCIAL MONUMENTAL,,,,,,-16.6897272,-49.2712113
+1200000,0,162,35,2,1,0,"Rua 1128, 1128 - Setor Marista, Goiânia - GO",Vero Home,,,,,,-16.7013039,-49.2630796
+3200000,0,620,0,10,0,0,"QNM 17 Conjunto A, 27 - Ceilandia Sul, Brasília - DF","Prédio/Edifício inteiro à Venda, 620m²",,,,,,-15.8160693,-48.1016274
+695000,0,375,5,5,5,0,"Quadra 2 Conjunto D-10, 24 - Sobradinho, Brasília - DF","Casa com 5 Quartos à Venda, 375m²",Churrasqueira,Estacionamento,Portão eletrônico,Aceita animais,,-15.6555897,-47.7917186
+3750000,0,434,5,5,4,0,"Avenida Portugal, 0 - Setor Oeste, Goiânia - GO",Reserva Newest 434m²,,,,,,-16.688399,-49.2702089
+679000,0,96,3,2,0,0,"SQN 402, 01 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 96m²",,,,,,-15.75799565,-47.871353931704704
+290000,0,33,1,1,1,0,"Rua 5, 3 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 33m²",Mobiliado,Churrasqueira,Elevador,Academia,Salão de festas,-32.0108112,-52.0371604
+966251,0,129,3,3,2,0,"Rua 38, s/n - Setor Marista, Goiânia - GO",Mio Marista,,,,,,-16.6956889,-49.2651187
+655000,0,90,2,1,2,0,"Quadra 206, 6 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 90m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.842275350000001,-48.02407585821227
+159994,300,52,2,1,1,0,"Riacho Fundo II, Brasília - DF","Apartamento com 2 Quartos à Venda, 52m²",,,,,,-15.9071152,-48.0488096
+2470259,0,326367,34,35,45,0,"Rua 38, 0 - Setor Marista, Goiânia - GO",Dinastia Living Desire,,,,,,-16.6956889,-49.2651187
+631598,0,126,3,3,4,0,"Avenida Perimetral Norte, 4356 - Vila João Vaz, Goiânia - GO",ALTO DA BOA VISTA PREMIUM,,,,,,-16.6462247,-49.3090114
+1746997,0,245287,4,4,3,0,"Rua 1126, 0 - Setor Marista, Goiânia - GO",Opus Acqua,,,,,,-16.7025421,-49.2632956
+756201,0,111,23,1,12,0,"Avenida Primeira Radial - Setor Pedro Ludovico, Goiânia - GO",Vereda Areião,,,,,,-16.7109624,-49.2540425
+519000,0,88165,3,34,0,0,"Avenida Perimetral, 231 - Setor Oeste, Goiânia - GO",APPLAUSE NEW HOME,Piscina,Elevador,Condomínio fechado,Varanda,Academia,-16.6862433,-49.2785659
+269994,320,52,2,2,1,0,"Taguatinga Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 52m²",Piscina,Churrasqueira,Elevador,Salão de festas,Quadra poliesportiva,-15.7942999,-48.10210574623555
+600000,0,90,3,2,1,0,"Rua 5, 1 - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 90m²",,,,,,-16.0507419,-47.9914475
+1960139,0,243,34,56,34,0,"Rua 36, . - Setor Marista, Goiânia - GO",Treze36 - 243m²,,,,,,-16.6977287,-49.2695356
+2600000,0,680,5,9,0,0,"SHIN QI 2, 01 - Lago Norte, Brasília - DF","Casa com 5 Quartos à Venda, 680m²",Churrasqueira,Condomínio fechado,Varanda,Jardim,Varanda gourmet,-15.7245454,-47.8892574
+1100000,0,235,3,4,3,0,"Guara I, Brasília - DF","Casa com 3 Quartos à Venda, 235m²",,,,,,-22.7990134,-45.1635665
+250000,0,65,2,2,1,0,"C 11, 11 - Taguatinga Centro, Brasília - DF","Apartamento com 2 Quartos à Venda, 65m²",,,,,,-15.8342764,-48.0593906
+1286896,0,164,34,56,34,0,"Rua 36 - Setor Marista, Goiânia - GO",Treze36,,,,,,-16.6977287,-49.2695356
+110000,50,55,2,1,0,0,"Avenida Sucupira, 0 - Riacho Fundo I, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",Aceita animais,Cozinha americana,,,,-15.887748,-48.0126674
+3290000,0,362,4,5,4,0,"Alameda Coronel Eugênio Jardim, 430 - Setor Marista, Goiânia - GO",Reserva Parque Areião 362m²,,,,,,-16.7062237,-49.2607239
+120000,0,57,2,2,1,0,"Setor Industrial, Brasília - DF","Apartamento com 2 Quartos à Venda, 57m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-16.0192947,-48.0618019
+411420,0,6599,23,23,12,0,"Rua 1033 - Setor Pedro Ludovico, Goiânia - GO",Residencial Alto Areião,,,,,,-16.7139963,-49.2563149
+810000,0,125,3,4,2,0,"Rua 1124, 246 - Setor Marista, Goiânia - GO",Cena Marista,,,,,,-16.7082028,-49.262267
+228000,0,144,3,1,3,0,"Quadra 603 - Recanto das Emas, Brasília - DF","Casa com 3 Quartos à Venda, 144m²",Área de serviço,Depósito,Aceita animais,,,-15.9110152,-48.0518735
+935000,0,150170,34,23,13,0,"Rua 1121, 27 - Setor Marista, Goiânia - GO",Gaia Consciente Home,,,,,,-16.7091921,-49.2622251
+1085213,0,128,4,3,3,0,"Avenida das Araucárias, 4750 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 128m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Varanda,-15.8521447,-48.032027356734396
+470000,100,63,2,2,0,0,"SCLRN 716 - Asa Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 63m²",Interfone,Armário na cozinha,Ar-condicionado,Varanda,Área de serviço,-15.764685,-47.891373
+197000,270,42,2,1,1,0,"QNN 11, 1 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 42m²",Cozinha,Academia,Elevador,Churrasqueira,,-15.819748,-48.1150062
+1835000,1319,245,4,5,4,0,"Avenida Pau Brasil, 10 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 245m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8406154,-48.027205800000004
+395000,0,135,7,4,2,0,"QNP 13 Conjunto M - Ceilandia Norte, Brasília - DF","Casa com 7 Quartos à Venda, 135m²",,,,,,-15.8076891,-48.1308085
+5550000,0,520,4,6,5,0,"SQNW 108 Bloco E, 01 - Setor Noroeste, Brasília - DF","Cobertura com 4 Quartos à Venda, 520m²",Churrasqueira,Elevador,Varanda,Academia,Espaço gourmet,-15.750479,-47.90978737490394
+4100000,0,516,5,6,4,0,"Lago Sul, Brasília - DF","Casa com 5 Quartos à Venda, 516m²",Piscina,Churrasqueira,Quintal,Ar-condicionado,Área de serviço,-15.8391817,-47.8755338
+297000,0,59,2,2,1,0,"Rua 250, 321 - Setor Coimbra, Goiânia - GO",Wish Coimbra - 59m²,,,,,,-16.6865562,-49.2857744
+185000,0,49,2,1,1,0,"QNN 11, 2 - Ceilandia Centro, Brasília - DF","Apartamento com 2 Quartos à Venda, 49m²",Circuito de segurança,Área de serviço,Varanda,,,-15.819748,-48.1150062
+495004,0,69,2,3,1,0,"Rua 1121, 0 - Setor Marista, Goiânia - GO",Nest23 - 69m²,,,,,,-16.7091921,-49.2622251
+914978,0,120,3,4,2,0,"Rua 1121, 1840 - Setor Marista, Goiânia - GO",Nest23 - 120m²,,,,,,-16.7091921,-49.2622251
+154000,0,145,4,1,0,0,"QNL, 20 - Taguatinga Norte, Brasília - DF","Casa com 4 Quartos à Venda, 145m²",,,,,,-15.8123015,-48.0901784
+160000,160,43,1,1,0,0,"Sobradinho, Brasília - DF","Apartamento com Quarto à Venda, 43m²",,,,,,-15.6500533,-47.7848449
+404000,0,56,2,3,0,0,"Rua T 55, - - Setor Bueno, Goiânia - GO",Hub da City,,,,,,-16.7010719,-49.2650642
+370000,0,7198,23,1,12,0,"Rua T 27, 54 - Setor Bueno, Goiânia - GO",Best bueno,,,,,,-16.6894681,-49.2775562
+330000,0,150,2,1,1,0,"QR 2 Conjunto E - Candangolândia, Brasília - DF","Casa com 2 Quartos à Venda, 150m²",,,,,,-15.852229,-47.9497728
+180000,0,70,3,2,0,0,"Avenida Sucupira, 58 - Riacho Fundo I, Brasília - DF","Apartamento com 3 Quartos à Venda, 70m²",,,,,,-15.887748,-48.0126674
+590000,0,98,3,3,2,0,"Rua T 37, s/n - Setor Bueno, Goiânia - GO",Moove Home Brasal 98m²,,,,,,-16.7102695,-49.2659948
+980000,780,121,2,2,0,0,"SQS 108 - Asa Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 121m²",Interfone,Armário na cozinha,Área de serviço,,,-15.8166635,-47.9040639
+425000,0,69,2,2,1,0,"Rua T 37 - Setor Bueno, Goiânia - GO",Moove Home Brasal 69m²,,,,,,-16.7063905,-49.2661524
+320000,0,135,4,2,2,0,"QNP 5 Conjunto J, 02 - Ceilandia Norte, Brasília - DF","Casa com 4 Quartos à Venda, 135m²",Garagem,Cozinha,Academia,,,-15.8207426,-48.1250132
+1840000,1200,143,3,3,1,0,"SQS 202, 01 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 143m²",Jardim,Varanda gourmet,Elevador,Espaço verde / Parque,Salão de festas,-15.8058593,-47.8874383
+1098000,761,118,3,4,2,0,"Rua Macaúba, 13 - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 118m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8437537,-48.0324528
+1450000,0,158,4,5,3,0,"Avenida das Araucárias, 6 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 158m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8383446,-48.0373437
+450000,0,250,5,1,4,0,"Recanto das Emas, Brasília - DF","Casa com 5 Quartos à Venda, 250m²",,,,,,-15.9025481,-48.0607778
+770000,0,103,3,3,2,0,"Avenida das Araucárias - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 103m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8400322,-48.0206331
+822290,0,134,3,3,2,0,"Rua T 29, - - Setor Bueno, Goiânia - GO",Reserva dos Ipês - 134m²,,,,,,-16.6952273,-49.27714
+255000,0,100,2,1,2,0,"Setor Oeste, Brasília - DF","Casa com 2 Quartos à Venda, 100m²",,,,,,-16.0024757,-48.070488
+385000,0,135,3,3,3,0,"QN 8B - Riacho Fundo II, Brasília - DF","Casa com 3 Quartos à Venda, 135m²",Garagem,Cozinha,,,,-15.9031765,-48.041042
+270000,0,65,3,2,2,0,"Samambaia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 65m²",,,,,,-15.823393450000001,-48.02551841265377
+270500,0,3988,13,13,0,0,"Rua T 37, 3449 - Setor Bueno, Goiânia - GO",Residencial Ritmo Bueno,,,,,,-16.7050761,-49.266428
+1180000,0,170,3,3,1,0,"SHIGS 713 - Asa Sul, Brasília - DF","Casa com 3 Quartos à Venda, 170m²",Interfone,Armário na cozinha,Varanda,Área de serviço,,-15.8036857,-47.8977195
+799000,0,125,3,24,12,0,"Rua T 30 - Setor Bueno, Goiânia - GO",Residencial Bueno Park,,,,,,-16.6988327,-49.2771071
+1450000,960,168,4,5,2,0,"Rua Buriti - Norte, Brasília - DF","Apartamento com 4 Quartos à Venda, 168m²",Piscina,Churrasqueira,Academia,Ar-condicionado,Playground,-3.1439868,-59.9983877
+381200,0,6581,23,2,12,0,"Rua T 53, 1151 - Setor Bueno, Goiânia - GO",Residencial Vaca Brava 53,,,,,,-16.7044579,-49.272577
+910000,0,141165,3,25,23,0,"Rua T 71, 0 - Setor Bueno, Goiânia - GO",Cenárium vaca brava,,,,,,-16.7078901,-49.2751565
+2000000,280,561,5,7,9,0,"SMPW Quadra 26 - Park Way , Brasília - DF","Casa com 5 Quartos à Venda, 561m²",Piscina,Churrasqueira,Varanda,Quintal,Ar-condicionado,-15.9119521,-47.9681538
+1730000,1300,189,4,5,3,0,"Rua Babaçu, 7 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 189m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8430409,-48.0296759
+430000,0,250,3,1,2,0,"QNM 36 Conjunto O, 1 - Taguatinga Norte, Brasília - DF","Casa com 3 Quartos à Venda, 250m²",,,,,,-15.8036456,-48.0953537
+642147,0,112,3,4,2,0,"Rua Camilo Flamarion, 15 - Serrinha, Goiânia - GO",Blume Apartments - 112m²,,,,,,-16.7243853,-49.2686674
+650000,0,152,3,3,2,0,"Chácaras Itaipú - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 152m²",Churrasqueira,Espaço gourmet,Garagem,Jardim,Cozinha,-15.8833861,-47.7709705
+455000,0,250,5,2,5,0,"QNN 3 Conjunto F - Ceilandia Norte, Brasília - DF","Casa com 5 Quartos à Venda, 250m²",,,,,,-15.8149049,-48.1124722
+1750000,0,330,4,4,11,0,"SMPW Quadra 28 - Park Way , Brasília - DF","Casa com 4 Quartos à Venda, 330m²",Varanda,Quintal,Ar-condicionado,Área de serviço,Escritório,-15.8941617,-47.9492799
+289994,160,61,3,1,0,0,"Núcleo Bandeirante, Brasília - DF","Apartamento com 3 Quartos à Venda, 61m²",,,,,,-15.871003,-47.9677375
+1450000,0,380,4,6,4,0,"Taguatinga Sul, Brasília - DF","Casa com 4 Quartos à Venda, 380m²",Cozinha,Interfone,Lavanderia,Ar-condicionado,,-15.8518465,-48.0418845
+350000,500,1011,0,0,0,0,"Condomínio Verde, 1 - Setor Habitacional Jardim Botânico, Brasília - DF","Lote/Terreno à Venda, 1011m²",,,,,,-15.870581,-47.7603519
+158990,0,3942,2,1,1,0,"Avenida São Domingos, 0 - Vila Mutirão I, Goiânia - GO",Gran Valence,,,,,,-16.6148352,-49.3515421
+195000,0,63,2,1,1,0,"QNM 12, 0 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 63m²",Condomínio fechado,Portão eletrônico,Aceita animais,,,-15.8136622,-48.1041217
+2020000,1200,174,3,4,2,0,"SQNW 311, 600 - Setor Noroeste, Brasília - DF","Apartamento com 3 Quartos à Venda, 174m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.741624049999999,-47.91314049001808
+780000,0,55,1,1,2,0,"SQS 404 - Asa Sul, Brasília - DF","Apartamento com Quarto à Venda, 55m²",Piscina,Churrasqueira,Elevador,Cozinha,Depósito,-15.8126377,-47.8887002
+235000,0,30,1,1,1,0,"CA 9, 01 - Lago Norte, Brasília - DF","Kitnet/Conjugado com Quarto à Venda, 30m²",Interfone,Varanda gourmet,Elevador,,,-15.7126955,-47.8877371
+170000,327,47,2,1,1,0,"QS 5 Rua 310, 1 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 47m²",Churrasqueira,Condomínio fechado,Academia,Aceita animais,Espaço gourmet,-15.8591954,-48.0328985
+550000,780,53,1,1,1,0,"CA 5, 2 - Lago Norte, Brasília - DF","Apartamento com Quarto à Venda, 53m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-15.7191704,-47.8849496
+655000,864,90,2,3,2,0,"Quadra 206, 10 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 90m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.7930602,-47.892502
+174990,0,39,2,1,1,0,"Rua Carlos Gomes, s/n - Lorena Parque, Goiânia - GO",Gran Jardim,Minha Casa Minha Vida,,,,,-16.6938199,-49.3624263
+120000,0,51,2,1,2,0,Aragoiânia - GO,Condomínio Residencial Dona Tota,,,,,,-16.9146388,-49.4499148
+2500000,0,700,4,5,4,0,"SHIN QI 7, 01 - Lago Norte, Brasília - DF","Casa com 4 Quartos à Venda, 700m²",Churrasqueira,Condomínio fechado,Varanda,Ar-condicionado,Varanda gourmet,-15.7380382,-47.859664
+1500000,0,10000,4,5,0,0,"Incra 7, 0 - Brazlândia, Brasília - DF","Fazenda/Sítio/Chácara com 4 Quartos à Venda, 10000m²",,,,,,-15.7423211,-48.1712508
+266000,0,150,6,3,0,0,"QNN 3 Conjunto I - Ceilandia Norte, Brasília - DF","Casa com 6 Quartos à Venda, 150m²",Casa de fundo,Piso frio,Ventilação natural,,,-15.8175485,-48.1123018
+2700000,0,63151,5,6,4,0,"SHIS QL 24 Conjunto 6 - Lago Sul, Brasília - DF","Casa com 5 Quartos à Venda, 63151m²",Piscina,Quintal,Área de serviço,,,-15.8349031,-47.8344487
+2298000,580,535,4,4,3,0,"Condomínio Residencial Mansões Itaipu - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 535m²",Armário na cozinha,Sala de jantar,,,,-15.8887605,-47.7687112
+550000,0,200,4,1,2,0,"QNM 19 Conjunto K - Ceilandia Sul, Brasília - DF","Casa com 4 Quartos à Venda, 200m²",,,,,,-15.8181661,-48.0974525
+4500000,0,531,4,6,6,0,"SHIN QI 2 Conjunto 9, 01 - Lago Norte, Brasília - DF","Casa com 4 Quartos à Venda, 531m²",,,,,,-15.7251962,-47.8862793
+850000,0,325,6,4,4,0,"QN 5 Conjunto 18, 0 - Riacho Fundo I, Brasília - DF","Casa com 6 Quartos à Venda, 325m²",Portão eletrônico,Aceita animais,Ar-condicionado,,,-15.879053,-48.0157812
+450000,0,150,3,3,4,0,"EQS 414/415 - Asa Sul, Brasília - DF","Casa com 3 Quartos à Venda, 150m²",Cozinha,Área de serviço,,,,-15.8082233,-47.8959476
+175000,298,34,1,1,1,0,"QN 122 Conjunto 15, 7 - Samambaia, Brasília - DF","Apartamento com Quarto à Venda, 34m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Jardim,-15.8676314,-48.0588673
+170000,190,30,1,1,0,0,"SCLRN 711 - Asa Norte, Brasília - DF","Apartamento com Quarto à Venda, 30m²",Armário na cozinha,Varanda,,,,-15.764685,-47.891373
+350000,0,144,3,2,2,0,"QNN 22 Conjunto B, 20 - Ceilandia Sul, Brasília - DF","Casa com 3 Quartos à Venda, 144m²",Garagem,Cozinha,,,,-15.8344756,-48.1070623
+1200000,150,240,3,4,3,0,"SMPW Quadra 5 - Park Way , Brasília - DF","Casa com 3 Quartos à Venda, 240m²",Churrasqueira,Piscina,Interfone,Armário na cozinha,Varanda,-15.898156,-47.9322667
+1490000,1497,186,4,5,3,0,"Avenida Parque Águas Claras, 2525 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 186m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.834861499999999,-48.0287500668319
+518000,0,0,0,0,0,0,"Quadra 11 Conjunto D - Sobradinho, Brasília - DF","Lote/Terreno à Venda, 0m²",,,,,,-15.6419972,-47.7883832
+549999,0,145,4,3,3,0,"QNO 4 Conjunto F, 0 - Ceilandia Norte, Brasília - DF","Sobrado com 4 Quartos à Venda, 145m²",Interfone,Escritório,,,,-15.7944422,-48.1200019
+620000,760,80,2,2,1,0,"Rua 22, 0 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 80m²",Academia,Churrasqueira,Elevador,Piscina,Salão de festas,-15.5411547,-47.2930147
+380000,480,55,2,1,1,0,"Rua 5 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",Piscina,Churrasqueira,Academia,Playground,Piscina infantil,-15.8371207,-48.0119371
+5530000,2800,520,4,7,5,0,"SQNW 108 Bloco E, 1 - Setor Noroeste, Brasília - DF","Apartamento com 4 Quartos à Venda, 520m²",Piscina,Churrasqueira,Condomínio fechado,Academia,Espaço gourmet,-15.750479,-47.90978737490394
+150000,0,144,3,2,3,0,"Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 144m²",,,,,,-15.807346,-48.1101288
+950000,0,379,5,5,3,0,"Rodovia DF-150 - Grande Colorado, Brasília - DF","Casa com 5 Quartos à Venda, 379m²",Condomínio fechado,Portão eletrônico,Portaria 24h,,,-15.6774803,-47.8261618
+280000,0,20000,1,1,1,0,"Rodovia DF-, 140 - Brasília - DF","Fazenda/Sítio/Chácara com Quarto à Venda, 20000m²",Cozinha,Aquecimento,Sala de massagem,Spa,,-15.6657452,-47.8080147
+550000,0,80,2,1,1,0,Rodovia DF-001 - Brasília - DF,"Casa de condomínio com 2 Quartos à Venda, 80m²",Cozinha,Jardim,,,,-15.6657452,-47.8080147
+850000,910,117,2,2,1,0,"Rua 30 - Norte, Brasília - DF","Cobertura com 2 Quartos à Venda, 117m²",Piscina,Churrasqueira,Varanda,Área de serviço,Quadra poliesportiva,-15.8371522,-48.0332843
+279994,0,134,3,2,1,0,"Ceilandia Sul, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 134m²",Churrasqueira,,,,,-15.8287665,-48.0971053
+149000,1300,23,1,1,1,0,"Taguatinga, Taguatinga - DF","Apartamento com Quarto à Venda, 23m²",,,,,,-12.402404,-46.4365769
+470000,0,150,3,1,2,0,"Taguatinga Norte, Taguatinga - DF","Casa com 3 Quartos à Venda, 150m²",,,,,,-15.81740155,-48.05841697056134
+45000,0,20,0,0,0,0,"QN 1 Conjunto 30, 0 - Riacho Fundo I, Brasília - DF","Ponto comercial/Loja/Box à Venda, 20m²",,,,,,-15.8811091,-48.0209474
+2439390,0,195,4,6,4,0,"SQNW 103 - Setor Noroeste, Brasília - DF","Apartamento com 4 Quartos à Venda, 195m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-15.74051975,-47.91145795215698
+235000,0,0,0,0,0,0,"QS 3, 3 - Areal, Brasília - DF","Ponto comercial/Loja/Box à Venda, 0m²",,,,,,-15.8638374,-48.0230388
+1900000,0,170,4,4,1,0,"SQS 105 - Asa Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 170m²",Elevador,,,,,-15.8105112,-47.8962855
+136600,300,68,3,1,1,0,"CSG 3, 1 - Taguatinga, Brasília - DF","Apartamento com 3 Quartos à Venda, 68m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-15.8662185,-48.0340424
+3190000,2250,204,3,6,4,0,"Setor Noroeste, Brasília - DF","Apartamento com 3 Quartos à Venda, 204m²",Piscina,Churrasqueira,Elevador,Ar-condicionado,Área de serviço,-15.74190875,-47.90283218993944
+395000,70,200,5,4,4,0,"Quadra 5, 5 - Sobradinho, Brasília - DF","Casa com 5 Quartos à Venda, 200m²",Aceita animais,Área de serviço,Escritório,Estacionamento para visitantes,Área de lazer,-15.6489998,-47.80822240561085
+1700000,0,1200,0,0,0,0,"Lago Norte, Brasília - DF","Lote/Terreno à Venda, 1200m²",,,,,,-15.764044877985176,-47.83296336309007
+135000,50,45,2,1,0,0,"QE 40 Conjunto F - Guara II, Brasília - DF","Apartamento com 2 Quartos à Venda, 45m²",Garagem,Cozinha,,,,-15.843238849999999,-47.98491710858711
+1530000,0,189,4,6,3,0,"Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 189m²",Segurança 24h,Cozinha,,,,-15.8139652,-47.89960928071284
+590000,0,144,4,1,3,0,"QN 7 Conjunto 13, 13 - Riacho Fundo I, Brasília - DF","Casa com 4 Quartos à Venda, 144m²",,,,,,-15.8833169,-48.022017
+444000,450,55,2,2,1,0,"Rua 31, 11 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.841446300000001,-48.026084799309466
+685000,582,78,3,3,1,0,"Rua 36, 1 - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 78m²",Churrasqueira,Elevador,Academia,Aceita animais,Espaço gourmet,-15.8354388,-48.0379526
+620000,560,110,4,2,2,0,"Quadra 1 - Setor Leste, Brasília - DF","Apartamento com 4 Quartos à Venda, 110m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Varanda,-15.457876,-47.610016
+890000,0,0,4,1,4,0,"QN 7 Conjunto 7 - Riacho Fundo I, Brasília - DF","Prédio/Edifício inteiro com 4 Quartos à Venda, 0m²",Entrada de serviço,,,,,-15.8828158,-48.0207234
+1200000,0,142,4,4,2,0,"Quadra 210, 1 - Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 142m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.84093715,-48.01792736245497
+130000,0,30,1,1,0,0,"Quadra 105 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 30m²",,,,,,-15.7885753,-47.8918962
+380000,0,200,3,1,3,0,"QN 7A, 1 - Riacho Fundo II, Brasília - DF","Casa com 3 Quartos à Venda, 200m²",,,,,,-15.9050026,-48.0472977
+620000,350,80,3,2,2,0,"Jardins Mangueiral, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 80m²",Playground,Quadra poliesportiva,Salão de festas,Segurança 24h,,-15.892737,-47.80432345280514
+950000,0,290,3,4,4,0,"Condomínio RK, 01 - Sobradinho, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 290m²",,,,,,-15.6915516,-47.8251847
+299000,0,150,3,2,2,0,"QNM 22 Conjunto C, 54 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 150m²",,,,,,-15.8060741,-48.1081429
+370000,305,70,2,2,1,0,"QI 1 - Guara I, Brasília - DF","Apartamento com 2 Quartos à Venda, 70m²",Churrasqueira,Área de serviço,Cozinha,Depósito,Interfone,-15.81311105,-47.976440324628065
+415000,500,68,2,2,1,0,"Quadra 102 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 68m²",Piscina,Academia,Playground,Piscina infantil,Salão de festas,-15.7885753,-47.8918962
+1620000,900,171,3,3,2,0,"Rua 9 - Norte, Brasília - DF","Cobertura com 3 Quartos à Venda, 171m²",Piscina,Churrasqueira,Varanda,Ar-condicionado,Área de serviço,-15.8357568,-48.015611
+120000,0,49,2,1,1,0,"QI, 24 - Taguatinga, Brasília - DF","Apartamento com 2 Quartos à Venda, 49m²",Piscina,Elevador,Condomínio fechado,Playground,Piscina infantil,-15.76419815,-48.0772342617864
+1499000,400,450,3,5,2,0,"Quadra 1 Conjunto B, 0 - Condominio Imperio dos Nobres, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 450m²",Piscina,Churrasqueira,Condomínio fechado,Jardim,Quadra poliesportiva,-15.6824149,-47.8361687
+330000,0,150,2,1,2,0,"QS 10, 0 - Riacho Fundo I, Brasília - DF","Casa com 2 Quartos à Venda, 150m²",,,,,,-15.8889662,-48.0214334370117
+450000,0,145,3,3,2,0,"Areal, Brasília - DF","Casa com 3 Quartos à Venda, 145m²",Churrasqueira,Varanda,Quintal,Garagem,Jardim,-15.8637338,-48.0251348
+310000,0,0,0,0,0,0,"QNN 21 Conjunto B, 13 - Ceilandia Norte, Brasília - DF","Lote/Terreno à Venda, 0m²",Rede de água e esgoto,Desnível para frente (rua),Frente para o leste,,,-15.8108976,-48.119971
+1480000,0,400,3,5,4,0,"Metropolitana, Brasília - DF","Casa com 3 Quartos à Venda, 400m²",,,,,,-22.7644521,-47.3624206
+400000,500,56,1,2,1,0,"CA 9 - Lago Norte, Brasília - DF","Apartamento com Quarto à Venda, 56m²",Interfone,Armário na cozinha,,,,-15.7126955,-47.8877371
+1445000,0,115,3,3,1,0,"SQN 110, 01 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 115m²",Churrasqueira,Elevador,Varanda,Academia,Ar-condicionado,-15.7584416,-47.8888403
+680000,0,250,3,3,2,0,"QNM 36 Conjunto U - Taguatinga Norte, Brasília - DF","Casa com 3 Quartos à Venda, 250m²",Varanda,Quintal,Ar-condicionado,Móvel planejado,Escritório,-15.8022739,-48.0943613
+2999999,2150,414,6,1,4,0,"Rua 24 - Norte, Brasília - DF","Cobertura com 6 Quartos à Venda, 414m²",,,,,,-15.8371264,-48.0286831
+295000,0,185,3,2,4,0,"QNP 5 Conjunto J, 01 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 185m²",Garagem,Cozinha,,,,-15.8207426,-48.1250132
+1300000,0,396,5,1,6,0,"QI 12, 01 - Guara I, Brasília - DF","Casa com 5 Quartos à Venda, 396m²",Churrasqueira,Interfone,Varanda gourmet,,,-15.81953355,-47.989676869024585
+340000,350,1000,1,0,1,0,"Condomínio Ouro Vermelho II, 06 - Setor Habitacional Jardim Botânico, Brasília - DF","Lote/Terreno com Quarto à Venda, 1000m²",,,,,,-15.8842135,-47.7653148
+1600000,0,436,4,5,4,0,"Condomínio Estância Jardim Botânico II, 0 - Lago Sul, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 436m²",Piscina,Churrasqueira,Varanda,Quintal,Jardim,-15.8825322,-47.8128008243743
+2200000,0,2500,5,5,6,0,"SMPW Quadra 23 - Park Way , Brasília - DF","Casa com 5 Quartos à Venda, 2500m²",Piscina,Churrasqueira,Condomínio fechado,Academia,Garagem,-15.8921335,-47.9185541
+475000,450,35,1,1,1,0,"SQNW 307 - Setor Noroeste, Brasília - DF","Apartamento com Quarto à Venda, 35m²",Piscina,Churrasqueira,Varanda,Armário na cozinha,Interfone,-15.7526112,-47.9118879
+1595000,0,156,3,4,1,0,"SQN 106, 01 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 156m²",,,,,,-15.7703445,-47.8854351
+510000,650,60,2,2,0,0,"SQS 408 - Asa Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",Cozinha,Área de serviço,,,,-15.822248,-47.899193
+220000,0,135,2,1,2,0,"QNP 13 Conjunto D, 0 - Ceilandia Norte, Brasília - DF","Casa com 2 Quartos à Venda, 135m²",,,,,,-15.8115706,-48.1273236
+200000,0,40,1,1,0,0,"SCRN 716 - Asa Norte, Brasília - DF","Kitnet/Conjugado com Quarto à Venda, 40m²",Garagem,Cozinha,Academia,,,-15.7630035,-47.8916221
+510000,550,83,3,2,1,0,"Quadra 103 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 83m²",,,,,,-15.7885753,-47.8918962
+246000,0,44,2,1,40,0,"QNM 29 - Ceilandia Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 44m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-15.8273396,-48.0924243
+7500000,0,880,7,9,9,0,"SHIS QL 6 - Lago Sul, Brasília - DF","Casa com 7 Quartos à Venda, 880m²",Piscina,Churrasqueira,Varanda,Quintal,Área de serviço,-15.841918100000001,-47.88856145943926
+799900,0,400,8,6,5,0,"QN 3 Conjunto 7, 0 - Riacho Fundo I, Brasília - DF","Casa com 8 Quartos à Venda, 400m²",,,,,,-15.8792876,-48.0130523
+350000,0,120,3,2,2,0,"Quadra 2 Conjunto B-4, 1 - Sobradinho, Brasília - DF","Casa com 3 Quartos à Venda, 120m²",Aceita animais,Área de serviço,Conexão à internet,Cozinha americana,Ambientes integrados,-15.6580291,-47.8024028
+1150000,752,157,4,5,2,0,"Quadra 203 - Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 157m²",Piscina,Churrasqueira,Academia,Espaço gourmet,Playground,-15.81665745,-47.88876239998757
+390000,590,49,1,2,0,0,"CA 5, 01 - Lago Norte, Brasília - DF","Apartamento com Quarto à Venda, 49m²",Mobiliado,Interfone,Varanda gourmet,,,-15.7191704,-47.8849496
+680000,0,250,1,1,1,0,"QNM 4, 47 - Ceilandia Norte, Brasília - DF","Casa com Quarto à Venda, 250m²",Aceita animais,,,,,-15.813157,-48.1091369
+190000,0,84,2,2,0,0,"QNP 17 Conjunto J, 08 - Ceilândia, Brasília - DF","Casa com 2 Quartos à Venda, 84m²",,,,,,-15.8073846,-48.1321177
+470000,382,55,2,1,0,0,"SQS 409 - Asa Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",Interfone,Armário na cozinha,,,,-15.8240896,-47.9021453
+350000,0,130,3,3,3,0,"QNP 12 Conjunto A - Ceilandia Sul, Brasília - DF","Casa com 3 Quartos à Venda, 130m²",Garagem,Cozinha,,,,-15.8376741,-48.1179452
+900000,0,80,2,3,1,0,"SQN 214, 01 - Asa Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 80m²",,,,,,-15.751891449999999,-47.87984918284338
+2000000,1100,200,3,4,1,0,"SQN 311, 0 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 200m²",Churrasqueira,Elevador,Varanda,Espaço gourmet,Ar-condicionado,-15.7557755,-47.8904835
+2350000,0,262,4,5,3,0,"Rua 21 - Sul, Brasília - DF","Cobertura com 4 Quartos à Venda, 262m²",,,,,,-15.8409435,-48.0258919
+390000,0,55,1,2,1,0,"Avenida das Araucárias - Sul, Brasília - DF","Apartamento com Quarto à Venda, 55m²",,,,,,-15.8409743,-48.024962700379774
+1040000,0,203,1,7,6,0,"C 12 - Taguatinga Centro, Brasília - DF","Fazenda/Sítio/Chácara com Quarto à Venda, 203m²",,,,,,-15.8351946,-48.0571
+990000,0,187,3,3,1,0,"Rua 12 - Sul, Brasília - DF","Cobertura com 3 Quartos à Venda, 187m²",,,,,,-15.8383713,-48.0178622
+258000,458,83,3,2,1,0,"Quadra 1 - Gama, Brasília - DF","Apartamento com 3 Quartos à Venda, 83m²",Churrasqueira,Piscina,,,,-16.0299625,-48.0713895
+400000,0,250,4,3,3,0,Brasília - DF,"Casa com 4 Quartos à Venda, 250m²",Varanda,Área de serviço,Armário na cozinha,Interfone,TV a cabo,-15.7754462,-47.7970891
+310000,400,50,1,1,1,0,"Rua 37, 1 - Aguas Claras, Brasília - DF","Apartamento com Quarto à Venda, 50m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8346814,-48.0389901
+398000,0,90,3,2,2,0,"QR 5 Conjunto A - Candangolândia, Brasília - DF","Casa com 3 Quartos à Venda, 90m²",Varanda,,,,,-15.8491662,-47.9510502
+800000,0,260,3,4,2,0,"Condomínio Residencial Privê La Font - Paranoá, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 260m²",Garagem,Cozinha,Aquecimento,Sala de massagem,Spa,-15.7594743,-47.7446557
+5650000,2200,335,4,5,4,0,"SQNW 110 - Setor Noroeste, Brasília - DF","Cobertura com 4 Quartos à Venda, 335m²",Piscina,Churrasqueira,Elevador,Área de serviço,Varanda gourmet,-15.744701249999999,-47.91047699001808
+250000,400,58,2,2,1,0,"QNM 12, 12 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 58m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Playground,-15.8131316,-48.1063957
+320000,0,160,2,3,1,0,"QNO 1 Conjunto G, 24 - Ceilandia Norte, Brasília - DF","Casa com 2 Quartos à Venda, 160m²",,,,,,-15.7983097,-48.1210452
+605000,0,44,1,2,1,0,"Zona Industrial, Brasília - DF","Loft com Quarto à Venda, 44m²",Piscina,Churrasqueira,Elevador,Varanda,Salão de festas,-22.1337065,-51.3827222
+245000,0,24,1,1,0,0,"STN, 01 - Asa Norte, Brasília - DF","Kitnet/Conjugado com Quarto à Venda, 24m²",Mobiliado,Interfone,Varanda gourmet,,,-15.75895175,-47.917462639648036
+630000,0,70,0,1,1,0,"SEPS 710/910 - Asa Sul, Brasília - DF","Ponto comercial/Loja/Box à Venda, 70m²",,,,,,-15.81282895,-47.91175846962321
+790000,0,340,4,3,2,0,"Condomínio Verde, 0 - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 340m²",Piscina,Quadra poliesportiva,Escritório,Varanda,Jardim,-15.870581,-47.7603519
+2450000,0,345,4,4,0,0,"CA 6 - Lago Norte, Brasília - DF","Casa com 4 Quartos à Venda, 345m²",Piscina,Churrasqueira,Varanda,Quintal,Ar-condicionado,-15.7144321,-47.8863363
+600000,733,54,2,1,2,0,"CA 9, 2 - Lago Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 54m²",Elevador,Condomínio fechado,Ar-condicionado,Bicicletário,Portaria 24h,-15.7126955,-47.8877371
+9900000,0,1950,4,10,10,0,"SHIN QL 4, 1 - Lago Norte, Brasília - DF","Casa com 4 Quartos à Venda, 1950m²",Piscina,Espaço verde / Parque,Circuito de segurança,Sala de massagem,Gramado,-15.7645604,-47.83385957090094
+385000,330,60,2,1,1,0,"QI 6 - Guara I, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",Interfone,,,,,-15.8162862,-47.9868998858625
+4000000,0,981475000,3,2,2,0,"Incra 7, 01 - Brazlândia, Brasília - DF","Chácara com 3 Quartos à Venda, 981475000m²",,,,,,-15.7423211,-48.1712508
+480000,100,85,2,2,0,0,"SCRN 708/709 Bloco G - Asa Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 85m²",Área de serviço,Perto de vias de acesso,Próximo a escola,Próximo a hospitais,Próximo a shopping,-15.7635082,-47.89272304303333
+545000,0,169,4,3,0,0,"Quadra 18 Conjunto C, 0 - Sobradinho, Brasília - DF","Casa com 4 Quartos à Venda, 169m²",,,,,,-15.6441514,-47.767815
+984000,360,190,3,2,2,0,"Condomínio Ouro Vermelho II, 0 - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 190m²",Mobiliado,Churrasqueira,Varanda,Ar-condicionado,Jardim,-15.8842135,-47.7653148
+330000,0,524,0,0,0,0,"Condomínio Belvedere Green, 01 - Setor Habitacional Jardim Botânico, Brasília - DF","Lote/Terreno à Venda, 524m²",,,,,,-15.869578,-47.7601597
+2450000,700,410,4,7,3,0,"SMPW Quadra 17 - Park Way , Brasília - DF","Casa com 4 Quartos à Venda, 410m²",Piscina,Churrasqueira,Varanda,Quintal,Ar-condicionado,-15.9346649,-47.9433727
+249994,370,53,2,1,1,0,"Setor Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 53m²",Churrasqueira,Elevador,Salão de jogos,Salão de festas,,-16.0245609,-48.0712242
+750000,0,310,4,4,4,0,"Condomínio Belvedere Green - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 310m²",Garagem,Cozinha,Jardim,Quadra poliesportiva,,-15.869578,-47.7601597
+670000,813,78,2,3,2,0,"Quadra 206, 4 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 78m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.84247195,-48.023488650000004
+325000,232,50,2,1,1,0,"Quadra QC 8 - Jardins Mangueiral, Brasília - DF","Apartamento com 2 Quartos à Venda, 50m²",Churrasqueira,Ar-condicionado,Área de serviço,Playground,Armário embutido,-15.886955149999999,-47.81671757592623
+423000,455,68,2,2,0,0,"SCRN 702/703 - Asa Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 68m²",Interfone,Armário na cozinha,Área de serviço,,,-15.7644886,-47.8937134
+270000,390,32,1,1,1,0,"Rua 37 - Sul, Brasília - DF","Apartamento com Quarto à Venda, 32m²",Piscina,Salão de festas,Academia,,,-15.8355428,-48.0396966
+660000,500,83,3,2,1,0,"Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 83m²",,,,,,-15.8419933,-48.0281208
+14000000,0,10000,0,0,0,0,"Área Especial para Indústria 10, 4 - Sobradinho, Brasília - DF","Lote/Terreno à Venda, 10000m²",,,,,,-15.664846,-47.80208361975788
+360000,0,200,4,3,3,0,"Quadra 602, 1 - Recanto das Emas, Brasília - DF","Casa com 4 Quartos à Venda, 200m²",Varanda,Aceita animais,Área de serviço,Varanda gourmet,Cozinha grande,-15.9155959,-48.0563825
+1500000,0,422,0,9,0,0,"QNM 9 - Ceilandia Sul, Brasília - DF","Prédio/Edificio inteiro à Venda, 422m²",,,,,,-15.837057900000001,-48.09601191294405
+1695000,200,500,5,6,3,0,"SMPW Quadra 8 - Park Way , Brasília - DF","Casa com 5 Quartos à Venda, 500m²",,,,,,-15.9063378,-47.9561661
+660000,791,122,3,3,1,0,"Rua 33 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 122m²",Churrasqueira,Segurança 24h,Piscina,Salão de festas,,-15.8357908,-48.0352277
+330000,0,390,0,0,0,0,"Quadras Economicas Lucio Costa, Brasília - DF","Lote/Terreno à Venda, 390m²",,,,,,-15.8091103,-47.9875963
+1350000,1,300,4,5,2,0,"QSB 9, 18 - Taguatinga, Brasília - DF","Casa com 4 Quartos à Venda, 300m²",Aceita animais,Varanda gourmet,,,,-15.8395949,-48.0558549
+1180000,320,220,4,5,3,0,"Chácara 118, 10 - Vicente Pires, Brasília - DF","Casa com 4 Quartos à Venda, 220m²",Piscina,Churrasqueira,Condomínio fechado,Aceita animais,Jardim,-15.7941855,-48.0525366
+565000,0,350,4,4,3,0,"Quadra 2, 0 - Sobradinho, Brasília - DF","Casa com 4 Quartos à Venda, 350m²",,,,,,-15.6569446,-47.79423607391193
+960000,726,114,3,3,2,0,"Rua 4 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 114m²",Piscina,Churrasqueira,Academia,Espaço gourmet,Salão de festas,-15.8319307,-48.012041
+2850000,0,515,4,5,8,0,"SHIN QI 10 - Lago Norte, Brasília - DF","Casa com 4 Quartos à Venda, 515m²",Piscina,Churrasqueira,Varanda,Quintal,Ar-condicionado,-15.7455199,-47.8537157
+550000,1029,100,3,3,1,0,"Quadra 104 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 100m²",,,,,,-15.7885753,-47.8918962
+249000,0,68,2,1,1,0,"Rua 4A, 1 - Vicente Pires, Brasília - DF","Apartamento com 2 Quartos à Venda, 68m²",Churrasqueira,Elevador,Varanda,Área de serviço,Varanda gourmet,-15.8181029,-48.0159744
+249000,1,160,3,2,3,0,"QNQ 2 Conjunto 8, 2 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 160m²",Portão eletrônico,Aceita animais,,,,-15.8055344,-48.1415733
+1500000,1450,124,3,2,2,0,"SQN 208 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 124m²",Piscina,Churrasqueira,Elevador,Ar-condicionado,Área de serviço,-15.7624193,-47.8823179
+360000,300,60,1,1,1,0,"Rua 19, 1502 - Sul, Brasília - DF","Apartamento com Quarto à Venda, 60m²",Piscina,Espaço gourmet,Garagem,Playground,Cozinha,-16.0497854,-47.9963252
+155000,0,135,2,2,1,0,"QN 8E, 16 - Riacho Fundo II, Brasília - DF","Casa com 2 Quartos à Venda, 135m²",Aceita animais,,,,,-15.9009939,-48.0456838
+310000,300,52,2,2,1,0,"QI, 24 - Setor Industrial, Brasília - DF","Apartamento com 2 Quartos à Venda, 52m²",Churrasqueira,Academia,Espaço gourmet,Playground,Salão de festas,-16.0192947,-48.0618019
+615000,583,87,3,3,2,0,"Rua Buriti - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 87m²",Piscina,Churrasqueira,Academia,Playground,Piscina infantil,-15.7975687,-47.894039
+2490000,1900,246,4,2,0,0,"SQS 114 - Asa Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 246m²",,,,,,-15.81665745,-47.88876239998757
+320000,370,42,1,1,1,0,"Rua 18 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 42m²",Academia,Salão de festas,Interfone,Sistema de alarme,Circuito de segurança,-15.8383238,-48.0231138
+200000,0,200,5,5,0,0,"QR 310, 1 - Santa Maria, Brasília - DF","Casa com 5 Quartos à Venda, 200m²",Aceita animais,,,,,-16.0214782,-48.0178258
+259000,468,64,3,2,1,0,"QNO 12, 7 - Ceilândia, Brasília - DF","Apartamento com 3 Quartos à Venda, 64m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-15.7951082,-48.132431
+400000,400,56,2,2,0,0,"CA 5, 1 - Lago Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 56m²",Elevador,Jardim,,,,-15.7191704,-47.8849496
+350000,0,210,5,3,3,0,"Rua 4 - Setor Tradicional, Brasília - DF","Casa com 5 Quartos à Venda, 210m²",Cozinha,,,,,-15.6839892,-48.2034391
+1390000,1090,178,3,2,0,0,"SQS 108, 2 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 178m²",,,,,,-15.8169739,-47.904253
+370000,510,1000,0,0,0,0,"Condomínio Ouro Vermelho I - Setor Habitacional Jardim Botânico, Brasília - DF","Lote/Terreno à Venda, 1000m²",,,,,,-15.8710715,-47.7661508
+1000000,740,98,3,2,1,0,"SQS 411, 204 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 98m²",Elevador,Bicicletário,Portão eletrônico,Portaria 24h,Aceita animais,-15.8284981,-47.9064243
+335000,250,65,2,2,1,0,"QNM 12 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 65m²",Churrasqueira,Academia,Espaço gourmet,Salão de festas,Conexão à internet,-15.8136622,-48.1041217
+600000,0,230,3,1,5,0,"QMS 60, 01 - Setor de Mansões de Sobradinho, Brasília - DF","Casa com 3 Quartos à Venda, 230m²",Churrasqueira,Ar-condicionado,Jardim,Varanda gourmet,Espaço verde / Parque,-15.6250292,-47.8363304
+2300000,0,20000,1,1,0,0,"Condomínio São Mateus, 79 - Setor Habitacional Jardim Botânico, Brasília - DF","Imóvel comercial com Quarto à Venda, 20000m²",Jardim,,,,,-15.8672513,-47.7768176
+2700000,0,65000,3,5,1,0,"Incra 7 - Brazlândia, Brasília - DF","Fazenda/Sítio/Chácara com 3 Quartos à Venda, 65000m²",Churrasqueira,Salão de festas,Jardim,Sauna,Área de serviço,-15.7423211,-48.1712508
+205000,1,56,2,1,1,0,"QNN 11, 11 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 56m²",Elevador,Condomínio fechado,Aceita animais,Playground,Quadra poliesportiva,-15.819748,-48.1150062
+2140000,0,584,5,7,8,0,"SHIN QI 1 - Lago Norte, Brasília - DF","Casa com 5 Quartos à Venda, 584m²",Piscina,Varanda,Quintal,Área de serviço,Escritório,-15.7209528,-47.8766865
+1990000,300,2000,10,10,20,0,"Rua das Araras, 12 - Centro, Alto Paraíso de Goiás - GO","Casa com 10 Quartos à Venda, 2000m²",Armário na cozinha,Varanda,,,,-14.1357841,-47.5173497
+150000,0,210,2,2,1,0,"Del Lago II, Brasília - DF","Casa com 2 Quartos à Venda, 210m²",,,,,,-15.7429489,-47.76631190233408
+350000,0,150,3,2,3,0,"Quadra 103 - Recanto das Emas, Brasília - DF","Casa com 3 Quartos à Venda, 150m²",Cozinha,Lavanderia,TV a cabo,Área de serviço,,-15.9110152,-48.0518735
+160000,0,55,2,1,0,0,"Riacho Fundo I, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",,,,,,-15.883305,-48.0174762
+1630000,1022,212,4,3,2,0,"Rua 36 - Norte, Brasília - DF","Cobertura com 4 Quartos à Venda, 212m²",Churrasqueira,Academia,Espaço gourmet,Playground,Salão de festas,-15.8342893,-48.0369754
+670000,520,250,4,3,2,0,"Condomínio Belvedere Green, 0 - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 250m²",Varanda,Jardim,,,,-15.869578,-47.7601597
+550000,0,0,0,0,0,0,"QNP 9, 1 - Ceilandia Norte, Brasília - DF","Prédio/Edificio inteiro à Venda, 0m²",,,,,,-15.8157803,-48.1276978
+295000,0,300,6,4,0,0,"QR 315 - Santa Maria, Brasília - DF","Casa com 6 Quartos à Venda, 300m²",,,,,,-16.0090938,-47.997276
+740000,0,400,4,3,2,0,"Vila Sao Jose, Brasília - DF","Casa com 4 Quartos à Venda, 400m²",Churrasqueira,Piscina,,,,-15.66300935,-48.195296860346424
+650000,0,300,5,6,4,0,"QN 7 Conjunto 3, 0 - Riacho Fundo I, Brasília - DF","Apartamento com 5 Quartos à Venda, 300m²",,,,,,-15.8839042,-48.0217692
+1300000,0,737,0,5,0,0,"Avenida São Paulo, 0 - Setor Tradicional, Planaltina - DF","Prédio/Edificio inteiro à Venda, 737m²",,,,,,-15.617448,-47.656265
+305000,420,68,2,1,1,0,"QNN 11 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 68m²",Academia,Salão de festas,Conexão à internet,Interfone,Circuito de segurança,-15.8190255,-48.1151953
+1049000,579,95,2,2,0,0,"SQS 103, * - Asa Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 95m²",Salão de festas,Interfone,Jardim,Elevador,,-15.8059174,-47.8916185
+115000,0,30,1,1,0,0,"Rua 1, 00 - Guara I, Brasília - DF","Apartamento com Quarto à Venda, 30m²",,,,,,-16.2145055,-47.9179676
+71000,1,135,2,1,2,0,"QNP 36 Conjunto A, 14 - Ceilândia, Brasília - DF","Casa com 2 Quartos à Venda, 135m²",,,,,,-15.8515857,-48.1182528
+3100000,0,740,5,1,8,0,"SHIN QI 10 Conjunto 1, 01 - Lago Norte, Brasília - DF","Casa com 5 Quartos à Venda, 740m²",Churrasqueira,Ar-condicionado,Jardim,Varanda gourmet,Espaço verde / Parque,-15.7426225,-47.8548151
+210000,0,90,3,1,2,0,"QNP 21 Conjunto J, 10 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 90m²",,,,,,-15.8080109,-48.1379918
+1250000,1,142,4,4,3,0,"Quadra 201, 54 - Aguas Claras, Brasília - DF","Apartamento com 4 Quartos à Venda, 142m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-15.8382296,-48.0109902
+985000,0,190,3,3,2,0,"Condomínio Ouro Vermelho II - Setor Habitacional Jardim Botânico, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 190m²",Closet,Sala de jantar,,,,-15.8842135,-47.7653148
+155000,1,135,3,1,1,0,"QNP 22, 22 - Ceilandia Sul, Brasília - DF","Casa com 3 Quartos à Venda, 135m²",,,,,,-15.8379716,-48.1239165
+790000,0,1000,0,15,0,0,"QNN 23 Conjunto C - Ceilandia Norte, Brasília - DF","Prédio/Edificio inteiro à Venda, 1000m²",,,,,,-15.8093976,-48.121229
+479000,1,250,4,3,5,0,"QNM 5 Conjunto E, 22 - Ceilândia, Brasília - DF","Casa com 4 Quartos à Venda, 250m²",Churrasqueira,Portão eletrônico,,,,-15.8287533,-48.1017048
+3955000,2634,396,3,6,4,0,"SQN 305 - Asa Norte, Brasília - DF","Cobertura com 3 Quartos à Venda, 396m²",Closet,Sala de jantar,,,,-15.773152,-47.8864734
+150000,320,45,2,1,1,0,"Avenida Monumental - Santa Maria, Brasília - DF","Apartamento com 2 Quartos à Venda, 45m²",Churrasqueira,Interfone,Piscina,Quadra poliesportiva,,-15.7802001,-47.9290636
+830000,940,166,4,4,2,0,"Quadra 202 - Sul, Brasília - DF","Apartamento com 4 Quartos à Venda, 166m²",Elevador,Área de serviço,Varanda gourmet,Escritório,Cozinha,-15.80911815,-47.88025814716963
+310000,350,41,1,1,1,0,"Rua 7 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 41m²",,,,,,-15.8347603,-48.0135679
+890000,756,106,3,1,1,0,"Rua 28 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 106m²",Churrasqueira,Academia,Espaço gourmet,Playground,Varanda gourmet,-15.8375045,-48.0311725
+595000,0,200,3,3,4,0,"Quadra 6, 1 - Setor Central, Brasília - DF","Casa com 3 Quartos à Venda, 200m²",Varanda gourmet,,,,,-15.7909824,-48.1494751
+300000,0,110,3,2,4,0,"QNN 3, 24 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 110m²",Aceita animais,Área de serviço,Armário embutido,Armário na cozinha,Armário no banheiro,-15.815268249999999,-48.11324300093898
+645000,610,81,3,2,2,0,"Quadra 102, 0 - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 81m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8320849,-48.0128718
+3000000,2100,414,5,6,4,0,"Avenida Pau Brasil, 20 - Aguas Claras, Brasília - DF","Apartamento com 5 Quartos à Venda, 414m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.843232350000001,-48.02711861781455
+1100000,0,284,4,5,1,0,"SHIGS 707 - Asa Sul, Brasília - DF","Casa com 4 Quartos à Venda, 284m²",Varanda,Área de serviço,,,,-15.8094173,-47.9037404
+550000,0,260,4,4,5,0,"QNP 20 Conjunto C, 0 - Ceilandia Sul, Brasília - DF","Casa com 4 Quartos à Venda, 260m²",Área de serviço,Aceita animais,,,,-15.8481103,-48.1109755
+1180000,650,108,3,2,0,0,"SQS 215, 608 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 108m²",Salão de festas,Interfone,Circuito de segurança,Conexão à internet,,-15.82347055,-47.89680695155518
+1800000,1000,145,3,3,1,0,"SQS 202, 0 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 145m²",Acesso para deficientes,Elevador,Condomínio fechado,Aceita animais,Closet,-15.8058593,-47.8874383
+300000,0,250,3,2,4,0,"QNN 3, 0 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 250m²",,,,,,-15.815169,-48.1129645
+219000,0,35,0,1,0,0,"Setor Central, Brasília - DF","Sala/Conjunto à Venda, 35m²",,,,,,-16.0124092,-48.0617943
+995000,0,512,0,0,0,0,"QE 40 Conjunto M - Guara II, Brasília - DF","Prédio/Edificio inteiro à Venda, 512m²",,,,,,-15.8449556,-47.984620584115916
+2780000,0,600,5,7,4,0,"SHIN QI 14 Conjunto 6, 0 - Lago Norte, Brasília - DF","Casa com 5 Quartos à Venda, 600m²",Piscina,Churrasqueira,Varanda,Quintal,Ar-condicionado,-15.7593552,-47.8386328
+1300000,689,110,3,3,1,0,"SQN 303 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 110m²",Garagem,Segurança 24h,Cozinha,Vigia,,-15.7742506,-47.8863282
+750000,0,360,0,5,0,0,"QE 38 - Guara II, Brasília - DF","Imóvel comercial à Venda, 360m²",,,,,,-15.8462293,-47.9701931
+260000,0,68,3,2,0,0,"Taguatinga Centro, Brasília - DF","Apartamento com 3 Quartos à Venda, 68m²",Elevador,,,,,-15.8335277,-48.0565716
+230000,0,100,2,2,1,0,"QNN 4 Conjunto K - Ceilandia Sul, Brasília - DF","Casa com 2 Quartos à Venda, 100m²",,,,,,-15.8237048,-48.1093561
+260000,0,60,2,1,0,0,"QNN 14, 1 - Ceilandia Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",,,,,,-15.8270149,-48.1099342
+1200000,0,0,0,0,0,0,"QNM 8 Conjunto P, 1 - Ceilandia Norte, Brasília - DF","Prédio/Edifício inteiro à Venda, 0m²",,,,,,-15.8007061,-48.1139834
+300000,0,200,0,1,0,0,"QE 40 Conjunto J, 7 - Guara II, Brasília - DF","Ponto comercial/Loja/Box à Venda, 200m²",,,,,,-15.84423975,-47.98443122047934
+355000,0,41,1,1,1,0,"Rua 25 - Sul, Brasília - DF","Apartamento com Quarto à Venda, 41m²",Mobiliado,Academia,Salão de festas,Salão de jogos,Segurança 24h,-15.8442632,-48.0299363
+295000,0,53,2,2,2,0,"QI - Setor Industrial, Brasília - DF","Apartamento com 2 Quartos à Venda, 53m²",Piscina,Churrasqueira,Área de serviço,Quadra poliesportiva,Cozinha,-16.0003014,-48.0566635
+265000,0,159,2,3,2,0,"Rua 70 - Centro, Brasília - DF","Casa com 2 Quartos à Venda, 159m²",Garagem,Cozinha,,,,-15.9029016,-47.7674331
+1300000,0,545,16,16,0,0,"QNN 22 Conjunto H, 0 - Ceilandia Sul, Brasília - DF","Prédio/Edifício inteiro com 16 Quartos à Venda, 545m²",,,,,,-15.8333911,-48.1097259
+330000,438,59,1,1,1,0,"Quadra 2 Conjunto A - Sobradinho, Brasília - DF","Apartamento com Quarto à Venda, 59m²",Interfone,Circuito de segurança,,,,-15.6852308,-47.8343681
+1900000,0,50000,0,0,0,0,"Incra 6 - Brazlândia, Brasília - DF","Lote/Terreno à Venda, 50000m²",Sistema de alarme,,,,,-15.7423211,-48.1712508
+330000,0,59,2,1,2,0,"Rodovia DF-150 - Sobradinho, Brasília - DF","Casa de condomínio com 2 Quartos à Venda, 59m²",Condomínio fechado,Cozinha,Área de serviço,,,-15.6855482,-47.8491675
+500000,0,22266,4,5,0,0,"Samambaia, Brasília - DF","Chácara com 4 Quartos à Venda, 22266m²",Quintal,Área de serviço,Perto de vias de acesso,Cozinha,Depósito,-15.8769989,-48.0881004
+520000,477,75,2,2,2,0,"Rua 36, 9 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 75m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8354388,-48.0379526
+6000000,0,833,0,0,0,0,"SHIS QL 12 Conjunto 8 - Lago Sul, Brasília - DF","Lote/Terreno à Venda, 833m²",,,,,,-15.8321115,-47.8622619
+195000,220,34,1,1,0,0,"CLN 3 Bloco B - Riacho Fundo I, Brasília - DF","Apartamento com Quarto à Venda, 34m²",,,,,,-15.88086435,-48.01206795
+64900,0,45,2,1,0,0,"QR 403, 1 - Samambaia, Brasília - DF","Apartamento com 2 Quartos à Venda, 45m²",Condomínio fechado,Salão de festas,,,,-15.87023455,-48.097089936331926
+240000,0,135,4,1,2,0,"QNP 34 Conjunto E, 00 - Ceilandia Sul, Brasília - DF","Casa com 4 Quartos à Venda, 135m²",Garagem,,,,,-15.8491232,-48.1165959
+60000,1,135,4,2,3,0,"QR 431, 13 - Samambaia, Brasília - DF","Casa com 4 Quartos à Venda, 135m²",,,,,,-15.893498350000002,-48.1441157891153
+1500000,50,545,1,1,0,0,"QNN 22 Conjunto H - Ceilandia Sul, Brasília - DF","Imóvel comercial com Quarto à Venda, 545m²",Garagem,Cozinha,,,,-15.8333911,-48.1097259
+255000,165,60,2,2,0,0,"Praça Central - Núcleo Bandeirante, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",Cozinha,Interfone,Área de serviço,,,-15.8722091,-47.9668032216406
+630000,630,96,3,3,1,0,"Rua 21 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 96m²",Academia,Varanda gourmet,Salão de festas,Conexão à internet,Interfone,-15.8396929,-48.0258863
+360000,0,250,7,5,3,0,"QNM 36 Conjunto E - Taguatinga Norte, Brasília - DF","Casa com 7 Quartos à Venda, 250m²",Acesso para deficientes,Cozinha americana,Escada,Janela grande,Laje,-15.8058213,-48.0968718
+500000,645,70,3,1,1,0,"Rua 8 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 70m²",Piscina,Churrasqueira,Academia,Playground,Piscina infantil,-15.8354434,-48.0146074
+699999,0,230,7,4,5,0,"QNN 8 Conjunto P, 0 - Ceilandia Sul, Brasília - DF","Casa com 7 Quartos à Venda, 230m²",Aceita animais,,,,,-15.8381735,-48.1024081
+320000,0,143,3,2,3,0,"QNM 4 Conjunto A - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 143m²",Garagem,Cozinha,Circuito de segurança,Próximo a shopping,Próximo a shopping,-15.8095472,-48.1090504
+280000,178,38,1,1,1,0,"Rua 36 - Aguas Claras, Brasília - DF","Apartamento com Quarto à Venda, 38m²",Elevador,Interfone,Sistema de alarme,,,-15.8354388,-48.0379526
+250000,0,28,0,1,0,0,"CLN 114 - Asa Norte, Brasília - DF","Ponto comercial/Loja/Box à Venda, 28m²",,,,,,-15.7635831,-47.8910337
+630000,0,225,0,0,0,0,"Rua 1 - Vila da Telebrasilia, Brasília - DF","Lote/Terreno à Venda, 225m²",,,,,,-15.8473897,-47.9243763
+445000,500,53,2,2,1,0,"Rua 36 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 53m²",Churrasqueira,Academia,Espaço gourmet,Playground,Salão de festas,-15.8363249,-48.0386728
+570000,0,800,2,2,3,0,"Regiao dos Lagos, Brasília - DF","Casa com 2 Quartos à Venda, 800m²",,,,,,-29.366503,-50.8804004
+1100000,1160,146,3,5,2,0,"Rua 26 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 146m²",Piscina,Churrasqueira,Varanda,Academia,Espaço gourmet,-15.8357602,-48.0302005
+380000,0,160,6,3,3,0,"QNM 34 - Taguatinga Norte, Brasília - DF","Casa com 6 Quartos à Venda, 160m²",,,,,,-15.80692275,-48.092963220660074
+520000,0,129,3,2,0,0,"QS 6 - Riacho Fundo I, Brasília - DF","Casa com 3 Quartos à Venda, 129m²",,,,,,-15.8859801,-48.0189727940443
+190000,0,31,0,0,1,0,"Quadra 205, 01 - Sul, Brasília - DF","Sala/Conjunto à Venda, 31m²",,,,,,-15.81665745,-47.88876239998757
+1310000,1100,142,3,3,2,0,"Quadra 210 - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 142m²",Churrasqueira,Academia,Espaço gourmet,Playground,Salão de festas,-15.8164668,-47.8893775
+6500000,0,3600,0,0,0,0,"SMDB Conjunto 28-A - Lago Sul, Brasília - DF","Lote/Terreno à Venda, 3600m²",Condomínio fechado,,,,,-15.8527747,-47.8190674
+380000,0,135,3,3,3,0,"QNP 30, 1 - Ceilandia Sul, Brasília - DF","Sobrado com 3 Quartos à Venda, 135m²",,,,,,-15.8393604,-48.1112012
+290000,0,32,0,0,0,0,"Avenida das Castanheiras - Aguas Claras, Brasília - DF","Ponto comercial/Loja/Box à Venda, 32m²",Garagem,Academia,,,,-15.8356954,-48.0193797
+2200000,0,485,5,4,0,0,"Rodovia DF-001 - Santa Maria, Brasília - DF","Chácara com 5 Quartos à Venda, 485m²",Churrasqueira,Condomínio fechado,Piscina,,,-16.0339988,-47.9789881
+869000,0,400,5,3,2,0,"QE 3 - Guara I, Brasília - DF","Casa com 5 Quartos à Venda, 400m²",Piscina,Quintal,Área de serviço,,,-15.8269237,-47.9830297
+230000,0,135,3,2,2,0,"QNP 30 Conjunto G, 31 - Ceilandia Sul, Brasília - DF","Casa com 3 Quartos à Venda, 135m²",,,,,,-15.8444385,-48.1196917
+375000,0,53,2,1,1,0,"Quadra 107 Rua A, 0 - Aguas Claras, Águas Claras - DF","Apartamento com 2 Quartos à Venda, 53m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-15.829909,-48.0328676
+279900,0,28,1,1,1,0,"Area Octogonal, Brasília - DF","Apartamento com Quarto à Venda, 28m²",,,,,,-15.80904045,-47.94191845052263
+1360000,0,800,0,0,0,0,"Setor Placa da Mercedes, Brasília - DF","Galpão/Depósito/Armazém à Venda, 800m²",,,,,,-15.877815550000001,-47.9945415678689
+260000,0,75,3,1,3,0,"QNN 9 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 75m²",,,,,,-15.80171915,-48.12081235265592
+635000,760,80,2,2,1,0,"Rua 22 - Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 80m²",Churrasqueira,Academia,Espaço gourmet,Salão de festas,Quadra poliesportiva,-15.8395763,-48.0267572
+8900000,0,1900,5,8,30,0,"SHIN QL 4 Conjunto 7, 01 - Lago Norte, Brasília - DF","Casa com 5 Quartos à Venda, 1900m²",,,,,,-15.7350954,-47.8758459
+799994,0,255,5,6,3,0,"Candangolândia, Brasília - DF","Casa de condomínio com 5 Quartos à Venda, 255m²",,,,,,-15.87174755,-47.91172169662855
+290000,0,65,0,1,0,0,"CA 5, 0 - Lago Norte, Brasília - DF","Ponto comercial/Loja/Box à Venda, 65m²",,,,,,-15.7191704,-47.8849496
+850000,570,77,3,2,0,0,"SQN 415 - Asa Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 77m²",Salão de festas,Circuito de segurança,,,,-15.73700375,-47.88166437160953
+2000000,0,250,5,4,0,0,"SHA Conjunto 4 - Aguas Claras, Brasília - DF","Casa com 5 Quartos à Venda, 250m²",,,,,,-15.8563237,-47.9941861
+170000,0,55,2,1,0,0,"Grande Colorado, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",,,,,,-15.6726217,-47.8416977
+378000,0,39,0,1,1,0,"SGAN 915 - Asa Norte, Brasília - DF","Sala/Conjunto à Venda, 39m²",Elevador,Interfone,Varanda,,,-15.7647063,-47.8952542
+370000,298,41,1,1,1,0,"Rua 5 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 41m²",Churrasqueira,Academia,Espaço gourmet,Salão de festas,Interfone,-15.8352745,-48.0120243
+470000,450,65,2,1,1,0,"Quadra 103, 0 - Aguas Claras, Brasília - DF","Apartamento com 2 Quartos à Venda, 65m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8333149,-48.0167113
+1599994,0,748,15,4,4,0,"Vila Planalto , Brasília - DF","Casa de condomínio com 15 Quartos à Venda, 748m²",Salão de festas,,,,,-15.79268,-47.850277
+550000,490,62,2,2,2,0,"Quadra 208 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 62m²",Garagem,Cozinha,Academia,Piscina,Sauna,-15.82281985,-47.89545618828765
+1100000,0,25000,4,5,0,0,"Rodovia DF-001 - Lago Norte, Brasília - DF","Fazenda/Sítio/Chácara com 4 Quartos à Venda, 25000m²",Condomínio fechado,,,,,-15.6889318,-47.8607744
+299000,0,33,0,0,0,0,"CA 5, 5 - Lago Norte, Brasília - DF","Ponto comercial/Loja/Box à Venda, 33m²",Piscina,Churrasqueira,Elevador,Academia,Jardim,-15.7191704,-47.8849496
+550000,550,73,3,2,1,0,"Rua 17, 1 - Aguas Claras, Brasília - DF","Apartamento com 3 Quartos à Venda, 73m²",Churrasqueira,Elevador,Condomínio fechado,Academia,Espaço gourmet,-15.84093715,-48.01792736245497
+300000,1,250,3,1,5,0,"QNN, 2 - Ceilândia, Brasília - DF","Casa com 3 Quartos à Venda, 250m²",,,,,,-15.8029146,-48.1230267
+450000,0,71,2,1,0,0,"SCRN 708/709 Bloco H - Asa Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 71m²",,,,,,-15.76367565,-47.89328134395585
+230000,420,55,2,2,1,0,"QNM 18 Conjunto F - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",Churrasqueira,Academia,Espaço gourmet,Salão de festas,Interfone,-15.8129216,-48.1001046
+93000,0,110,2,1,0,0,"Cidade Nova, Brasília - DF","Casa com 2 Quartos à Venda, 110m²",,,,,,-18.0056919,-39.8654721
+370000,415,46,1,1,1,0,"Rua 37 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 46m²",Churrasqueira,Academia,Espaço gourmet,Playground,Salão de festas,-15.8334945,-48.0380188
+160000,0,135,2,1,2,0,"QNN 7, 9 - Ceilândia, Brasília - DF","Casa com 2 Quartos à Venda, 135m²",Aceita animais,,,,,-15.805655,-48.1189239
+1100000,1100,167,4,5,2,0,"Quadra 205, 10 - Aguas Claras, Águas Claras - DF","Apartamento com 4 Quartos à Venda, 167m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-15.8423553,-48.0214125
+665000,720,75,3,2,2,0,"Quadra 209 - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 75m²",Churrasqueira,Academia,Espaço gourmet,Playground,Salão de festas,-15.82281985,-47.89545618828765
+1130000,934,140,3,4,2,0,"Rua 31 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 140m²",Churrasqueira,Academia,Espaço gourmet,Playground,Varanda gourmet,-15.8366891,-48.0338654
+190000,0,32,0,1,0,0,"STN - Asa Norte, Brasília - DF","Sala/Conjunto à Venda, 32m²",,,,,,-15.75799565,-47.871353931704704
+250000,350,62,2,1,1,0,"QNO 12 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 62m²",Churrasqueira,Academia,Espaço gourmet,Playground,Varanda gourmet,-15.7975393,-48.1182772
+260000,0,50,3,1,0,0,"EQNP 28/32 - Ceilandia Sul, Brasília - DF","Sobrado com 3 Quartos à Venda, 50m²",,,,,,-15.8464298,-48.1224647
+200000,0,35,1,1,0,0,"CLN 314 - Asa Norte, Brasília - DF","Kitnet/Conjugado com Quarto à Venda, 35m²",Cozinha,Interfone,,,,-15.77465175,-47.885249553471
+320000,270,38,1,1,1,0,"Avenida Jacarandá - Sul, Brasília - DF","Apartamento com Quarto à Venda, 38m²",Churrasqueira,Academia,Espaço gourmet,Salão de festas,Conexão à internet,-15.812608699999998,-47.89167366423948
+388000,50,650,3,1,3,0,"Residencial Itaipu, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 650m²",,,,,,-15.8830768,-47.7666502
+210000,280,42,1,1,0,0,"SCRN 712/713 - Asa Norte, Brasília - DF","Apartamento com Quarto à Venda, 42m²",Varanda,Estacionamento para visitantes,Gás Encanado,Box blindex,Ventilação natural,-15.7516397,-47.8962371
+1349877,0,440,6,4,0,0,"QE 26 - Guara II, Brasília - DF","Casa de condomínio com 6 Quartos à Venda, 440m²",Condomínio fechado,,,,,-15.8322124,-47.9840588
+400000,0,150,4,2,4,0,"Setor Norte, Brasília - DF","Casa com 4 Quartos à Venda, 150m²",Garagem,Cozinha,,,,-18.8981145,-48.3022523
+960000,1,420,0,0,0,0,"CSG 2, 6 - Taguatinga, Brasília - DF","Lote/Terreno à Venda, 420m²",Energia elétrica,Rua asfaltada,Rede de água e esgoto,Plano,,-15.8731562,-48.0429538
+270000,0,125,2,1,3,0,"Setor Leste, Brasília - DF","Casa com 2 Quartos à Venda, 125m²",Garagem,Cozinha,,,,-15.1692658,-48.2765669
+580000,0,980,27,27,0,0,"QNN 5 Conjunto B, 41 - Ceilandia Norte, Brasília - DF","Prédio/Edifício inteiro com 27 Quartos à Venda, 980m²",,,,,,-15.8079853,-48.1149164
+650000,0,300,5,4,3,0,"QN 7 Conjunto 22 - Riacho Fundo I, Brasília - DF","Casa com 5 Quartos à Venda, 300m²",,,,,,-15.8805624,-48.020676
+260000,120,60,2,1,3,0,"Sao Gabriel, Brasília - DF","Casa de condomínio com 2 Quartos à Venda, 60m²",,,,,,-15.893636449999999,-47.76225122540019
+525000,0,140,3,3,0,0,"Quadra 5 Conjunto F - Sobradinho, Brasília - DF","Casa com 3 Quartos à Venda, 140m²",Cozinha,Quintal,Área de serviço,,,-15.6481229,-47.8097932
+500000,0,576,0,3,0,0,"Planaltina, Planaltina - DF","Prédio/Edifício inteiro à Venda, 576m²",,,,,,-23.0228724,-52.9160307
+220000,0,55,2,1,1,0,"Taguatinga, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",,,,,,-15.8335277,-48.0565716
+430000,450,60,2,2,1,0,"Rua 37, 16 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.815195249999999,-47.87958617188626
+1670000,1300,150,3,4,1,0,"SQS 311, 0 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 150m²",,,,,,-15.8203526,-47.91328
+1300000,270,290,3,5,4,0,"Vicente Pires, Brasília - DF","Casa de condomínio com 3 Quartos à Venda, 290m²",,,,,,-15.8135709,-48.0156045
+695000,0,250,0,0,0,0,"QNM 3 Conjunto M - Ceilandia Sul, Brasília - DF","Lote/Terreno à Venda, 250m²",,,,,,-15.8228072,-48.1023937
+285000,368,31,1,1,1,0,"SCRN 708/709 Bloco D - Asa Norte, Brasília - DF","Apartamento com Quarto à Venda, 31m²",Mobiliado,Armário na cozinha,Varanda,,,-15.76400995,-47.8931737
+330000,448,60,2,2,1,0,"QNN 34 - Ceilandia Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",Churrasqueira,Academia,Espaço gourmet,Varanda gourmet,Salão de festas,-15.8420892,-48.1068785
+670000,0,255,5,4,5,0,"Quadra 17 Conjunto C - Sobradinho, Brasília - DF","Casa de condomínio com 5 Quartos à Venda, 255m²",Condomínio fechado,Depósito,Quintal,Área de serviço,,-15.641731,-47.773858
+1400000,0,1532,0,0,0,0,"Rodovia BR-020 - Sobradinho, Brasília - DF","Lote/Terreno à Venda, 1532m²",,,,,,-15.6704278,-47.8163957
+1100000,0,273,0,0,0,0,"SCS Quadra, 6 - Centro, Brasília - DF","Sala/Conjunto à Venda, 273m²",,,,,,-15.7968382,-47.890925
+9500000,0,1083,5,9,4,0,"SMDB Conjunto 24, 01 - Lago Sul, Brasília - DF","Casa com 5 Quartos à Venda, 1083m²",,,,,,-15.8523218,-47.8388667
+400000,0,1000,0,0,0,0,"Vila Nova, Brasília - DF","Lote/Terreno à Venda, 1000m²",,,,,,-3.6526319,-56.7968542
+98695,0,36,1,1,0,0,"QE 12 Área Especial I - Guara I, Brasília - DF","Sala/Conjunto com Quarto à Venda, 36m²",,,,,,-15.840545550000002,-47.98467387458663
+1100000,220,600,4,4,3,0,"Nova Colina, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 600m²",Garagem,,,,,-15.6464226,-47.7596268
+838525,0,275,9,1,0,0,"Quadra 2, 73015 - Sobradinho, Brasília - DF","Apartamento com 9 Quartos à Venda, 275m²",,,,,,-15.6569446,-47.79423607391193
+990000,0,600,0,6,0,0,"Rua 11 - Guara II, Brasília - DF","Prédio/Edifício inteiro à Venda, 600m²",,,,,,-15.8469891,-47.978178
+799877,0,300,4,2,0,0,"QE 34 - Guara II, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 300m²",Condomínio fechado,,,,,-15.8432324,-47.97130630464174
+600000,0,150,0,0,0,0,"Vila Estrutural, Brasília - DF","Lote/Terreno à Venda, 150m²",,,,,,-15.78117555,-47.99784096524596
+382081,0,31,4,1,0,0,"QR 2, 51 - Candangolândia, Brasília - DF","Apartamento com 4 Quartos à Venda, 31m²",,,,,,-15.8510326,-47.9497138
+180000,0,64,0,1,0,0,"Quadra 2 Conjunto A, 25 - Sobradinho, Brasília - DF","Ponto comercial/Loja/Box à Venda, 64m²",,,,,,-15.6852308,-47.8343681
+265000,0,40,0,1,0,0,"SGAS 905 - Asa Sul, Brasília - DF","Sala/Conjunto à Venda, 40m²",Piso de madeira,Estacionamento para visitantes,Hall de entrada,,,-15.804265,-47.9015882
+900000,0,20000,2,2,0,0,"Quadra 9 - Brazlândia, Brazlândia - DF","Fazenda/Sítio/Chácara com 2 Quartos à Venda, 20000m²",Acesso para deficientes,Cozinha grande,Gesso - Sanca - Teto Rebaixado,Sala grande,,-15.6640284,-48.19106025
+210892,0,41,1,1,1,0,"QS 3 - Areal, Brasília - DF","Apartamento com Quarto à Venda, 41m²",,,,,,-15.8638374,-48.0230388
+220000,0,33,0,1,0,0,"SDN - Asa Norte, Brasília - DF","Sala/Conjunto à Venda, 33m²",Ar-condicionado,Elevador,,,,-15.7627976,-47.883951
+170000,0,35,1,1,0,0,"QI 20 - Guara I, Brasília - DF","Kitnet/Conjugado com Quarto à Venda, 35m²",Cozinha,Área de serviço,,,,-15.8217655,-47.983425521849526
+1400000,0,552,0,0,0,0,"Setor de Industrias Bernardo Sayao, Brasília - DF","Prédio/Edificio inteiro à Venda, 552m²",,,,,,-15.8673362,-47.9684005
+3000000,0,520,0,0,0,0,"EQ 48/50 - Gama, Gama - DF","Lote/Terreno à Venda, 520m²",Perto de vias de acesso,Próximo a shopping,Próximo a transporte público,Próximo a escola,Próximo a hospitais,-15.9990407,-48.0556335
+535000,0,390,3,2,3,0,"Ceilândia, Brasília - DF","Sobrado com 3 Quartos à Venda, 390m²",,,,,,-15.8173391,-48.1045766
+330000,0,200,4,3,0,0,"QNP 10 Conjunto V - Ceilandia Sul, Brasília - DF","Casa com 4 Quartos à Venda, 200m²",,,,,,-15.8383482,-48.1166741
+120000,0,2500,0,0,0,0,"CNN, 1 - Ceilândia, Brasília - DF","Lote/Terreno à Venda, 2500m²",,,,,,-15.8212693,-48.1127277
+600000,20,230,3,5,7,0,"Setor de Mansões de Sobradinho, Brasília - DF","Casa com 3 Quartos à Venda, 230m²",Armário na cozinha,Armário embutido,Área de serviço,,,-15.632088750000001,-47.83396505460016
+85000,0,28,0,1,0,0,"QNB 18, 0 - Taguatinga, Brasília - DF","Edifício residencial à Venda, 28m²",,,,,,-15.8174635,-48.0626442
+3900000,0,553,6,7,2,0,"SHIS QI 21 Conjunto 2 - Lago Sul, Brasília - DF","Casa de condomínio com 6 Quartos à Venda, 553m²",Piscina,Churrasqueira,Condomínio fechado,Área de serviço,Escritório,-15.8532334,-47.855318
+4600000,0,10,4,3,0,0,"Incra 6, 01 - Brazlândia, Brasília - DF","Chácara com 4 Quartos à Venda, 10m²",,,,,,-15.7423211,-48.1712508
+1200000,0,990,0,4,10,0,"SES Quadra 3 - Sobradinho, Sobradinho - DF","Galpão/Depósito/Armazém à Venda, 990m²",Ar-condicionado,Muro e grade,Copa,Entrada para caminhões,Estacionamento para visitantes,-15.6530506,-47.809242936378865
+1600000,0,600,0,0,0,0,"Del Lago I, Brasília - DF","Ponto comercial/Loja/Box à Venda, 600m²",,,,,,-15.748777350000001,-47.776173280085494
+878000,0,276,4,4,0,0,"Quadra 5 - Sobradinho, Brasília - DF","Casa com 4 Quartos à Venda, 276m²",Piscina,Churrasqueira,Quintal,Área de serviço,Cozinha,-15.6489998,-47.80822240561085
+450000,0,100,3,2,2,0,"QN 7 Conjunto 26 - Riacho Fundo I, Brasília - DF","Casa com 3 Quartos à Venda, 100m²",Garagem,Cozinha,,,,-15.8797978,-48.0210149
+610000,750,81,3,2,1,0,"Rua Manacá - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 81m²",Piscina,Churrasqueira,Elevador,Academia,Espaço gourmet,-26.4789156,-49.08915999251825
+350000,0,250,1,1,6,0,"QNM 9 Conjunto F, 10 - Ceilandia Sul, Brasília - DF","Lote/Terreno com Quarto à Venda, 250m²",,,,,,-15.8355934,-48.0959021
+370000,0,180,4,2,3,0,"QNP 13 Conjunto F, 23 - Ceilandia Norte, Brasília - DF","Sobrado com 4 Quartos à Venda, 180m²",,,,,,-15.8116944,-48.1276716
+5300000,0,974,7,8,14,0,"SHIS QI 9, 10 - Lago Sul, Brasília - DF","Casa com 7 Quartos à Venda, 974m²",Piscina,Churrasqueira,Varanda,Área de serviço,Escritório,-15.8358374,-47.8767021
+320000,0,27,1,1,0,0,"CA 5, 55 - Lago Norte, Brasília - DF","Kitnet/Conjugado com Quarto à Venda, 27m²",Cozinha,,,,,-15.7191704,-47.8849496
+950000,0,300,4,9,4,0,"Nucleo Rural Santa Maria, Brasília - DF","Casa de condomínio com 4 Quartos à Venda, 300m²",Mais de um andar,Vigia,Copa,Escritório,Área de serviço,-15.7270994,-47.6556444
+4450000,0,686,5,7,4,0,"SHIS QL 10 Conjunto 4, 0 - Lago Sul, Brasília - DF","Casa com 5 Quartos à Venda, 686m²",Piscina,Churrasqueira,Varanda,Quintal,Ar-condicionado,-15.8344441,-47.8813617
+1595000,0,131,3,3,1,0,"SQS 105, 105 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 131m²",Ar-condicionado,Interfone,Lavanderia,Sistema de alarme,Área de serviço,-15.8139652,-47.89960928071284
+205000,0,82,2,2,2,0,"QMS 27, 20 - Setor de Mansões de Sobradinho, Brasília - DF","Casa de condomínio com 2 Quartos à Venda, 82m²",Condomínio fechado,Cozinha,Área de serviço,,,-15.6346026,-47.8287597
+7135000,0,1000,7,5,6,0,"SHIS QI 26 Conjunto 4, 0 - Lago Sul, Brasília - DF","Casa com 7 Quartos à Venda, 1000m²",Piscina,Churrasqueira,Varanda,Ar-condicionado,Área de serviço,-15.8293929,-47.8219481
+280000,323,30,1,1,1,0,"SGAS 905, 0 - Asa Sul, Brasília - DF","Apartamento com Quarto à Venda, 30m²",Condomínio fechado,Jardim,Portaria 24h,Cozinha americana,Acesso para deficientes,-15.804265,-47.9015882
+205000,0,30,1,1,0,0,"SGAS 910 - Asa Sul, Brasília - DF","Kitnet/Conjugado com Quarto à Venda, 30m²",Ar-condicionado,Elevador,Interfone,,,-15.8122757,-47.9117551
+985000,0,383,4,7,6,0,"QE 4 - Guara I, Brasília - DF","Sobrado com 4 Quartos à Venda, 383m²",Churrasqueira,Área de serviço,Varanda gourmet,Cozinha,Depósito,-15.8269237,-47.9830297
+2500000,0,70,1,1,4,0,"Condomínio Belvedere Green, 18 - Setor Habitacional Jardim Botânico, Brasília - DF","Chácara com Quarto à Venda, 70m²",Condomínio fechado,Quadra poliesportiva,Quintal,,,-15.869578,-47.7601597
+120000,0,100,0,2,3,0,"QE 40 Conjunto M, 21 - Guara II, Brasília - DF","Ponto comercial/Loja/Box à Venda, 100m²",Ar-condicionado,Interfone,Mobiliado,Sistema de alarme,Escritório,-15.8449556,-47.984620584115916
+1400000,0,513,0,0,0,0,"Varjão, Brasília - DF","Prédio/Edificio inteiro à Venda, 513m²",Condomínio fechado,Cozinha,,,,-15.710824,-47.8763338
+530000,650,81,2,2,1,0,"Quadra 204, 1 - Sul, Brasília - DF","Apartamento com 2 Quartos à Venda, 81m²",Piscina,Elevador,Área de serviço,Quadra poliesportiva,Escritório,-15.84093715,-48.01792736245497
+1700000,0,1700,0,0,0,0,"Quadra 4 - Sobradinho, Brasília - DF","Lote/Terreno à Venda, 1700m²",,,,,,-15.65488285,-47.80166069808267
+180000,0,200,4,3,0,0,"Fazendinha, Brasília - DF","Imóvel comercial com 4 Quartos à Venda, 200m²",,,,,,-15.7501877,-47.767038703641944
+401000,0,347,6,6,0,0,"Itapoã I, Brasília - DF","Sobrado com 6 Quartos à Venda, 347m²",Cozinha,Varanda,Área de serviço,,,-26.0663456,-48.6120403
+3675000,0,7500,0,0,0,0,"SMPW Quadra 1 - Park Way , Brasília - DF","Lote/Terreno à Venda, 7500m²",,,,,,-15.8950494,-47.94635
+260000,450,44,2,2,1,0,"C 11 - Taguatinga Centro, Brasília - DF","Apartamento com 2 Quartos à Venda, 44m²",,,,,,-15.8342764,-48.0593906
+360000,0,150,3,2,4,0,"Quadra 307 - Recanto das Emas, Brasília - DF","Casa com 3 Quartos à Venda, 150m²",,,,,,-15.9110152,-48.0518735
+1190000,0,80,2,2,2,0,"SQNW 310 - Setor Noroeste, Brasília - DF","Apartamento com 2 Quartos à Venda, 80m²",Ar-condicionado,Churrasqueira,Elevador,Piscina,,-15.74490265,-47.912888290018074
+340000,0,54,2,1,5,0,"QI 2, 0 - Guara I, Brasília - DF","Apartamento com 2 Quartos à Venda, 54m²",Portão eletrônico,Elevador,Mobiliado,,,-15.8144628,-47.98162426265988
+1650000,0,50000,0,0,0,0,"Incra 6, 0 - Brazlândia, Brasília - DF","Fazenda/Sítio/Chácara à Venda, 50000m²",,,,,,-15.7423211,-48.1712508
+24300000,0,540,4,3,10,0,"Praça Central, 0 - Paranoá, Brasília - DF","Fazenda/Sítio/Chácara com 4 Quartos à Venda, 540m²",,,,,,-15.77558795,-47.77991077706551
+5000000,0,1920000,0,0,0,0,"Núcleo Rural Ponte Alta de Cima, 34 - Gama, Brasília - DF","Lote/Terreno à Venda, 1920000m²",Desnível para frente (rua),Plano,,,,-16.0483499,-48.1466389
+215000,420,55,2,2,1,0,"QNM 12, 1202 - Ceilandia Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 55m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8132874,-48.1067477
+250000,0,56,2,1,1,0,"QNN 34 - Ceilândia, Brasília - DF","Apartamento com 2 Quartos à Venda, 56m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.8425955,-48.1058264
+595000,0,80,4,1,1,0,"Rua 21, 4 - Norte, Brasília - DF","Apartamento com 4 Quartos à Venda, 80m²",Piscina,Churrasqueira,Condomínio fechado,Academia,Aceita animais,-16.2375055,-47.9455544
+320000,0,135,3,3,2,0,"QNP 19 Conjunto C, 4 - Ceilandia Norte, Brasília - DF","Casa com 3 Quartos à Venda, 135m²",Mobiliado,Aceita animais,Área de serviço,Armário embutido,Armário embutido no quarto,-15.8057123,-48.1346405
+350000,0,34,1,1,2,0,"SGAN 910, 1 - Asa Norte, Brasília - DF","Apartamento com Quarto à Venda, 34m²",,,,,,-15.759451,-47.8959413
+1200000,0,800,4,5,3,0,"Quadra 4 - Setor Habitacional Taquari, Brasília - DF","Casa com 4 Quartos à Venda, 800m²",,,,,,-15.6998458,-47.8749892
+320000,0,45,0,0,0,0,"Rua 13, 0 - Norte, Brasília - DF","Ponto comercial/Loja/Box à Venda, 45m²",Academia,Portão eletrônico,Portaria 24h,,,-16.2354564,-47.9447465
+270000,330,29,1,1,1,0,"Rua 24, 0 - Norte, Brasília - DF","Apartamento com Quarto à Venda, 29m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-15.5447019,-47.2922802
+290000,0,135,2,2,3,0,"QNP 5 Conjunto V, 1 - Ceilandia Norte, Brasília - DF","Casa com 2 Quartos à Venda, 135m²",,,,,,-15.8221209,-48.1268576
+960000,1500,162,3,3,2,0,"Quadra 206, 4 - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 162m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Varanda,-15.7930602,-47.892502
+2500000,0,50000,4,1,15,0,"Incra 7, 31 - Brazlândia, Brasília - DF","Fazenda/Sítio/Chácara com 4 Quartos à Venda, 50000m²",Quintal,Área de serviço,Armário na cozinha,TV a cabo,Mais de um andar,-15.7423211,-48.1712508
+450000,0,150,3,2,4,0,"Quadra 2 Conjunto C-8, 25 - Sobradinho, Brasília - DF","Casa com 3 Quartos à Venda, 150m²",Churrasqueira,Cozinha,Lavanderia,Quintal,Área de serviço,-15.6578224,-47.795175
+420000,0,81,3,1,0,0,"Granja do Torto, Brasília - DF","Casa com 3 Quartos à Venda, 81m²",Cozinha,Área de serviço,,,,-15.7086699,-47.9135919
+600000,0,100,1,1,0,0,"Brazlândia, Brasília - DF","Chácara com Quarto à Venda, 100m²",,,,,,-15.6808898,-48.1942621
+250000,0,250,9,9,0,0,"QNN 5 Conjunto M, 42 - Ceilandia Norte, Brasília - DF","Apartamento com 9 Quartos à Venda, 250m²",,,,,,-15.8131891,-48.116032
+130000,0,60,2,1,0,0,"QE 40 Conjunto E, 0 - Guara II, Brasília - DF","Apartamento com 2 Quartos à Venda, 60m²",Aceita animais,,,,,-15.84194515,-47.98552894573424
+400000,100,200,3,2,4,0,"Veredas, Brasília - DF","Casa com 3 Quartos à Venda, 200m²",Condomínio fechado,Aceita animais,Área de serviço,Churrasqueira na varanda,Estacionamento,-15.669783500000001,-48.200522367947144
+374000,380,46,1,1,1,0,"Avenida Jacarandá - Aguas Claras, Brasília - DF","Apartamento com Quarto à Venda, 46m²",Piscina,Mobiliado,Churrasqueira,Condomínio fechado,Varanda,-15.8455929,-48.0312415
+580000,450,74,3,2,1,0,"Rua 21, 5 - Norte, Brasília - DF","Apartamento com 3 Quartos à Venda, 74m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-16.2375055,-47.9455544
+320000,0,80,3,1,1,0,"Rua 4, 100 - Centro, Brasília - DF","Apartamento com 3 Quartos à Venda, 80m²",Condomínio fechado,Portão eletrônico,Portaria 24h,,,-15.8465039,-47.9236376
+93000,0,23,1,1,0,0,"QNN 23, 0 - Ceilandia Norte, Brasília - DF","Apartamento com Quarto à Venda, 23m²",,,,,,-15.8077259,-48.1237284
+180000,0,126,2,1,2,0,"QNQ 2 Conjunto 2, 0 - Ceilandia Norte, Brasília - DF","Casa com 2 Quartos à Venda, 126m²",Conexão à internet,,,,,-15.8071542,-48.1422307
+570000,590,68,2,2,1,0,"CA 9, 0 - Lago Norte, Brasília - DF","Apartamento com 2 Quartos à Venda, 68m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-15.7126955,-47.8877371
+950000,642,104,3,3,0,0,"SQS 402, 200 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 104m²",Elevador,Aceita animais,Ar-condicionado,Bicicletário,Portaria 24h,-15.8144408,-47.88638568034188
+615000,550,83,3,2,0,0,"SQS 411, 0 - Asa Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 83m²",Condomínio fechado,,,,,-15.8276266,-47.907133

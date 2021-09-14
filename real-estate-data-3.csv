@@ -1,0 +1,693 @@
+Preço,Condomínio,Área,Quartos,Banheiros,Vagas,Abaixo $,Endereço,Descrição,0,1,2,3,4,Latitude,Longitude
+510000,751,72,2,2,1,0,"Rua Professor Otacílio, 80 - Santa Rosa, Niterói - RJ","Apartamento com 2 Quartos à Venda, 72m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.8988754,-43.0995999
+510000,478,79,3,2,2,0,"Rua dos Vianas, 333 - Baeta Neves, São Bernardo do Campo - SP","Apartamento com 3 Quartos à Venda, 79m²",Churrasqueira,Elevador,Academia,Aceita animais,Jardim,-23.7077656,-46.5226671
+399000,0,164,3,2,2,0,"Rua Camargo, 145 - Paulicéia, São Bernardo do Campo - SP","Casa com 3 Quartos à Venda, 164m²",Aceita animais,,,,,-23.6703423,-46.5989939
+99900,94,20,1,1,0,0,"Avenida São Miguel, 500 - Penha, São Paulo - SP","Apartamento com Quarto à Venda, 20m²",Mobiliado,Condomínio fechado,Aceita animais,Bicicletário,Cozinha americana,-23.5184756,-46.5233985
+795000,1400,98,2,2,2,0,"Avenida Raymundo Magalhães Júnior, 300 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 98m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.0028218,-43.3715215
+322000,0,157,3,2,2,0,"Rua Faveiro, 153 - Jardim Planalto, Mogi das Cruzes - SP","Casa com 3 Quartos à Venda, 157m²",Quintal,Aceita animais,Despensa,Sala de jantar,Sala grande,-23.5592647,-46.2256598
+790000,1400,91,2,2,1,0,"Avenida Ayrton Senna, 270 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 91m²",Piscina,Churrasqueira,Condomínio fechado,Aceita animais,Playground,-23.008683650000002,-43.36456443191893
+2850000,3295,85,2,2,1,0,"Rua Prudente de Morais, 1008 - Ipanema, Rio de Janeiro - RJ","Flat com 2 Quartos à Venda, 85m²",,,,,,-22.9847788,-43.2150052
+270000,0,68,2,2,1,0,"Rua Barra do Piraí, 6 - Jardim Mariléa, Rio das Ostras - RJ","Casa com 2 Quartos à Venda, 68m²",,,,,,-22.4998713,-41.9292981
+430000,350,60,2,2,1,0,Ubatuba - SP,"Apartamento com 2 Quartos à Venda, 60m²",Piscina,Elevador,Aceita animais,Varanda gourmet,Cozinha americana,-23.433162,-45.083415
+270000,145,10,1,1,0,0,"Rua Humberto de Campos, 827 - Leblon, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 10m²",Portaria 24h,Ar-condicionado,,,,-22.9818747,-43.2149398
+445000,644,131,2,3,2,0,"Avenida Anita Garibaldi, 1576 - Cabral, Curitiba - PR","Cobertura com 2 Quartos à Venda, 131m²",,,,,,-25.3981229,-49.2567816
+480000,100,120,3,3,2,0,"Rua Cangussu, 195 - Nonoai, Porto Alegre - RS","Casa de condomínio com 3 Quartos à Venda, 120m²",Área de serviço,Móvel planejado,Churrasqueira na varanda,Armário embutido no quarto,Armário na cozinha,-30.0925714,-51.2249518
+750000,0,162,4,3,2,0,"Rua Joaquim Pinto de Moraes, 29 - Jardim das Paineiras, Campinas - SP","Casa com 4 Quartos à Venda, 162m²",Ar-condicionado,Closet,Portão eletrônico,,,-22.891958,-47.0353167
+895000,818,85,2,2,1,0,"Rua Ipiranga, 32 - Laranjeiras, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 85m²",Churrasqueira,Elevador,Condomínio fechado,Academia,Aceita animais,-22.9337131,-43.18321591476328
+1100000,953,98,3,3,1,0,"Rua Sá Ferreira, 227 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 98m²",Churrasqueira,Elevador,Condomínio fechado,Jardim,Salão de festas,-22.9811942,-43.1925476
+750000,950,60,2,2,1,0,"Rua Alvorada, 81 - Vila Olímpia, São Paulo - SP","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Elevador,Condomínio fechado,Ar-condicionado,Jardim,-23.6034891,-46.6792423
+870000,1700,146,3,3,2,0,"Rua Professor Gabizo, 21 - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 146m²",Piscina,Churrasqueira,Academia,Espaço gourmet,Ar-condicionado,-22.9212472,-43.2187527
+677371,0,67,1,1,1,0,"Avenida Atlântica, 2692 - Copacabana, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 67m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9845221,-43.1893014
+895000,1400,151,3,2,3,0,"Praça Quinze de Novembro, 84 - Cambuí, Campinas - SP","Apartamento com 3 Quartos à Venda, 151m²",Elevador,Aceita animais,Ar-condicionado,Jardim,Salão de festas,-22.895172600000002,-47.057752312176845
+1300000,0,420,5,4,3,0,"Rua Joaquim Manhães - Boa Vista, Belo Horizonte - MG","Casa com 5 Quartos à Venda, 420m²",Mobiliado,Churrasqueira,Espaço gourmet,Jardim,Varanda gourmet,-19.8937923,-43.9078719
+500000,964,90,3,3,1,0,"Rua Conde de Bonfim, 1310 - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 90m²",Elevador,Condomínio fechado,Aceita animais,Playground,Salão de festas,-22.9222851,-43.2217511
+648000,901,66,1,1,0,0,"Rua Paissandu, 406 - Flamengo, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 66m²",Aceita animais,Ar-condicionado,Portaria 24h,,,-22.933986,-43.1760735
+4500000,1500,153,4,2,2,0,"Rua Sambaíba, 000 - Leblon, Rio de Janeiro - RJ","Apartamento com 4 Quartos à Venda, 153m²",Portaria 24h,,,,,-22.9865776,-43.2324276
+1590000,1800,87,3,3,1,0,"Rua Barão da Torre, 32-B - Ipanema, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 87m²",Elevador,Aceita animais,Ar-condicionado,Playground,Bicicletário,-22.9831351,-43.2055487
+155000,290,45,2,1,1,0,"Rua Torres Homem, 634 - Várzea, Recife - PE","Apartamento com 2 Quartos à Venda, 45m²",Piscina,Churrasqueira,Condomínio fechado,Aceita animais,Jardim,-8.0364243,-34.9538666
+1250000,1100,78,1,2,2,0,"Rua Pio XI, 1970 - Alto de Pinheiros, São Paulo - SP","Apartamento com Quarto à Venda, 78m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5341722,-46.7138427
+650000,1000,102,3,3,2,0,"Avenida Iguaçu, 2960 - Água Verde, Curitiba - PR","Apartamento com 3 Quartos à Venda, 102m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-25.4497151,-49.2896936
+950000,900,105,3,3,1,0,"Rua Diana, 649 - Perdizes, São Paulo - SP","Apartamento com 3 Quartos à Venda, 105m²",Mobiliado,Elevador,Academia,Ar-condicionado,Salão de festas,-23.5338447,-46.6816779
+690000,650,115,3,5,2,0,"Rua 14, 516 - Jardim Goiás, Goiânia - GO","Apartamento com 3 Quartos à Venda, 115m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-16.7058937,-49.2330604
+735000,988,64,2,1,1,0,"Rua Farani, 60 - Botafogo, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 64m²",Elevador,Condomínio fechado,Aceita animais,Área de serviço,Salão de festas,-22.9415522,-43.1814436
+1100000,1427,172,3,4,2,0,"Rua Nossa Senhora de Fátima, 77 - Santa Paula, São Caetano do Sul - SP","Apartamento com 3 Quartos à Venda, 172m²",Elevador,Aceita animais,Salão de festas,Portaria 24h,Salão de jogos,-23.6220145,-46.5657556
+950000,1077,100,3,2,2,0,"Rua Professor Miguel Couto, 389 - Icaraí, Niterói - RJ","Apartamento com 3 Quartos à Venda, 100m²",Piscina,Churrasqueira,Elevador,Playground,Salão de festas,-22.9026994,-43.1056273
+898000,650,170,3,3,2,0,"Rua Galeão Coutinho, 654 - Itaguá, Ubatuba - SP","Apartamento com 3 Quartos à Venda, 170m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Espaço gourmet,-23.4573227,-45.0652018
+3400000,1800,270,3,4,4,0,"Rua Duarte Schutel, 135 - Centro, Florianópolis - SC","Cobertura com 3 Quartos à Venda, 270m²",,,,,,-27.5915561,-48.5582468
+350000,620,70,2,2,0,0,"Rua José Higino, 281 - Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 70m²",Aceita animais,Portão eletrônico,,,,-22.9293941,-43.2386577
+194500,380,56,2,1,1,0,"Rua Marechal Octávio Saldanha Mazza, 7584 - Capão Raso, Curitiba - PR","Apartamento com 2 Quartos à Venda, 56m²",Mobiliado,Churrasqueira,Condomínio fechado,Aceita animais,Jardim,-25.5102466,-49.2973539
+1000000,1595,95,3,2,1,0,"Rua General Goes Monteiro, 8 - Botafogo, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 95m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9557833,-43.1799282
+689000,1215,75,2,2,2,0,"Rua Álvares de Azevedo, 178 - Icaraí, Niterói - RJ","Apartamento com 2 Quartos à Venda, 75m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-22.90147005,-43.1115951
+1050000,675,104,3,2,1,0,"Rua 231, 10 - Meia Praia, Itapema - SC","Apartamento com 3 Quartos à Venda, 104m²",Aceita animais,Ar-condicionado,Elevador,,,-27.1258907,-48.6029861
+800000,1600,157,4,4,4,0,"Rua Hélio Pradines, 391 - Ponta Verde, Maceió - AL","Apartamento com 4 Quartos à Venda, 157m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Jardim,-9.6575127,-35.7039501
+800000,882,65,1,2,1,0,"Rua Professor Alfredo Gomes, 01 - Botafogo, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 65m²",Elevador,Ar-condicionado,Playground,Portaria 24h,Closet,-22.9478855,-43.182723
+859000,1400,91,3,4,3,0,"Rua Coriolano, 1945 - Vila Romana, São Paulo - SP","Apartamento com 3 Quartos à Venda, 91m²",Mobiliado,Churrasqueira,Elevador,Academia,Aceita animais,-23.5256013,-46.7044649
+1690000,1070,118,3,3,1,0,"Rua Jardim Botânico, 728 - Jardim Botânico, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 118m²",Mobiliado,Churrasqueira,Elevador,Aceita animais,Ar-condicionado,-22.9657037,-43.2191138
+576990,445,98,3,3,2,0,"Avenida Carlos Moreira Lima, 855 - Bento Ferreira, Vitória - ES","Apartamento com 3 Quartos à Venda, 98m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-20.31504815,-40.310419508209506
+600000,680,42,1,1,0,0,"Rua Bolivar, 154 - Copacabana, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 42m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.9757933,-43.1912304
+499000,0,53,2,2,1,0,"Rua do Bosque, 980 - Barra Funda, São Paulo - SP","Apartamento com 2 Quartos à Venda, 53m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5228885,-46.663911
+1137000,949,257,4,5,3,0,"Avenida Ingá, 540 - Manaíra, João Pessoa - PB","Apartamento com 4 Quartos à Venda, 257m²",Piscina,Mobiliado,Churrasqueira,Condomínio fechado,Aceita animais,-7.1098882,-34.8369873
+2100000,800,157,3,5,2,0,"Rua Miragaia, 171 - Butantã, São Paulo - SP","Apartamento com 3 Quartos à Venda, 157m²",Piscina,Churrasqueira,Elevador,Academia,Espaço gourmet,-23.5757318,-46.7081256
+400000,480,73,3,2,2,0,"Rua Aveledo, 396 - Messejana, Fortaleza - CE","Apartamento com 3 Quartos à Venda, 73m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-3.8363016,-38.4983381
+1300000,1600,107,2,2,1,0,"Rua Urbanizadora, 232 - Sumaré, São Paulo - SP","Apartamento com 2 Quartos à Venda, 107m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-23.5408497,-46.6800918
+950000,600,300,4,5,4,0,"Rua Paulo José Mahfud, 23 - Vargem Pequena, Rio de Janeiro - RJ","Casa de condomínio com 4 Quartos à Venda, 300m²",,,,,,-22.9918701,-43.4564344
+790000,0,158,3,2,2,0,"Rua Professor Baeta Viana, 475 - Itapoã, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 158m²",Churrasqueira,Elevador,Aceita animais,Espaço gourmet,Ar-condicionado,-19.8368511,-43.9608435
+572000,576,87,3,2,1,0,"Avenida Chicago, 272 - Floresta, Porto Alegre - RS","Apartamento com 3 Quartos à Venda, 87m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,-30.0167124,-51.2003088
+480000,1000,100,2,3,1,0,"Rua Mário Ribeiro, 290 - Pitangueiras, Guarujá - SP","Apartamento com 2 Quartos à Venda, 100m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Bicicletário,-23.9969646,-46.2588762
+1499000,1280,165,3,4,1,0,"Avenida Nossa Senhora de Copacabana, 1182 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 165m²",Mobiliado,Churrasqueira,Elevador,Aceita animais,Ar-condicionado,-22.986673,-43.1897884
+670000,700,106,3,2,2,0,"Rua Ubá - Colégio Batista, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 106m²",Elevador,Academia,Aceita animais,Espaço gourmet,Salão de festas,-19.9102519,-43.9356369
+530000,805,100,3,2,2,0,"Rua do Símbolo, 100 - Vila Andrade, São Paulo - SP","Apartamento com 3 Quartos à Venda, 100m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.623845,-46.7297989
+700000,0,270,5,5,1,0,"Rua Cervantes, 292 - Vila Prudente, São Paulo - SP","Casa com 5 Quartos à Venda, 270m²",Closet,Aceita animais,,,,-23.5792564,-46.5859218
+2000000,2900,368,4,5,3,0,"Avenida Paes de Barros, 1463 - Móoca, São Paulo - SP","Apartamento com 4 Quartos à Venda, 368m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-23.56611880625,-46.593363440625
+350000,580,100,2,1,1,0,"Avenida Paes de Barros, 1054 - Móoca, São Paulo - SP","Apartamento com 2 Quartos à Venda, 100m²",Aceita animais,Elevador,Portaria 24h,Portão eletrônico,,-23.5641258,-46.5967958
+990000,693,175,4,4,3,0,"Rua Monsenhor Magaldi, 585 - Jardim Guanabara, Rio de Janeiro - RJ","Apartamento com 4 Quartos à Venda, 175m²",Elevador,Aceita animais,Jardim,Salão de festas,Bicicletário,-22.814276179688026,-43.201713561253115
+580000,1000,160,3,4,2,0,"Rua General Antônio Sampaio, 207 - Pituba, Salvador - BA","Apartamento com 3 Quartos à Venda, 160m²",Aceita animais,Jardim,Playground,Elevador,Portão eletrônico,-12.9994467,-38.459395
+2790000,1100,85,2,3,2,0,"Rua Francisco Otaviano, 49 - Arpoador, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 85m²",Piscina,Elevador,Academia,Aceita animais,Ar-condicionado,-22.9874113,-43.1926943
+550000,650,102,3,2,1,0,"Avenida Professor Milton Leite da Costa, 339 - Canasvieiras, Florianópolis - SC","Apartamento com 3 Quartos à Venda, 102m²",Aceita animais,Ar-condicionado,Mobiliado,Portão eletrônico,,-27.4300256,-48.4604294
+264500,500,50,2,1,1,0,"Rua Iguaré, 72 - Tatuapé, São Paulo - SP","Apartamento com 2 Quartos à Venda, 50m²",Mobiliado,Churrasqueira,Condomínio fechado,Academia,Aceita animais,-23.531759,-46.5827501
+280000,673,46,1,2,1,0,"Rua Doutor Antônio Álvares Lobo, 444 - Botafogo, Campinas - SP","Apartamento com Quarto à Venda, 46m²",Varanda,,,,,-22.8982441,-47.0674185
+1900000,1300,120,3,3,1,0,"Rua Visconde de Pirajá, 128 - Ipanema, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 120m²",Aceita animais,Ar-condicionado,Elevador,Portão eletrônico,,-22.9843685,-43.1989306
+1380000,1200,100,3,4,2,0,"Rua Pássaros e Flores, 56 - Brooklin, São Paulo - SP","Apartamento com 3 Quartos à Venda, 100m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.62444,-46.6861144
+550000,850,68,3,2,2,0,"Rua Itapimirum, 624 - Vila Andrade, São Paulo - SP","Apartamento com 3 Quartos à Venda, 68m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-23.6316405,-46.7336609
+849000,950,95,3,3,1,0,"Rua Professor Gabizo - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 95m²",,,,,,-22.9212472,-43.2187527
+365000,324,82,2,2,1,0,"Rua Jovino do Rosário, 1620 - Boa Vista, Curitiba - PR","Apartamento com 2 Quartos à Venda, 82m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-25.3939204,-49.2423172
+1150000,1310,95,3,3,1,0,"Rua Pompeu Loureiro, 36 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 95m²",Elevador,Aceita animais,Ar-condicionado,Jardim,Playground,-22.9754585,-43.1934977
+750000,950,187,3,4,2,0,"Rua Professor Doutor Olavo de Paula Borges, 88 - Ponta da Praia, Santos - SP","Apartamento com 3 Quartos à Venda, 187m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Jardim,-23.983269,-46.3042603
+1020000,750,170,3,4,2,0,"Rua Deputado Joaquim Câmara, 266 - Tirol, Natal - RN","Apartamento com 3 Quartos à Venda, 170m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-5.8107983,-35.2020246
+630000,658,80,2,2,1,0,"Rua Dona Delfina, 12 - Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 80m²",,,,,,-22.9315729,-43.2397977
+599000,550,80,3,2,2,0,"Rua José Damiani, 179 - Ponte Grande, Guarulhos - SP","Apartamento com 3 Quartos à Venda, 80m²",Piscina,Mobiliado,Churrasqueira,Condomínio fechado,Academia,-23.4994388,-46.5537131
+295000,500,107,3,2,0,0,"Rua Senador Fláquer, 111 - Centro, Santo André - SP","Apartamento com 3 Quartos à Venda, 107m²",Aceita animais,Elevador,Condomínio fechado,Portão eletrônico,,-23.6636129,-46.5222293
+1390000,1090,155,3,4,2,0,"Avenida Ômega, 219 - Melville Empresarial Ii, Barueri - SP","Apartamento com 3 Quartos à Venda, 155m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-23.4844432,-46.85074955985958
+1081000,1000,163,2,2,1,0,"Alameda Dom Pedro II, 332 - Batel, Curitiba - PR","Apartamento com 2 Quartos à Venda, 163m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Jardim,-25.4383885,-49.284384
+850000,1195,73,2,2,1,0,"Avenida Prefeito Dulcídio Cardoso, 2920 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 73m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.0064328,-43.3175405
+1150000,0,600,8,8,6,0,"Rua Inspetor José Aparecido, 197 - São Bento, Belo Horizonte - MG","Casa com 8 Quartos à Venda, 600m²",,,,,,-19.9620157,-43.9528244
+3200000,4000,320,4,3,5,0,"Avenida Jornalista Tim Lopes, 255 - Barra da Tijuca, Rio de Janeiro - RJ","Cobertura com 4 Quartos à Venda, 320m²",Área de serviço,Churrasqueira na varanda,Piscina aquecida,Piscina coberta,Estacionamento para visitantes,-22.9966504,-43.3485523
+590000,500,242,4,2,0,0,"Avenida das Américas, 500 - Parque das Nações, Parnamirim - RN","Casa de condomínio com 4 Quartos à Venda, 242m²",,,,,,-5.9237391,-35.218969
+470000,650,117,3,3,2,0,"Rua Oswaldo Oliva - Indaia, Bertioga - SP","Casa de condomínio com 3 Quartos à Venda, 117m²",,,,,,-23.8099595,-46.0608457
+730000,1361,90,3,2,1,0,"Rua Mário Agostinelli, 105 - Jacarepaguá, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 90m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9730536,-43.3821016
+1190000,850,111,3,3,2,0,"Rua Lino Coutinho, 75 - Ipiranga, São Paulo - SP","Apartamento com 3 Quartos à Venda, 111m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5941771,-46.6022567
+460000,450,76,3,2,2,0,"Rua Santos, 1127 - Centro, Londrina - PR","Apartamento com 3 Quartos à Venda, 76m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.31594105,-51.16772656691046
+660000,564,57,2,2,1,0,"Rua Catão, 523 - Vila Romana, São Paulo - SP","Apartamento com 2 Quartos à Venda, 57m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5281327,-46.7007772
+170000,280,47,2,2,1,0,"Rua Carolina Castelli, 538 - Novo Mundo, Curitiba - PR","Apartamento com 2 Quartos à Venda, 47m²",Aceita animais,Salão de festas,Condomínio fechado,Portão eletrônico,,-25.48887745,-49.31349850510213
+800000,1200,190,4,5,2,0,"Rua Major Armando de Souza Melo, 430 - Boa Viagem, Recife - PE","Apartamento com 4 Quartos à Venda, 190m²",Churrasqueira,Aceita animais,Ar-condicionado,Portaria 24h,Closet,-8.1432738,-34.9083432
+635000,735,87,3,2,1,0,"Rodovia Tertuliano Brito Xavier - Jurerê, Florianópolis - SC","Apartamento com 3 Quartos à Venda, 87m²",Ar-condicionado,Cozinha americana,Elevador,Portão eletrônico,,-27.4338607,-48.4784684
+175000,520,29,1,1,0,0,"Avenida Vieira de Carvalho, 167 - República, São Paulo - SP","Apartamento com Quarto à Venda, 29m²",Mobiliado,Elevador,Aceita animais,Jardim,Bicicletário,-23.5415602,-46.6442117
+1200000,0,187,4,3,0,0,"Ladeira Santa Teresa, 117 - Santa Teresa, Rio de Janeiro - RJ","Casa com 4 Quartos à Venda, 187m²",Aceita animais,,,,,-22.9346107,-43.2025183
+3350000,2000,230,4,4,2,0,"Rua República do Peru, 35 - Copacabana, Rio de Janeiro - RJ","Apartamento com 4 Quartos à Venda, 230m²",Salão de festas,Elevador,Condomínio fechado,Portaria 24h,Portão eletrônico,-22.9690109,-43.1805717
+560000,530,50,1,1,1,0,"Avenida Ômega, 174 - Empresarial 18 do Forte, Barueri - SP","Apartamento com Quarto à Venda, 50m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.4844044,-46.8489553
+460000,400,42,1,1,1,0,"Rua das Palmeiras, 283 - Santa Cecília, São Paulo - SP","Apartamento com Quarto à Venda, 42m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5383688,-46.6498786
+770000,0,138,3,4,3,0,"Rua Comendador Alfaia Rodrigues, 449 - Aparecida, Santos - SP","Casa com 3 Quartos à Venda, 138m²",Churrasqueira,Aceita animais,Ar-condicionado,Jardim,Lavanderia,-23.9729437,-46.3050119
+430000,440,86,2,2,1,0,"Avenida André Vidal de Negreiros, 230 - Jardim Carlos Gomes, Jundiaí - SP","Apartamento com 2 Quartos à Venda, 86m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.1736029,-46.8766478
+530000,270,142,4,3,2,0,"Rua Daniel de Carvalho - Gutierrez, Belo Horizonte - MG","Apartamento com 4 Quartos à Venda, 142m²",Aceita animais,Closet,,,,-19.9399033,-43.9587235
+575000,550,75,2,2,1,0,"Rua Santa Mônica, 74 - Praia das Toninhas, Ubatuba - SP","Apartamento com 2 Quartos à Venda, 75m²",Piscina,Mobiliado,Elevador,Aceita animais,Ar-condicionado,-23.4812026,-45.0744984
+285000,300,54,2,1,1,0,"Rua Vicente de Paula Souza e Silva, 111 - Assunção, São Bernardo do Campo - SP","Apartamento com 2 Quartos à Venda, 54m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.7141258,-46.5826696
+700000,511,83,2,3,2,0,"Rua São Benedito, 621 - Vila Caicara, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 83m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-24.0456819,-46.5282311
+960000,968,70,2,2,1,0,"Rua Jornalista Henrique Cordeiro, 350 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 70m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.0050149,-43.3225113
+400000,0,207,2,3,2,0,"Rua do Bosque, 470 - Boa Saúde, Novo Hamburgo - RS","Casa com 2 Quartos à Venda, 207m²",Mobiliado,Ar-condicionado,Portão eletrônico,,,-29.6845974,-51.1681684
+200000,260,50,2,2,1,0,"Rua Waldir Gaioso, 410 - Monte Castelo, São José dos Campos - SP","Apartamento com 2 Quartos à Venda, 50m²",Condomínio fechado,Aceita animais,Jardim,Bicicletário,Cozinha americana,-23.185844,-45.8684832
+700000,750,94,3,3,2,0,"Avenida Aldino Pinotti, 650 - Centro, São Bernardo do Campo - SP","Apartamento com 3 Quartos à Venda, 94m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.6904493,-46.5513428
+7800000,2400,750,5,6,5,0,"Rua Embaixador Bolitreau Fragoso - Barra da Tijuca, Rio de Janeiro - RJ","Casa de condomínio com 5 Quartos à Venda, 750m²",Área de lazer,Campo de futebol,Câmera de segurança,Centro de estética,Pista de skate,-23.0017513,-43.4153808
+410000,520,92,3,3,1,0,"Rua Glaziou - Pilares, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 92m²",Elevador,Portão eletrônico,Ar-condicionado,,,-22.8808898,-43.2948367
+850000,0,165,3,5,4,0,"Avenida Miguel Damha, L 26 - Village Mirassol II, Mirassol - SP","Casa de condomínio com 3 Quartos à Venda, 165m²",Pé direito alto,Banheiro de serviço,Armário embutido no quarto,,,-20.822826,-49.4818719
+1500000,1827,199,4,2,1,0,"Rua Miguel de Frias, 23 - Icaraí, Niterói - RJ","Apartamento com 4 Quartos à Venda, 199m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.9004713,-43.1125953
+480000,0,34,0,1,0,0,"Rua da Quitanda, 30 - Centro, Rio de Janeiro - RJ","Ponto comercial/Loja/Box à Venda, 34m²",,,,,,-22.904454356351,-43.176182063068985
+780000,1200,130,2,4,1,0,"Rua Amaral, 18 - Andaraí, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 130m²",Elevador,Ar-condicionado,Playground,Salão de festas,Closet,-22.92292,-43.2444237
+119000,300,70,3,1,1,0,"Rua Barão, 23 - Praça Seca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 70m²",Mobiliado,Churrasqueira,Condomínio fechado,Academia,Aceita animais,-22.8968245,-43.3548558
+550000,830,109,2,3,1,0,"Avenida dos Bancários, 121 - Ponta da Praia, Santos - SP","Apartamento com 2 Quartos à Venda, 109m²",Elevador,Condomínio fechado,Aceita animais,Área de serviço,Salão de festas,-23.9856242,-46.3048329
+190000,60,30,1,1,0,0,"Praça Mário Ortiz, 36 - Vila Prudente, São Paulo - SP","Apartamento com Quarto à Venda, 30m²",Aceita animais,Cozinha americana,Churrasqueira,Portão eletrônico,Condomínio fechado,-23.5885753,-46.5880489
+190000,0,94,2,2,0,0,"Travessa Leda Silvares, 15 - Paraíso, São Gonçalo - RJ","Casa com 2 Quartos à Venda, 94m²",Aceita animais,,,,,-22.8314222,-43.0827034
+300000,0,57,1,1,1,0,"Rua Major Solon, 634 - Cambuí, Campinas - SP","Apartamento com Quarto à Venda, 57m²",Aceita animais,Salão de festas,Elevador,Portaria 24h,Mobiliado,-22.8955777,-47.0586757
+2350000,1614,310,5,7,3,0,"Estrada Vereador Alceu de Carvalho, 665 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ","Casa com 5 Quartos à Venda, 310m²",Piscina,Mobiliado,Churrasqueira,Condomínio fechado,Academia,-23.0210836,-43.4927775
+395000,282,65,2,2,1,0,"Avenida do Oratório, 2635 - Parque São Lucas, São Paulo - SP","Apartamento com 2 Quartos à Venda, 65m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.6125431,-46.523685
+350000,300,63,2,1,1,0,"Avenida Nossa Senhora da Paz, 340 - Jaragua, São Paulo - SP","Casa de condomínio com 2 Quartos à Venda, 63m²",Quintal,Churrasqueira na varanda,Área de lazer,Armário embutido,Armário embutido no quarto,-23.4413717,-46.7214111
+560000,793,85,3,3,1,0,"Rua Doutor Olavo Egídio, 726 - Santana, São Paulo - SP","Apartamento com 3 Quartos à Venda, 85m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5000922,-46.6186499
+920000,0,83,2,2,2,0,"Avenida Caçapava, 210 - Petrópolis, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 83m²",Mobiliado,Churrasqueira,Elevador,Aceita animais,Ar-condicionado,-30.0424909,-51.1814809
+420000,760,115,3,3,1,1,"Rua Bolívia, 387 - São Pedro, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 115m²",Aceita animais,Cozinha americana,Salão de festas,Elevador,Portão eletrônico,-19.9552809,-43.9403754
+2299000,0,267,5,6,4,0,"Rua Barbosa de Freitas - Meireles, Fortaleza - CE","Apartamento com 5 Quartos à Venda, 267m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Academia,-3.7275818,-38.4945064
+380000,330,24,1,1,0,0,"Rua Frei Caneca, 95 - Consolação, São Paulo - SP","Apartamento com Quarto à Venda, 24m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.559038,-46.6588418
+385000,710,67,2,2,2,0,"Rua São Francisco de Assis, 373 - Centro, Diadema - SP","Apartamento com 2 Quartos à Venda, 67m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.6876887,-46.6288815
+332348,0,59,2,2,2,0,"Avenida São Paulo, 828 - Estados, João Pessoa - PB","Apartamento com 2 Quartos à Venda, 59m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-7.1176394,-34.8610139
+750000,972,134,3,3,1,0,"Rua Áurea, 302 - Cabo Branco, João Pessoa - PB","Apartamento com 3 Quartos à Venda, 134m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Aceita animais,-7.1420241,-34.8162126
+780000,1000,127,3,3,2,0,"Rua Saldanha Marinho, 1453 - Centro, Curitiba - PR","Apartamento com 3 Quartos à Venda, 127m²",Piscina,Churrasqueira,Elevador,Aceita animais,Espaço gourmet,-25.4339169,-49.2852816
+1070000,430,186,3,4,2,0,"Bonfim Paulista, Ribeirão Preto - SP","Casa de condomínio com 3 Quartos à Venda, 186m²",,,,,,-21.2938149,-47.84549637272727
+520000,365,76,2,2,2,0,"Avenida Professor Pedro Clarismundo Fornari, 1080 - Engordadouro, Jundiaí - SP","Apartamento com 2 Quartos à Venda, 76m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.1501577,-46.9267025
+320000,277,108,2,1,1,0,"Rua Doutor Carvalho de Mendonça, 825 - Marapé, Santos - SP","Apartamento com 2 Quartos à Venda, 108m²",Aceita animais,,,,,-23.9558079,-46.3475375
+830000,0,112,3,3,2,0,"Estrada do Guanumbi, 15 - Freguesia- Jacarepaguá, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 112m²",Piscina,Mobiliado,Elevador,Academia,Aceita animais,-22.9379468,-43.3255283
+690000,0,55,1,1,1,0,"Rua do Humaitá, 244 - Humaitá, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 55m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.9589014,-43.200443
+465000,527,34,1,1,0,0,"Avenida dos Carinás, 301 - Moema, São Paulo - SP","Apartamento com Quarto à Venda, 34m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-23.6133526,-46.6666826
+790000,0,120,3,3,1,0,"Quadra 203, 9 - Sul, Brasília - DF","Apartamento com 3 Quartos à Venda, 120m²",Churrasqueira,Elevador,Condomínio fechado,Academia,Aceita animais,-15.81665745,-47.88876239998757
+1200000,774,101,3,2,0,0,"Rua Pompeu Loureiro, 126 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 101m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Bicicletário,-22.9754585,-43.1934977
+275000,390,68,2,1,1,0,"Avenida Patente, 193 - Jardim Patente, São Paulo - SP","Apartamento com 2 Quartos à Venda, 68m²",Churrasqueira,Condomínio fechado,Aceita animais,Jardim,Playground,-23.6290839,-46.5867412
+500000,924,113,3,2,2,0,"Avenida Oceano Pacífico, 888 - Intermares, Cabedelo - PB","Apartamento com 3 Quartos à Venda, 113m²",Piscina,Mobiliado,Elevador,Aceita animais,Salão de festas,-7.0412155,-34.840269
+211000,0,40,1,2,1,0,"Praia das Toninhas, Ubatuba - SP","Apartamento com Quarto à Venda, 40m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.486963199999998,-45.07423582454561
+980000,915,77,3,2,0,0,"Rua do Catete, 200 - Catete, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 77m²",Aceita animais,Ar-condicionado,Mobiliado,Elevador,Portão eletrônico,-22.9236624,-43.1774741
+270000,760,50,1,2,1,0,"Rua Barreto Leme, 1507 - Centro, Campinas - SP","Apartamento com Quarto à Venda, 50m²",Elevador,Aceita animais,Jardim,Bicicletário,Portaria 24h,-22.8996179,-47.0550549
+299000,770,65,2,2,0,0,"Rua São Francisco Xavier, 392 - Maracanã, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 65m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Bicicletário,-22.908972,-43.2382037
+515000,460,40,1,1,1,0,"Avenida Brigadeiro Luís Antônio, 323 - Bela Vista, São Paulo - SP","Apartamento com Quarto à Venda, 40m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-23.5621607,-46.6448282
+320000,520,71,3,2,1,0,"Rua Conde D'Eu, 64 - Boa Vista, Recife - PE","Apartamento com 3 Quartos à Venda, 71m²",Portaria 24h,,,,,-8.0524927,-34.8901541
+295000,0,67,2,2,5,0,"Itaipuaçú, Maricá - RJ","Casa com 2 Quartos à Venda, 67m²",Churrasqueira,Varanda,Quintal,Área de serviço,Cozinha americana,-22.9623547,-42.9940643
+980000,590,114,3,3,2,0,"Meia Praia, Itapema - SC","Apartamento com 3 Quartos à Venda, 114m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-27.128857,-48.6060978
+520000,0,106,3,3,2,0,"Avenida Pedro Paulo de Souza, 953 - Goiania 2, Goiânia - GO","Apartamento com 3 Quartos à Venda, 106m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-16.6251647,-49.253729
+800000,1600,145,3,2,2,0,"Avenida dos Bandeirantes, 421 - Sion, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 145m²",Elevador,Portão eletrônico,,,,-19.9572301,-43.9319731
+795000,1640,106,3,2,2,0,"Rua Barão de Mesquita, 715 - Andaraí, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 106m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Academia,-22.9255052,-43.249604
+399000,0,100,2,3,2,0,"Mato Grande, Canoas - RS","Sobrado com 2 Quartos à Venda, 100m²",Móvel planejado,Churrasqueira na varanda,Cozinha gourmet,Cozinha grande,Gesso - Sanca - Teto Rebaixado,-29.9289151,-51.1954553
+678000,480,100,3,3,2,0,"Rua Professora Isolina Sartore, 255 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 100m²",Mobiliado,Elevador,Aceita animais,Jardim,Varanda gourmet,-23.01998252,-43.46813792
+133000,291,41,2,1,1,0,"Rua Santana, 741 - Olimpica, Esteio - RS","Apartamento com 2 Quartos à Venda, 41m²",Churrasqueira,Condomínio fechado,Aceita animais,Espaço gourmet,Playground,-29.8621231,-51.1523627
+185000,160,52,2,1,1,0,"Rua Guarujá, 300 - São José, Canoas - RS","Apartamento com 2 Quartos à Venda, 52m²",Piscina,Mobiliado,Churrasqueira,Condomínio fechado,Aceita animais,-29.880529,-51.1785899
+610000,950,82,3,3,2,0,"Rua Conde de Bonfim - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 82m²",Piscina,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.9242893,-43.2240422
+450000,0,62,2,2,1,0,"Rua Belarmino de Matos, 222 - Vicente de Carvalho, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 62m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.8507289,-43.3123595
+1950000,2423,177,4,2,1,0,"Rua Joaquim Nabuco - Ipanema, Rio de Janeiro - RJ","Apartamento com 4 Quartos à Venda, 177m²",,,,,,-22.9862574,-43.1922967
+970000,450,310,4,5,3,0,"Centro, Boituva - SP","Casa de condomínio com 4 Quartos à Venda, 310m²",,,,,,-23.2843799,-47.6749266
+220000,633,69,2,2,1,0,"Estrada Pacheco de Carvalho, 1251 - Maceió, Niterói - RJ","Apartamento com 2 Quartos à Venda, 69m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.9125721,-43.0674084
+250000,0,205,0,0,0,0,"Rua Victor Kotovis, 450 - Abranches, Curitiba - PR","Lote/Terreno à Venda, 205m²",Churrasqueira,Condomínio fechado,Espaço gourmet,Playground,Salão de festas,-25.3554506,-49.2771557
+650000,1300000,135,3,3,3,0,"Rua Mário Rodrigues Fon, 142 - São Miguel Paulista, São Paulo - SP","Apartamento com 3 Quartos à Venda, 135m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.4943946,-46.4475485
+325000,250,69,2,2,2,1,"Rua Itajubá - Sagrada Família, Belo Horizonte - MG","Apartamento com 2 Quartos à Venda, 69m²",Mobiliado,Elevador,Aceita animais,Cozinha americana,Acesso para deficientes,-19.9050396,-43.9281248
+360000,400,109,3,2,2,0,"Rua Jaci Nogueira, 255 - Floramar, Belo Horizonte - MG","Cobertura com 3 Quartos à Venda, 109m²",,,,,,-19.8382327,-43.9319926
+298000,345,53,2,1,1,0,"Rua Comendador Carlo Mário Gardano, 103 - Centro, São Bernardo do Campo - SP","Apartamento com 2 Quartos à Venda, 53m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.7182491,-46.5570759
+299000,430,72,2,2,1,0,"Rua Líbero Badaró, 308 - Cidade Ocian, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 72m²",Piscina,Mobiliado,Elevador,Aceita animais,Varanda gourmet,-24.0218596,-46.4727849
+375000,300,68,2,2,0,0,"Rua Barão de Ubá, 78 - Bela Vista, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 68m²",Aceita animais,,,,,-30.0361996,-51.1931593
+546000,350,70,2,2,1,0,"Rua Hilda Del Nero Bisquolo, 350 - Jardim Flórida, Jundiaí - SP","Apartamento com 2 Quartos à Venda, 70m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.1931185,-46.9027336
+790000,0,250,3,4,4,0,"Avenida Professor Jorge Moysés Betti, 93 - Jardim Santa Rosalia, Sorocaba - SP","Casa com 3 Quartos à Venda, 250m²",Ar-condicionado,Cozinha americana,,,,-23.4846907,-47.4394592
+440000,420,62,3,2,1,0,"Vila Guilherme, São Paulo - SP","Apartamento com 3 Quartos à Venda, 62m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5170972,-46.6079618
+250000,600,55,2,1,1,0,"Avenida Presidente Castelo Branco, 12816 - Vila Caicara, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 55m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-24.0525913,-46.5299457
+790000,805,114,3,3,2,0,"Praça Pasteur, 59 - Castelanea, Petrópolis - RJ","Apartamento com 3 Quartos à Venda, 114m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-22.5228445,-43.1830636
+3000000,0,660000,4,2,0,0,"Águas Claras, Viamão - RS","Fazenda/Sítio/Chácara com 4 Quartos à Venda, 660000m²",Mobiliado,Lareira,Ar-condicionado,Aceita animais,Cozinha americana,-30.13609655,-50.84903132852462
+1749000,1020,82,2,2,1,0,"Rua Casa do Ator, 90 - Vila Olímpia, São Paulo - SP","Apartamento com 2 Quartos à Venda, 82m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.6002116,-46.6760753
+240000,312,54,2,1,1,0,"Avenida Sara Zirlis, 222 - Vila Lutecia, Santo André - SP","Apartamento com 2 Quartos à Venda, 54m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.693108,-46.5054401
+2690000,2829,181,3,4,2,0,"Avenida Lúcio Costa - Barra da Tijuca, Rio de Janeiro - RJ","Cobertura com 3 Quartos à Venda, 181m²",,,,,,-23.0148992,-43.4071863
+355000,835,115,3,3,0,0,"Avenida Venezuela, 468 - Enseada, Guarujá - SP","Apartamento com 3 Quartos à Venda, 115m²",Mobiliado,Elevador,Aceita animais,Ar-condicionado,Jardim,-23.9821218,-46.2250291
+170000,0,56,2,1,2,0,"Rua Theophilo Zanutto, 121 - Campestre, São Leopoldo - RS","Casa com 2 Quartos à Venda, 56m²",Aceita animais,Jardim,Área de serviço,Lavanderia,Ambientes integrados,-29.7735332,-51.0951684
+1400000,1100,198,3,5,3,0,"Rua Piauí, 520 - Santa Paula, São Caetano do Sul - SP","Apartamento com 3 Quartos à Venda, 198m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Salão de festas,-23.6190336,-46.5657556
+995000,930,95,3,3,1,0,"Avenida Rouxinol, 438 - Moema, São Paulo - SP","Apartamento com 3 Quartos à Venda, 95m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.6014088,-46.6729064
+820000,550,245,4,5,3,0,"Estrada Pacui, 696 - Vargem Grande, Rio de Janeiro - RJ","Casa de condomínio com 4 Quartos à Venda, 245m²",Piscina privativa,Churrasqueira na varanda,Varanda,Móvel planejado,,-22.9708846125,-43.49398325833333
+160000,545,50,2,1,1,0,"Avenida Geremário Dantas, 1093 - Freguesia- Jacarepaguá, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 50m²",Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,Playground,-22.9383857,-43.3487229
+1850000,2000,120,3,3,1,0,"Rua Visconde de Pirajá, 287 - Ipanema, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 120m²",Elevador,Aceita animais,Ar-condicionado,Bicicletário,Portaria 24h,-22.9846729,-43.1970133
+310000,240,96,2,2,0,0,"Rua da Prata - Jardim Novo Mundo, Goiânia - GO","Casa de condomínio com 2 Quartos à Venda, 96m²",,,,,,-16.6824016,-49.2136966
+860000,0,160,3,3,2,0,"Rua Ipê Roxo, 536 - Canto Grande, Bombinhas - SC","Casa com 3 Quartos à Venda, 160m²",Quintal,Closet,Cozinha grande,Isolamento acústico,Isolamento térmico,-27.1902101,-48.5020584
+470000,383,196,4,4,0,0,"Rua Nilo Peçanha, 4329 - Pilarzinho, Curitiba - PR","Casa de condomínio com 4 Quartos à Venda, 196m²",,,,,,-25.3863355,-49.2782111
+980000,800,270,4,6,3,0,"Avenida das Américas, 19221 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ","Casa de condomínio com 4 Quartos à Venda, 270m²",,,,,,-23.0065464,-43.4353167
+700000,900,160,4,4,2,0,"Rua Engenheiro Zoroastro Torres, 255 - Santo Antônio, Belo Horizonte - MG","Apartamento com 4 Quartos à Venda, 160m²",Aceita animais,Jardim,Salão de festas,Elevador,Portão eletrônico,-19.9496609,-43.9474231
+1390000,2250,150,4,4,2,0,"Avenida Jurucê, 856 - Moema, São Paulo - SP","Apartamento com 4 Quartos à Venda, 150m²",Elevador,Aceita animais,Jardim,Bicicletário,Portaria 24h,-23.6106027,-46.6597056
+350000,600,104,3,3,1,0,"Rua Espírito Santo, 1679 - Centro, Londrina - PR","Apartamento com 3 Quartos à Venda, 104m²",Piscina,Churrasqueira,Elevador,Aceita animais,Área de serviço,-23.3165737,-51.1563813
+210000,280,58,2,1,1,0,"Rua Anésia Ruston, 71 - Jardim das Industrias, Jacareí - SP","Apartamento com 2 Quartos à Venda, 58m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Salão de festas,-23.2899118,-45.9490717
+320000,400,78,2,2,1,0,"Avenida Coronel Gastão Haslocher Mazeron, 109 - Medianeira, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 78m²",Churrasqueira,Elevador,Academia,Aceita animais,Ar-condicionado,-30.0602934,-51.2160352
+190000,400,89,3,2,2,0,"Rua George Correia Nunes, 750 - Icarai, Caucaia - CE","Apartamento com 3 Quartos à Venda, 89m²",Piscina,Churrasqueira,Condomínio fechado,Varanda,Aceita animais,-3.6720349,-38.6734939
+270000,290,49,2,1,1,0,"Avenida Monsenhor Félix, 1059 - Irajá, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 49m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.8360083,-43.326173
+280000,0,74,1,1,1,0,"Rua Gregório Pessoa de Oliveira, 85 - Cabo Branco, João Pessoa - PB","Apartamento com Quarto à Venda, 74m²",Piscina,Mobiliado,Elevador,Academia,Aceita animais,-7.1365633,-34.8192411
+290000,300,45,2,1,1,0,"Avenida Curió, 860 - Campanário, Diadema - SP","Apartamento com 2 Quartos à Venda, 45m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.6632997,-46.6201453
+380000,1000,122,3,3,1,0,"Rua Marechal Deodoro, 865 - Centro, Campinas - SP","Apartamento com 3 Quartos à Venda, 122m²",Elevador,Portão eletrônico,Portaria 24h,,,-22.9001917,-47.059681
+450000,750,78,2,2,2,0,"Rua Oswaldo Oliva, 656 - Indaia, Bertioga - SP","Apartamento com 2 Quartos à Venda, 78m²",Piscina,Mobiliado,Churrasqueira,Elevador,Aceita animais,-23.8099595,-46.0608457
+370000,216,53,2,1,1,0,"Rua Tiradentes, 181 - Centro, Diadema - SP","Apartamento com 2 Quartos à Venda, 53m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.6881564,-46.6144753
+2700000,4090,440,4,7,4,0,"Rua Augusto Tolle - Santana, São Paulo - SP","Cobertura com 4 Quartos à Venda, 440m²",,,,,,-23.4867999,-46.6331869
+199000,250,69,2,3,1,0,"Rua José Vicente de Barros, 2670 - Parque Santo Antônio, Taubaté - SP","Apartamento com 2 Quartos à Venda, 69m²",Aceita animais,Ar-condicionado,Condomínio fechado,Portão eletrônico,Portaria 24h,-22.9961284,-45.5579466
+1780000,1100,162,3,5,2,0,"Avenida Iguaçu, 2713 - Água Verde, Curitiba - PR","Apartamento com 3 Quartos à Venda, 162m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-25.4491305,-49.2871903
+1050000,1142,104,3,3,2,0,"Rua Marechal Raul de Albuquerque, 122 - Charitas, Niterói - RJ","Apartamento com 3 Quartos à Venda, 104m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.9236693,-43.0924381
+548900,698,132,2,2,2,0,"Rua Catumbi, 131 - Medianeira, Porto Alegre - RS","Cobertura com 2 Quartos à Venda, 132m²",Área de serviço,Móvel planejado,Churrasqueira na varanda,Área de lazer,Armário embutido,-30.07362,-51.2123049
+800000,2300,189,4,4,2,0,"Rua França Pinto, 425 - Enseada, Guarujá - SP","Apartamento com 4 Quartos à Venda, 189m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.9877064,-46.2389547
+325000,450,62,3,2,1,0,"Rua João Bettega, 644 - Portão, Curitiba - PR","Apartamento com 3 Quartos à Venda, 62m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-25.4748477,-49.300225
+550000,649,77,2,2,1,0,"Rua Almirante Alexandrino, 3780 - Santa Teresa, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 77m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,-22.9188448,-43.1830497
+798000,160,159,2,3,2,0,"Rua João Abbott, 230 - Petrópolis, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 159m²",Mobiliado,Churrasqueira,Condomínio fechado,Aceita animais,Espaço gourmet,-30.0423531,-51.1880512
+1180000,0,167,3,3,2,0,"Rua Mauro Guedes de Oliveira, 131 - Jardim Lindóia, Porto Alegre - RS","Cobertura com 3 Quartos à Venda, 167m²",Armário na cozinha,Piscina privativa,Cozinha gourmet,Vista panorâmica,,-30.0023402,-51.1483576
+300000,0,80,3,3,1,1,"Rua Santa Rosa, 50 - São Tomaz, Belo Horizonte - MG","Casa com 3 Quartos à Venda, 80m²",Aceita animais,,,,,-19.8458024,-43.9531183
+521000,958,65,2,1,1,0,"Rua Ibituruna, 89 - Maracanã, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 65m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-22.9131912,-43.220318
+183000,250,75,3,2,1,0,"Avenida Engenheiro Agamenon Magalhães Melo, 417 - Tamarineira, Recife - PE","Apartamento com 3 Quartos à Venda, 75m²",Condomínio fechado,Aceita animais,Jardim,Salão de festas,Quadra poliesportiva,-8.0281897,-34.8956714
+630000,400,165,3,3,4,0,"Avenida Miguel Damha, 1890 - Village Mirassol II, Mirassol - SP","Casa de condomínio com 3 Quartos à Venda, 165m²",,,,,,-20.822826,-49.4818719
+2000000,1100,250,3,4,3,0,"Rua 3000, 444 - Centro, Balneário Camboriú - SC","Apartamento com 3 Quartos à Venda, 250m²",Piscina,Mobiliado,Churrasqueira,Academia,Aceita animais,-26.9990585,-48.6285693
+600000,540,80,2,3,2,0,"Avenida Rogaciano Leite, 850 - Guararapes, Fortaleza - CE","Apartamento com 2 Quartos à Venda, 80m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-3.7634786,-38.4944152
+560000,504,82,3,3,2,0,"Rua Araraquara - Nova Suíssa, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 82m²",Aceita animais,Ar-condicionado,Portão eletrônico,,,-19.9346075,-43.974834
+2000000,0,360,4,7,3,0,"Rua Roberto Augusto Morgado - São Francisco, Niterói - RJ","Casa com 4 Quartos à Venda, 360m²",Piscina,Mobiliado,Churrasqueira,Aceita animais,Espaço gourmet,-22.9120218,-43.0844551
+550000,650,100,3,3,2,0,"Rua das Dunas, 48 - Foguete, Cabo Frio - RJ","Casa de condomínio com 3 Quartos à Venda, 100m²",,,,,,-22.9029162,-42.03252525449011
+350000,480,49,2,1,1,0,"Rua Vergueiro - Vila Firmiano Pinto, São Paulo - SP","Apartamento com 2 Quartos à Venda, 49m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Jardim,-23.5926646,-46.620588
+145000,430,41,1,1,0,0,"Rua Francisco Torres - Centro, Curitiba - PR","Apartamento com Quarto à Venda, 41m²",Elevador,Condomínio fechado,Bicicletário,Portaria 24h,Lavanderia,-25.4345452,-49.2596722
+3000000,2950,530,4,7,4,0,"Avenida Coronel Joaquim Montenegro, 122 - Aparecida, Santos - SP","Cobertura com 4 Quartos à Venda, 530m²",Churrasqueira na varanda,Escritório,Guarita,Armário embutido,Cozinha grande,-23.9803184,-46.3047981
+390000,570,86,2,2,2,0,"Rua Otelo Rodrigues Franco, 543 - Canto do Forte, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 86m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-24.0126067,-46.3970752
+630000,750,72,2,2,2,0,"Rua Trifana, 247 - Serra, Belo Horizonte - MG","Apartamento com 2 Quartos à Venda, 72m²",Churrasqueira,Elevador,Academia,Aceita animais,Espaço gourmet,-19.9440231,-43.9193111
+1520000,1680,157,4,4,2,0,"Rua Apinajés, 417 - Perdizes, São Paulo - SP","Apartamento com 4 Quartos à Venda, 157m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.5369301,-46.679809
+297000,450,70,3,2,1,0,"Rua Luiz Anselmo, 1254 - Luís Anselmo, Salvador - BA","Apartamento com 3 Quartos à Venda, 70m²",Churrasqueira,Elevador,Academia,Aceita animais,Ar-condicionado,-12.9750763,-38.4902252
+1650000,0,218,3,5,3,0,"Avenida Presidente Vargas, 1133 - Cidade Nova, Franca - SP","Apartamento com 3 Quartos à Venda, 218m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-20.5326527,-47.3966969
+398000,260,69,3,2,1,0,"Rua Cabo Braga, 144 - Igra sul, Torres - RS","Apartamento com 3 Quartos à Venda, 69m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-29.3322985,-49.7435867
+600000,560,168,3,3,2,0,"Rua Maestro Jacó, 175 - Michel, Criciúma - SC","Apartamento com 3 Quartos à Venda, 168m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-28.6863731,-49.3718992
+720000,300,176,3,3,2,0,"Rua Javari, 292 - Cristo Redentor, Porto Alegre - RS","Cobertura com 3 Quartos à Venda, 176m²",,,,,,-30.0080532,-51.1550333
+120000,300,45,2,1,1,0,"Rua Herculano Pinheiro, 1095 - Pavuna, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 45m²",Condomínio fechado,Aceita animais,Espaço gourmet,Playground,Quadra poliesportiva,-22.8082398,-43.352461
+750000,0,310,5,4,6,0,"Rua Sebastião Caldas, 130 - Anchieta, Rio de Janeiro - RJ","Casa de condomínio com 5 Quartos à Venda, 310m²",,,,,,-22.8295574,-43.4021451
+188000,250,45,2,1,1,0,"Rua Rúbia Mara Barbosa, 45 - Diamante, Belo Horizonte - MG","Apartamento com 2 Quartos à Venda, 45m²",Condomínio fechado,Aceita animais,Espaço gourmet,Portaria 24h,Cozinha americana,-19.9905509,-44.0224837
+330000,180,75,2,2,2,0,"Rua Acioly Brito, 351 - Mar Grosso, Laguna - SC","Apartamento com 2 Quartos à Venda, 75m²",Mobiliado,Churrasqueira,Aceita animais,Ar-condicionado,Cozinha americana,-28.4816991,-48.7702603
+1069000,1182,90,3,3,2,0,"Avenida dos Eucaliptos, 65 - Indianópolis, São Paulo - SP","Apartamento com 3 Quartos à Venda, 90m²",Elevador,Condomínio fechado,Academia,Aceita animais,Jardim,-23.6054166,-46.674857
+440000,350,90,2,2,2,0,"Rua Maria de Souza Alves, x - Manacás, Belo Horizonte - MG","Apartamento com 2 Quartos à Venda, 90m²",Churrasqueira,Elevador,Aceita animais,Espaço gourmet,Ar-condicionado,-19.8927149,-43.9976506
+880000,1430,114,3,2,1,0,"Estrada da Gávea, 847 - São Conrado, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 114m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-22.992711,-43.2550018
+370000,0,119,2,1,2,0,"Rua Florêncio Antônio Pires, 313 - Jardim das Estrelas, Sorocaba - SP","Casa com 2 Quartos à Venda, 119m²",Mobiliado,Churrasqueira,Aceita animais,Espaço gourmet,Ar-condicionado,-23.4939528,-47.4209132
+2500000,866,169,3,3,1,0,"Avenida Rebouças, 1354 - Pinheiros, São Paulo - SP","Apartamento com 3 Quartos à Venda, 169m²",Mobiliado,Elevador,Academia,Aceita animais,Área de serviço,-23.5642407,-46.6780057
+3300000,0,95,2,3,2,0,"Avenida Visconde de Albuquerque - Leblon, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 95m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Academia,-22.986614,-43.2295096
+530000,600,70,2,2,1,0,"Estrada Benvindo de Novaes, 2800 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 70m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.010222,-43.4613016
+795000,840,81,3,3,1,0,"Rua Pássaros e Flores, 444 - Brooklin, São Paulo - SP","Apartamento com 3 Quartos à Venda, 81m²",Elevador,Aceita animais,Jardim,Playground,Salão de festas,-23.62444,-46.6861144
+660000,580,45,1,1,1,0,"Rua Castilho, 155 - Brooklin, São Paulo - SP","Apartamento com Quarto à Venda, 45m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.6133318,-46.6912012
+790000,0,325,3,4,2,0,"Rua Luiz Pasteur - Trindade, Florianópolis - SC","Casa com 3 Quartos à Venda, 325m²",,,,,,-27.585175,-48.5269674
+149000,50,92,2,1,0,0,"Rua Tangará, 537 - Bonsucesso, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 92m²",Aceita animais,Ar-condicionado,,,,-22.8631762,-43.2581377
+410000,0,68,1,2,1,0,"Rua João Meirelles, 1298 - Abraão, Florianópolis - SC","Apartamento com Quarto à Venda, 68m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-27.6088529,-48.5937565
+3000000,1335,114,3,3,1,0,"Rua Desembargador Alfredo Russel - Leblon, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 114m²",Elevador,Aceita animais,Ar-condicionado,Playground,Salão de festas,-22.9812872,-43.2250911
+3380000,2000,225,3,4,4,0,"Rua Deputado Moreira da Rocha, 1443 - Meireles, Fortaleza - CE","Apartamento com 3 Quartos à Venda, 225m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-3.72780045,-38.500364964369425
+350000,0,250,3,3,2,0,"Rua Tiradentes, 1181 - Parque Industrial, São José do Rio Preto - SP","Casa com 3 Quartos à Venda, 250m²",,,,,,-20.811837,-49.3774418
+350000,546,65,2,2,1,0,"Rua Olinda Ellis, 514 - Campo Grande, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 65m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.914439,-43.5499093
+65000,0,50,2,1,1,0,"Rua Professor Basílio de Magalhães - Várzea, Recife - PE","Casa com 2 Quartos à Venda, 50m²",,,,,,-8.0389341,-34.9847871
+240000,255,55,2,1,1,0,"Avenida Guarulhos, 2845 - Ponte Grande, Guarulhos - SP","Apartamento com 2 Quartos à Venda, 55m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5041127,-46.5519901
+22000000,0,9700,0,20,0,0,"Rua Coronel Duarte da Silveira, 720 - Bingen, Petrópolis - RJ","Galpão/Depósito/Armazém à Venda, 9700m²",Portão eletrônico,,,,,-22.510125,-43.2120757
+335000,130,98,2,1,0,0,"Alameda dos Pintassilgos, 83 - Cabral, Contagem - MG","Apartamento com 2 Quartos à Venda, 98m²",Portão eletrônico,,,,,-19.8781343,-44.0432351
+570000,0,180,4,3,1,0,"Passagem Nova, 102 - Umarizal, Belém - PA","Casa com 4 Quartos à Venda, 180m²",Mobiliado,Cozinha americana,,,,-1.4432651,-48.481645
+1280000,720,144,3,3,2,0,"Rua Vitória Régia, 1300 - Campestre, Santo André - SP","Apartamento com 3 Quartos à Venda, 144m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.6436586,-46.5404373
+340000,71061,78,3,2,1,0,"Rua Clóvis Bevilacqua, 526 - Guanabara, Campinas - SP","Apartamento com 3 Quartos à Venda, 78m²",Elevador,Condomínio fechado,Aceita animais,Bicicletário,Portaria 24h,-22.885169,-47.0670497
+699000,600,109,3,3,2,0,"Rua Brasil, 494 - Centro, São Leopoldo - RS","Apartamento com 3 Quartos à Venda, 109m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Espaço gourmet,-29.761827150000002,-51.14529345
+450000,1050,135,3,3,1,0,"Rua Luiz Barbalho, 167 - Boa Vista, Recife - PE","Apartamento com 3 Quartos à Venda, 135m²",Cozinha americana,Elevador,Portaria 24h,Portão eletrônico,,-8.05755755,-34.89645241246637
+580000,700,45,1,1,0,0,"Avenida Nossa Senhora de Copacabana, 698 - Copacabana, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 45m²",Elevador,Aceita animais,Ar-condicionado,Portaria 24h,Cozinha americana,-22.966339,-43.1789583
+235000,356,60,2,2,1,0,"Rua do Canal, 450 - Mangueirão, Belém - PA","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-1.3776644,-48.4461625
+269000,304,30,1,1,0,0,"Rua Treze de Novembro, 174 - Centro, Cabo Frio - RJ","Apartamento com Quarto à Venda, 30m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.8832602,-42.0158512
+430000,1000,115,4,3,2,0,"Avenida Deputado Sílvio Teixeira, 1157 - Jardins, Aracaju - SE","Apartamento com 4 Quartos à Venda, 115m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-10.9421148,-37.056342
+1690000,1550,105,3,4,2,0,"Rua Baronesa de Poconé - Lagoa, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 105m²",Piscina,Mobiliado,Elevador,Aceita animais,Ar-condicionado,-22.9623902,-43.2016851
+59000,0,27,0,2,0,0,"Avenida Presidente Vargas, 590 - Centro, Rio de Janeiro - RJ","Sala/Conjunto à Venda, 27m²",Circuito de segurança,Câmera de segurança,Banheiro de serviço,Janela grande,Armário na cozinha,-22.9068102,-43.1957247
+530000,420,126,3,2,2,0,"Rua Afonso Pena - Estreito, Florianópolis - SC","Apartamento com 3 Quartos à Venda, 126m²",Aceita animais,Churrasqueira,Elevador,Salão de festas,Portão eletrônico,-27.5906417,-48.5848592
+1200000,1454,84,3,3,1,0,"Rua Marquês de Abrantes, 192 - Flamengo, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 84m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9395425,-43.17874160048282
+550000,0,166,3,4,3,0,"Rua Dom Marcos Teixeira, 67 - Jardim Carlos Gomes, Jundiaí - SP","Casa com 3 Quartos à Venda, 166m²",Closet,,,,,-23.174455,-46.877439
+650000,450,70,2,2,1,0,"Rua Pastor William Richard Schisler Filho, 504 - Itacorubi, Florianópolis - SC","Apartamento com 2 Quartos à Venda, 70m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-27.5775097,-48.5127577
+850000,1400,115,4,4,2,0,"Rua Alfredo Ceschiatti - Jacarepaguá, Rio de Janeiro - RJ","Apartamento com 4 Quartos à Venda, 115m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.972871,-43.3840365
+700000,700,113,4,4,2,0,"Rua Ceará, 526 - Pituba, Salvador - BA","Apartamento com 4 Quartos à Venda, 113m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-13.0028348,-38.4646281
+350000,590,69,3,3,1,0,"Rua Miguel Cervantes, 107 - Cachambi, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 69m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.8908739,-43.2694914
+500000,450,67,2,1,0,0,"Praça dos Omaguás, 58 - Pinheiros, São Paulo - SP","Apartamento com 2 Quartos à Venda, 67m²",Aceita animais,Portão eletrônico,,,,-23.562248,-46.6918819
+800000,0,200,5,4,2,0,"Rua Dom Duarte Leopoldo, 566 - Cambuci, São Paulo - SP","Sobrado com 5 Quartos à Venda, 200m²",,,,,,-23.5709779,-46.6197538
+1650000,0,125,3,3,2,0,"Rua Morais de Barros, 391 - Campo Belo, São Paulo - SP","Casa de Vila com 3 Quartos à Venda, 125m²",,,,,,-23.6202777,-46.6671787
+220000,280,43,2,1,1,0,"Rua Léa Maria Brandão Russo, 131 - Jardim Satélite, São José dos Campos - SP","Apartamento com 2 Quartos à Venda, 43m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-23.2317875,-45.87807757622448
+410000,170,78,2,2,2,0,"Rua Felizardo Furtado, 111 - Petrópolis, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 78m²",Condomínio fechado,Aceita animais,Ar-condicionado,Armário embutido no quarto,Armário na cozinha,-30.0448508,-51.1837348
+175000,320,50,2,1,1,0,"Rua Vicente Golfeto, 251 - Campos Eliseos, Ribeirão Preto - SP","Apartamento com 2 Quartos à Venda, 50m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-21.1527877,-47.795963
+1045000,2064,197,4,5,2,0,"Rua Buenos Aires, 681 - Batel, Curitiba - PR","Apartamento com 4 Quartos à Venda, 197m²",Elevador,,,,,-25.4387382,-49.2806384
+1290000,570,280,4,7,6,0,"Avenida Doutor Heitor Nascimento, 900 - Jardim America, Paulínia - SP","Casa de condomínio com 4 Quartos à Venda, 280m²",,,,,,-22.7734315,-47.1459428
+350000,297,88,2,1,1,0,"Avenida Professor Oscar Pereira, 1207 - Azenha, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 88m²",Aceita animais,Bicicletário,Portão eletrônico,,,-30.0525727,-51.2122145
+175000,265,67,2,1,1,0,"Rua Monsenhor Alcindo Carlos Veloso Siqueira, 23 - Jardim São Paulo, São Carlos - SP","Apartamento com 2 Quartos à Venda, 67m²",Aceita animais,Bicicletário,Jardim,Condomínio fechado,Portão eletrônico,-22.032798,-47.8802102
+188000,363,66,2,2,0,0,"Rua Santos Titara, 92 - Méier, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 66m²",Aceita animais,Portão eletrônico,,,,-22.8997237,-43.2858449
+450000,0,250,3,4,2,0,"Rua Andréa Martini, 42 - Jardim São Roberto, São Paulo - SP","Casa com 3 Quartos à Venda, 250m²",Espaço gourmet,,,,,-23.6191535,-46.500943
+1400000,800,128,3,3,2,0,"Rua Salvatina Feliciana dos Santos, 235 - Itacorubi, Florianópolis - SC","Apartamento com 3 Quartos à Venda, 128m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-27.5919535,-48.4922007
+320000,380,65,2,1,0,0,"Avenida Amazonas, 61 - Centro, Belo Horizonte - MG","Apartamento com 2 Quartos à Venda, 65m²",Varanda gourmet,Aceita animais,Elevador,Portaria 24h,,-19.9194901,-43.9395201
+580000,700,54,1,2,1,0,"Alameda dos Arapanés, 1142 - Moema, São Paulo - SP","Apartamento com Quarto à Venda, 54m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Academia,-23.5996479,-46.6603918
+450000,900,97,3,2,1,0,"Rua Tenente Antônio João, 61 - Graças, Recife - PE","Apartamento com 3 Quartos à Venda, 97m²",Jardim,Playground,Salão de festas,Elevador,,-8.0470251,-34.90153
+185000,0,145,3,2,0,0,"Avenida Trinta e Um de Março, 428 - Cristo Rei, Várzea Grande - MT","Casa com 3 Quartos à Venda, 145m²",,,,,,-15.6526583,-56.1049755
+1400000,1891,128,3,2,1,0,"Rua Doutor Renato Paes de Barros, 502 - Itaim Bibi, São Paulo - SP","Apartamento com 3 Quartos à Venda, 128m²",Elevador,Aceita animais,Jardim,Bicicletário,Portaria 24h,-23.5785631,-46.6753614
+950000,0,6000,1,2,10,0,"Rua Doutor Décio Guanabarino, 100 - Aeroporto, Juiz de Fora - MG","Fazenda/Sítio/Chácara com Quarto à Venda, 6000m²",Piscina,Mobiliado,Churrasqueira,Aceita animais,Jardim,-21.7984502,-43.380596
+480000,689,35,1,1,0,0,"Avenida Nossa Senhora de Copacabana - Copacabana, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 35m²",Mobiliado,Elevador,Ar-condicionado,Portaria 24h,Cozinha americana,-22.9856853,-43.1900807
+1300000,730,112,3,4,3,0,"Rua Doutor Samuel Porto, 237 - Saúde, São Paulo - SP","Apartamento com 3 Quartos à Venda, 112m²",Piscina,Churrasqueira,Elevador,Academia,Espaço gourmet,-23.6151341,-46.639629
+340000,530,62,2,2,1,0,"Rua Retiro dos Artistas, 855 - Pechincha, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 62m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9386845,-43.3546043
+130000,352,50,2,1,1,0,"Rua Vale dos Pássaros, 93 - Cidade Industrial, Curitiba - PR","Apartamento com 2 Quartos à Venda, 50m²",Aceita animais,Bicicletário,Salão de festas,Portaria 24h,,-25.4905343,-49.3496265
+3500000,1700,314,3,6,5,0,"Avenida Afonso de Taunay, 165 - Barra da Tijuca, Rio de Janeiro - RJ","Cobertura com 3 Quartos à Venda, 314m²",,,,,,-23.0136303,-43.3135674
+750000,850,140,3,2,1,0,"Rua Conde de Bonfim, 491 - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 140m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,-22.9462967,-43.2555171
+600000,800,33,1,1,1,0,"Rua Humberto I, 1005 - Vila Mariana, São Paulo - SP","Flat com Quarto à Venda, 33m²",,,,,,-23.5881952,-46.6400848
+1490000,2200,386,2,3,2,0,"Avenida Salvador Allende, 6300 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ","Cobertura com 2 Quartos à Venda, 386m²",Churrasqueira na varanda,Estacionamento para visitantes,Área de lazer,Armário embutido no quarto,Armário na cozinha,-23.0075867,-43.4385923
+299000,300,52,2,1,1,0,"Rua Júlio Prestes, 194 - Centro, Diadema - SP","Apartamento com 2 Quartos à Venda, 52m²",Aceita animais,,,,,-23.6943449,-46.6312353
+1350000,2174,158,4,3,1,0,"Rua Pompeu Loureiro, 27 - Copacabana, Rio de Janeiro - RJ","Apartamento com 4 Quartos à Venda, 158m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-22.9754585,-43.1934977
+1950000,2500,156,4,3,3,0,"Estrada do Joá, 88 - São Conrado, Rio de Janeiro - RJ","Apartamento com 4 Quartos à Venda, 156m²",Piscina,Mobiliado,Elevador,Academia,Aceita animais,-23.0004817,-43.274378
+850000,2258,180,4,4,3,0,"Rua João Stanis, 5 - Taquaral, Campinas - SP","Apartamento com 4 Quartos à Venda, 180m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-22.8872162,-47.0562674
+440000,400,74,2,1,1,0,"Rua Encantado - Zona Nova, Capão da Canoa - RS","Apartamento com 2 Quartos à Venda, 74m²",Aceita animais,Mobiliado,Portão eletrônico,,,-29.7494857,-50.0101341
+1200000,0,180,1,2,2,1,"Rua Paracatu, 727 - Barro Preto, Belo Horizonte - MG","Apartamento com Quarto à Venda, 180m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-19.92433345,-43.9521898
+570000,1008,93,3,3,2,0,"Avenida Doutor Guilherme Dumont Vilares, 3333 - Vila Andrade, São Paulo - SP","Apartamento com 3 Quartos à Venda, 93m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.6150579,-46.7408569
+2700000,2734,191,4,6,4,0,"Rua Capote Valente, 127 - Pinheiros, São Paulo - SP","Apartamento com 4 Quartos à Venda, 191m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-23.5520812,-46.6794539
+250000,300,70,2,1,1,0,"Rua Doutor Werneck, 41 - Vila Albuquerque, Campo Grande - MS","Apartamento com 2 Quartos à Venda, 70m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-20.4996037,-54.6017932
+900000,340,190,3,4,4,0,"Rua Miguel Petroni, 4900 - Residencial Eldorado, São Carlos - SP","Casa de condomínio com 3 Quartos à Venda, 190m²",,,,,,-21.9795573,-47.9306842
+1499000,1319,150,3,3,1,0,"Rua Pompeu Loureiro, 20 - Copacabana, Rio de Janeiro - RJ","Cobertura com 3 Quartos à Venda, 150m²",,,,,,-22.9754585,-43.1934977
+279000,274,67,3,3,2,0,"Rua das Carnaúbas, 775 - Passaré, Fortaleza - CE","Apartamento com 3 Quartos à Venda, 67m²",Aceita animais,Closet,Cozinha americana,Condomínio fechado,,-3.8077841,-38.5352057
+2200000,2300,190,4,3,3,0,"Avenida Lageado, 1000 - Petrópolis, Porto Alegre - RS","Apartamento com 4 Quartos à Venda, 190m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-30.0407083,-51.1886823
+108000,203,43,2,1,1,0,"Rua Luiz Fuad Abib, 105 - Shopping Park, Uberlândia - MG","Apartamento com 2 Quartos à Venda, 43m²",Churrasqueira,Condomínio fechado,Aceita animais,Jardim,Playground,-18.9700885,-48.2709354
+290000,255,114,3,2,0,0,"Alameda dos Comerciantes, 295 - Cabral, Contagem - MG","Apartamento com 3 Quartos à Venda, 114m²",Aceita animais,Espaço gourmet,Condomínio fechado,Portão eletrônico,Jardim,-19.8744187,-44.0457666
+560000,0,130,2,2,1,0,"Cubas, Socorro - SP","Casa com 2 Quartos à Venda, 130m²",,,,,,-23.5147528,-46.18726608614932
+309999,451,61,3,2,2,0,"Avenida Cidade Jardim, 1065 - Jardim Satélite, São José dos Campos - SP","Apartamento com 3 Quartos à Venda, 61m²",Piscina,Churrasqueira,Elevador,Academia,Espaço gourmet,-23.221874800000002,-45.882876884902046
+159000,200,54,2,1,1,0,"Rua Scipioni Landulfo, 19 - Central Parque Sorocaba, Sorocaba - SP","Apartamento com 2 Quartos à Venda, 54m²",Condomínio fechado,Aceita animais,Armário embutido,Armário embutido no quarto,Armário na cozinha,-23.5145364,-47.5014576
+315000,300,56,2,2,1,0,"Rua José Bonifácio, 1356 - Torre, Recife - PE","Apartamento com 2 Quartos à Venda, 56m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-8.0399672,-34.9090375
+915000,0,195,3,4,2,0,"Rua Padre Germano Mayer, 131 - Cristo Rei, Curitiba - PR","Apartamento com 3 Quartos à Venda, 195m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Espaço gourmet,-25.4343661,-49.24998811892097
+638000,550,94,3,2,2,0,"Rua Brasílio Machado - Centro, São Bernardo do Campo - SP","Apartamento com 3 Quartos à Venda, 94m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.7177432,-46.5463552
+580000,875,89,2,2,2,0,"Rua José Debieux, 398 - Santana, São Paulo - SP","Apartamento com 2 Quartos à Venda, 89m²",Churrasqueira,Elevador,Aceita animais,Espaço gourmet,Jardim,-23.4939274,-46.6250092
+1250000,1800,112,3,2,1,0,"Rua Bulhões de Carvalho, 604 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 112m²",Ar-condicionado,Elevador,Acesso para deficientes,Condomínio fechado,,-22.9827121,-43.19449
+230000,0,200,2,3,3,0,"Rua José Pedro Alves, 1 - Santa Cruz, Rio de Janeiro - RJ","Casa com 2 Quartos à Venda, 200m²",Aceita animais,Ar-condicionado,Varanda gourmet,Estacionamento,Lavanderia,-22.8873937,-43.678418
+480000,845,68,2,2,1,0,"Avenida Maracanã, 1381 - Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 68m²",Elevador,Aceita animais,Jardim,Bicicletário,Portaria 24h,-22.9244753,-43.2364518
+490000,750,70,3,2,1,0,"Rua Pereira de Almeida, 7 - Praça da Bandeira, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 70m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.91307,-43.2124966
+270000,60,100,2,2,2,0,"Avenida João Ribeiro, 571 - Pilares, Rio de Janeiro - RJ","Casa de condomínio com 2 Quartos à Venda, 100m²",,,,,,-22.8763068,-43.2969312
+110000,0,34,0,1,0,0,"Rua Professor Aloísio Pessoa de Araújo, 80 - Boa Viagem, Recife - PE","Sala/Conjunto à Venda, 34m²",,,,,,-8.1285911,-34.9011772
+249900,307,79,3,2,1,0,"Rua Arriconha, 21 - Alvorada, Contagem - MG","Apartamento com 3 Quartos à Venda, 79m²",Ar-condicionado,Elevador,,,,-19.9120087,-44.0764875
+158000,0,50,2,1,1,0,"Rua Edmundo Felipe da Rocha, 149 - Shopping Park, Uberlândia - MG","Casa com 2 Quartos à Venda, 50m²",,,,,,-18.9712609,-48.26676
+580000,927,94,3,3,1,0,"Rua Comandante Rúbens Silva, 90 - Freguesia- Jacarepaguá, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 94m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-22.9376169,-43.3372972
+550000,1160,140,3,3,1,0,"Rua do Espinheiro, 316 - Espinheiro, Recife - PE","Apartamento com 3 Quartos à Venda, 140m²",Aceita animais,Ar-condicionado,Elevador,Portaria 24h,Portão eletrônico,-8.0454336,-34.8950628
+470000,1500,130,4,3,2,0,"Rua Alberto Quatrini Bianchi, 540 - Enseada, Guarujá - SP","Apartamento com 4 Quartos à Venda, 130m²",Piscina,Mobiliado,Churrasqueira,Elevador,Varanda,-23.9836099,-46.2340141
+1350000,0,305,4,6,3,0,"Rua 1, 110 - Setor Oeste, Goiânia - GO","Apartamento com 4 Quartos à Venda, 305m²",Piscina,Churrasqueira,Elevador,Varanda,Academia,-16.6855132,-49.2619262
+420000,0,65,2,2,1,0,"Rua Carlos Martins, 1443 - Jardim Camburi, Vitória - ES","Apartamento com 2 Quartos à Venda, 65m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-20.2533649,-40.2698561706045
+580000,1200,132,4,3,1,0,"Rua Jerônimo Durski, 1533 - Bigorrilho, Curitiba - PR","Apartamento com 4 Quartos à Venda, 132m²",Churrasqueira,Elevador,Academia,Jardim,Playground,-25.4363153,-49.3058429
+440000,1250,140,3,3,1,0,"Rua Visconde de Inhaúma, 1061 - Centro, Ribeirão Preto - SP","Apartamento com 3 Quartos à Venda, 140m²",Portaria 24h,Portão eletrônico,Acesso para deficientes,Elevador,Salão de festas,-21.184779536818,-47.81570966354027
+995000,0,317,3,3,8,0,"Avenida Walter Carneiro Machado, 215 - Residencial California, Santo Antônio de Goiás - GO","Fazenda/Sítio/Chácara com 3 Quartos à Venda, 317m²",Aceita animais,Condomínio fechado,Portaria 24h,,,-16.5024912,-49.3131573
+380000,580,67,2,2,2,0,"Rua São Mateus, 1100 - Jardim do Salso, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 67m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-30.0516904,-51.169462469458125
+820000,560,89,2,2,0,0,"Rua Marquês de Abrantes, 189 - Flamengo, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 89m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.9396371,-43.17801112952978
+890000,900,96,3,2,1,0,"Rua Barão de Mesquita, 280 - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 96m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.9240545,-43.2365207
+4500000,2800,203,3,5,3,0,"Rua Doutor Renato Paes de Barros, 901 - Itaim Bibi, São Paulo - SP","Apartamento com 3 Quartos à Venda, 203m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-23.5785631,-46.6753614
+185000,614,46,1,2,1,0,"Rua Marechal Bittencourt, 184 - Riachuelo, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 46m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9052524,-43.255924
+650000,600,90,3,2,1,0,"Rua Dorval da Silva, 25 - Nossa Senhora do Rosário, São José - SC","Apartamento com 3 Quartos à Venda, 90m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-27.5770602,-48.6164612
+850000,0,145,4,4,2,0,"Rua Francisco Paulo, 31 - Tatuapé, São Paulo - SP","Casa com 4 Quartos à Venda, 145m²",Aceita animais,Varanda gourmet,,,,-23.5468419,-46.5745512
+685000,490,110,2,3,0,0,"Rua Butantã, 498 - Pinheiros, São Paulo - SP","Apartamento com 2 Quartos à Venda, 110m²",Aceita animais,,,,,-23.5711505,-46.6991709
+195000,345,50,2,1,1,0,"Rua Gato Cinzento, 759 - Vila Urupês, Suzano - SP","Apartamento com 2 Quartos à Venda, 50m²",Mobiliado,Churrasqueira,Condomínio fechado,Aceita animais,Playground,-23.5471846,-46.3015142
+345000,380,65,2,2,1,0,"Rua Coronel João de Oliveira, 355 - Messejana, Fortaleza - CE","Apartamento com 2 Quartos à Venda, 65m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Espaço gourmet,-3.8229341,-38.4873862
+700000,745,70,2,2,1,0,"Rua Professor Paulo Augusto Bueno Wolf, 3 - Ponta da Praia, Santos - SP","Apartamento com 2 Quartos à Venda, 70m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Academia,-23.9873399,-46.2969309
+890000,740,84,3,3,1,0,"Rua Tonelero, 265 - Vila Ipojuca, São Paulo - SP","Apartamento com 3 Quartos à Venda, 84m²",Piscina,Mobiliado,Playground,Salão de festas,Quadra poliesportiva,-23.5302713,-46.7044734
+1340000,1020,147,4,3,2,0,"Rua Alberto Valença, 50 - Pituba, Salvador - BA","Apartamento com 4 Quartos à Venda, 147m²",Piscina,Elevador,Condomínio fechado,Academia,Ar-condicionado,-13.0000453,-38.4520367
+5000000,2718,186,3,3,2,0,"Avenida Lúcio Costa, 3604 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 186m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.0148992,-43.4071863
+329000,300,26,1,1,0,0,"Rua General Jardim, 415 - Vila Buarque, São Paulo - SP","Apartamento com Quarto à Venda, 26m²",Churrasqueira,Elevador,Aceita animais,Jardim,Salão de festas,-23.5447191,-46.6465326
+370000,350,52,2,1,1,0,"Rua República do Iraque, 80 - Jardim Oswaldo Cruz, São José dos Campos - SP","Apartamento com 2 Quartos à Venda, 52m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.19971495,-45.883956263521604
+490000,1800,1011,0,0,0,0,"Avenida Nelson de Oliveira e Silva, 1011 - Pendotiba, Niterói - RJ","Lote/Terreno à Venda, 1011m²",Condomínio fechado,Espaço gourmet,Jardim,Salão de festas,Quadra de tênis,-22.9056297,-43.0419785
+1400000,0,353,4,6,6,0,"Rua Ari Siqueira, 80 - Vila Matilde, São Paulo - SP","Sobrado com 4 Quartos à Venda, 353m²",,,,,,-23.5351138,-46.523826
+825000,550,114,3,3,2,0,"Avenida Ricieri José Marcatto, 1444 - Vila Suíssa, Mogi das Cruzes - SP","Apartamento com 3 Quartos à Venda, 114m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5080782,-46.1479392
+1400000,1000,120,3,3,1,0,"Rua Domingos Ferreira, 168 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 120m²",Aceita animais,Ar-condicionado,Bicicletário,Elevador,Portaria 24h,-22.9721962,-43.1865848
+400000,451,67,2,2,2,0,"Rua Henrique Rocha Bloch, 115 - Vila Alati, Jundiaí - SP","Casa de condomínio com 2 Quartos à Venda, 67m²",,,,,,-23.2241486,-46.8798517
+290000,640,110,4,2,2,0,"Rua Doutor José Lourenço, 2271 - Joaquim Tavora, Fortaleza - CE","Apartamento com 4 Quartos à Venda, 110m²",,,,,,-3.7440682,-38.51047593278055
+165000,0,44,2,1,1,0,"Rua Dona Mendinha, 1025 - Cristo Redentor, Fortaleza - CE","Apartamento com 2 Quartos à Venda, 44m²",Piscina,Churrasqueira,Condomínio fechado,Aceita animais,Playground,-3.7043459,-38.5687538
+900000,950,127,3,3,2,0,"Rua das Laranjeiras, 430 - Laranjeiras, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 127m²",Churrasqueira,Elevador,Condomínio fechado,Jardim,Quadra poliesportiva,-22.9382701,-43.1916274
+175000,425,1008,0,0,0,0,"Alameda das Alamandas, 9 - Condomínio Jardins, Brumadinho - MG","Lote/Terreno à Venda, 1008m²",Churrasqueira,Condomínio fechado,Espaço gourmet,Jardim,Playground,-20.1890281,-44.0004775
+1550000,981,98,3,3,2,0,"Rua Mem de Sá, 127 - Icaraí, Niterói - RJ","Apartamento com 3 Quartos à Venda, 98m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.9031604,-43.1088825
+1690000,0,380,3,5,2,0,"Rua Adolfo Henrique Klinger, 187 - Abranches, Curitiba - PR","Sobrado com 3 Quartos à Venda, 380m²",,,,,,-25.3779648,-49.267898
+295000,300,65,2,2,1,0,"Rua Paschoal Bernal Vecina, 180 - Jardim Prestes de Barros, Sorocaba - SP","Apartamento com 2 Quartos à Venda, 65m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.507051,-47.4273695
+20000,0,20,0,0,1,0,"Rua Gustavo Sampaio, 620 - Leme, Rio de Janeiro - RJ","Garagem à Venda, 20m²",Acesso para deficientes,Rampa,Portaria 24h,,,-22.9617533,-43.1661143
+500000,450,80,2,2,2,0,"Avenida Caetano Gornati, 1500 - Engordadouro, Jundiaí - SP","Apartamento com 2 Quartos à Venda, 80m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.1510385,-46.9249872
+400000,975,110,2,2,2,0,"Avenida Presidente Wilson, 143 - José Menino, Santos - SP","Apartamento com 2 Quartos à Venda, 110m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-23.96722305,-46.34764327385004
+750000,595,175,3,4,3,0,"Rua Monte Castelo - Aviação, Praia Grande - SP","Apartamento com 3 Quartos à Venda, 175m²",Piscina,Mobiliado,Elevador,Academia,Aceita animais,-24.0183764,-46.4492175
+1100000,0,120,4,4,2,0,"Rua Jerônimo Pinto, 32 - Campinho, Rio de Janeiro - RJ","Casa com 4 Quartos à Venda, 120m²",Piscina,Churrasqueira,Academia,Aceita animais,Espaço gourmet,-22.8878005,-43.3525682
+550000,934,125,3,2,0,0,"Rua Rio de Janeiro, 28 - Centro, Poços de Caldas - MG","Apartamento com 3 Quartos à Venda, 125m²",Aceita animais,Elevador,Acesso para deficientes,Portaria 24h,,-21.7877037,-46.5649375
+450000,0,46,2,2,1,0,"Rua dos Navegantes, 785 - Boa Viagem, Recife - PE","Apartamento com 2 Quartos à Venda, 46m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Portaria 24h,-8.1199395,-34.8957061
+1400000,0,320,2,4,3,0,"Avenida Padre Lourenço, 627 - Vila Dalila, São Paulo - SP","Casa com 2 Quartos à Venda, 320m²",Mobiliado,,,,,-23.5483898,-46.5178728
+1295000,0,240,5,3,6,0,"Rua Manoel Eufrásio, 815 - Juvevê, Curitiba - PR","Casa com 5 Quartos à Venda, 240m²",Acesso para deficientes,Estacionamento,Portão eletrônico,Ar-condicionado,Jardim,-25.4103508,-49.2605257
+480000,1800,206,5,5,2,0,"Rua Bartolomeu de Gusmão, 214 - Madalena, Recife - PE","Apartamento com 5 Quartos à Venda, 206m²",Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,Área de serviço,-8.0540382,-34.9075155
+980000,800,100,2,2,2,0,"Avenida Lacerda Franco, 1562 - Aclimação, São Paulo - SP","Apartamento com 2 Quartos à Venda, 100m²",Piscina,Churrasqueira,Elevador,Quintal,Academia,-23.576421883870967,-46.62517223548387
+260000,355,65,3,2,1,0,"Rua Joaquim Martins, 398 - Passaré, Fortaleza - CE","Apartamento com 3 Quartos à Venda, 65m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-3.8043663,-38.5410002
+780000,1100,122,3,3,2,0,"Rua Evaristo de Morais, 127 - Vila Valqueire, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 122m²",Mobiliado,Churrasqueira,Elevador,Aceita animais,Espaço gourmet,-22.8851394,-43.3633285
+680000,450,66,2,2,1,0,"Rua Vitalino dos Santos Valadares, 290 - Santa Luíza, Vitória - ES","Apartamento com 2 Quartos à Venda, 66m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-20.2921914,-40.2969342
+320000,40,67,2,1,1,0,"Rua Luciana Mara Ignácio, 321 - Jardim Botânico, Ribeirão Preto - SP","Apartamento com 2 Quartos à Venda, 67m²",Aceita animais,Acesso para deficientes,Lavanderia,Portão eletrônico,Condomínio fechado,-21.2142072,-47.796077
+2100000,1223,240,5,5,2,0,"Rua Ceará - Centro, Poços de Caldas - MG","Apartamento com 5 Quartos à Venda, 240m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-21.7822236,-46.5669676
+550000,1250,124,3,3,2,0,"Rua Maceió, 640 - Adrianópolis, Manaus - AM","Apartamento com 3 Quartos à Venda, 124m²",Piscina,Churrasqueira,Elevador,Academia,Ar-condicionado,-3.0925115,-60.0143939
+460000,0,70,2,2,1,0,"Rua Monsenhor Paula Rodrigues, 129 - Vila Belmiro, Santos - SP","Apartamento com 2 Quartos à Venda, 70m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.9504981,-46.3344405
+750000,800,130,3,4,1,0,"Rua Agostinho Gomes, 1798 - Ipiranga, São Paulo - SP","Apartamento com 3 Quartos à Venda, 130m²",Elevador,Quintal,Aceita animais,Armário embutido,Cozinha americana,-23.5861678,-46.6042886
+540000,430,110,3,2,1,0,"Rua Santos, 280 - Pitangueiras, Guarujá - SP","Apartamento com 3 Quartos à Venda, 110m²",Mobiliado,Churrasqueira,Elevador,Aceita animais,Ar-condicionado,-23.9988039,-46.2623575
+340000,0,31,0,1,1,0,"Rua Iguatemi, 252 - Itaim Bibi, São Paulo - SP","Sala/Conjunto à Venda, 31m²",,,,,,-23.5859696,-46.6813336
+750000,0,192,3,3,2,0,"Rua Jucy dos Anjos, 53 - Centro, Tijucas - SC","Casa com 3 Quartos à Venda, 192m²",Aceita animais,Ar-condicionado,Closet,Varanda gourmet,Mobiliado,-27.2358493,-48.6346059
+260000,265,90,3,3,2,0,"Rua Victor Alfarano, 576 - Jardim Santa Cecilia, Sorocaba - SP","Casa de condomínio com 3 Quartos à Venda, 90m²",,,,,,-23.4455568,-47.4837014
+899000,340,157,3,3,3,0,"Rua Acari Antônio Moser, 300 - Dom Bosco, Itajaí - SC","Casa de condomínio com 3 Quartos à Venda, 157m²",,,,,,-26.9205982,-48.6801271
+590000,490,62,2,2,1,0,"Avenida Santa Marina, 1588 - Água Branca, São Paulo - SP","Apartamento com 2 Quartos à Venda, 62m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5097089,-46.6936695
+440000,0,77,2,2,1,0,"Rua Floresta Miranda, 216 - Centro, Nova Iguaçu - RJ","Apartamento com 2 Quartos à Venda, 77m²",Piscina,Churrasqueira,Elevador,Espaço gourmet,Salão de festas,-22.7624665,-43.4481148
+1100000,1100,140,2,3,3,0,"Panamby, São Paulo - SP","Cobertura com 2 Quartos à Venda, 140m²",Área de serviço,Piscina aquecida,Escritório,Armário embutido,Armário no banheiro,-23.5190045,-46.6676637
+410000,849,81,3,2,1,0,"Rua José Paolone, 181 - Santa Paula, São Caetano do Sul - SP","Apartamento com 3 Quartos à Venda, 81m²",Salão de festas,Portão eletrônico,Condomínio fechado,Portaria 24h,,-23.6128233,-46.5680979
+1200000,0,121,3,4,2,0,"Rua Tuiuti, 658 - Tatuapé, São Paulo - SP","Apartamento com 3 Quartos à Venda, 121m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.530979086659894,-46.57576404998707
+1600000,690,356,4,4,4,0,"Rua Alexandre de Gusmão - Sao Paulo II, Cotia - SP","Casa de condomínio com 4 Quartos à Venda, 356m²",,,,,,-23.5762573,-46.8709385
+679000,800,84,3,2,2,0,"Rua José Pereira de Carvalho, 350 - Jaguaré, São Paulo - SP","Apartamento com 3 Quartos à Venda, 84m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5517647,-46.7499157
+325000,300,36,1,1,1,0,"Rua Professor Bayer Filho, 60 - Coqueiros, Florianópolis - SC","Apartamento com Quarto à Venda, 36m²",Churrasqueira,Elevador,Academia,Espaço gourmet,Salão de festas,-27.606498,-48.5809542
+330000,400,73,3,2,2,0,"Avenida Helvino Moraes, 1483 - Vila São José, Taubaté - SP","Apartamento com 3 Quartos à Venda, 73m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.0146672,-45.5449533
+310000,0,90,2,2,2,0,"Estrada Velha Rio-São Paulo, 4850 - Eugênio de Melo, São José dos Campos - SP","Casa de condomínio com 2 Quartos à Venda, 90m²",Área de serviço,Churrasqueira na varanda,Piscina infantil,Espaço verde / Parque,Estacionamento para visitantes,-23.154592450000003,-45.8034873796211
+550000,0,181,5,5,3,0,"Rua Itapura, 353 - Jardim Paulista, Ribeirão Preto - SP","Casa com 5 Quartos à Venda, 181m²",Aceita animais,Ar-condicionado,Cozinha americana,Varanda gourmet,Armário embutido no quarto,-21.1795726,-47.7926333
+550000,0,225,3,3,3,0,"Rua Bahia, 10 - Niteroi, Betim - MG","Casa com 3 Quartos à Venda, 225m²",,,,,,-19.952224,-44.1790795
+1150000,790,68,2,2,2,0,"Rua do Catete, 135 - Catete, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 68m²",Mobiliado,Elevador,Aceita animais,Espaço gourmet,Ar-condicionado,-22.9256542,-43.1765046
+1950000,0,98,2,3,2,0,"Rua Doutor Bacelar, 370 - Vila Clementino, São Paulo - SP","Apartamento com 2 Quartos à Venda, 98m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.59658,-46.6478464
+315000,702,61,3,2,0,0,"Rua Francisco Muratori, 2 - Santa Teresa, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 61m²",Aceita animais,Elevador,Portão eletrônico,,,-22.9160182,-43.1814717
+550000,0,278,3,2,6,0,"Rua Juruna, 110 - Pindorama, Belo Horizonte - MG","Casa com 3 Quartos à Venda, 278m²",Churrasqueira,Aceita animais,Espaço gourmet,Jardim,Lavanderia,-19.9129822,-44.0199442
+690000,320,85,2,1,1,0,"Rua José de Alencar, 442 - Alto da Rua XV, Curitiba - PR","Apartamento com 2 Quartos à Venda, 85m²",Mobiliado,Churrasqueira,Elevador,Aceita animais,Espaço gourmet,-25.4314571,-49.2540524
+3419000,2500,180,3,4,2,0,"Rua Conselheiro Lafaiete, 4 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 180m²",Elevador,Aceita animais,Ar-condicionado,Bicicletário,Portaria 24h,-22.9862128,-43.1921237
+620000,1025,124,3,4,2,0,"Rua Doutor João Baptista Leal, 01 - Engenho do Mato, Niterói - RJ","Casa de condomínio com 3 Quartos à Venda, 124m²",,,,,,-22.9455883,-43.0133052
+480000,779,60,2,2,0,0,"Rua Doutor Nilo Peçanha, 126 - Ingá, Niterói - RJ","Apartamento com 2 Quartos à Venda, 60m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.9043402,-43.1242725
+270000,250,61,3,2,1,0,"Rua Santa Catarina, 418 - Água Verde, Curitiba - PR","Apartamento com 3 Quartos à Venda, 61m²",Aceita animais,Churrasqueira,Portão eletrônico,Playground,,-25.4622139,-49.2856479
+890000,750,60,2,2,1,0,"Rua Ribeiro do Vale, 357 - Brooklin, São Paulo - SP","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.6101796,-46.6854922
+219000,250,56,2,2,1,0,"Rua Diogo Dias Velho, 85 - Costa E Silva, Joinville - SC","Apartamento com 2 Quartos à Venda, 56m²",Piscina,Churrasqueira,Elevador,Bicicletário,Portão eletrônico,-26.2824333,-48.8699706
+1650000,1800,170,3,4,1,0,"Rua Constante Ramos, 34 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 170m²",Aceita animais,Ar-condicionado,Closet,Portaria 24h,,-22.9729138,-43.1908224
+275000,240,73,3,2,1,0,"Avenida Guarapari - Santa Amélia, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 73m²",Aceita animais,Bicicletário,Armário embutido no quarto,Armário na cozinha,Armário no banheiro,-19.840106,-43.977627
+2200000,600,192,4,5,4,0,"Rua 248, 199 - Meia Praia, Itapema - SC","Apartamento com 4 Quartos à Venda, 192m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-27.130746,-48.6059055
+489000,500,78,2,3,1,0,"Rua Teodoro da Silva, 490 - Vila Isabel, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 78m²",Bicicletário,Playground,Salão de festas,Acesso para deficientes,Portão eletrônico,-22.9198326,-43.2575619
+4200000,3488,133,1,2,2,0,"Avenida Lúcio Costa, 9700 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 133m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-23.013393495415773,-43.39671557367027
+560000,700,76,3,2,1,0,"Rua do Bispo, 191 - Rio Comprido, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 76m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9247805,-43.2095101
+670000,0,115,3,3,2,0,"Travessa Luís Gonçalves - Santana, São Paulo - SP","Casa com 3 Quartos à Venda, 115m²",Mobiliado,Quintal,Aceita animais,Área de serviço,Churrasqueira na varanda,-23.4922234,-46.6426612
+499990,0,107,2,2,3,0,"Vila Mesquita, São Paulo - SP","Casa com 2 Quartos à Venda, 107m²",Mobiliado,Churrasqueira,Aceita animais,Ar-condicionado,Lavanderia,-22.3416968,-49.0651406
+175000,0,585,0,0,0,0,"Avenida Santos Dumont, 9 - Monte Alto, Arraial do Cabo - RJ","Lote/Terreno à Venda, 585m²",,,,,,-22.9488585,-42.1172623
+800000,700,97,3,4,2,0,"Rua Neves de Carvalho, 410 - Bom Retiro, São Paulo - SP","Apartamento com 3 Quartos à Venda, 97m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5235722,-46.6469723
+840000,530,61,2,2,1,0,"Rua Vergueiro, 266 - Liberdade, São Paulo - SP","Apartamento com 2 Quartos à Venda, 61m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5725218,-46.6399318
+300000,300,87,3,2,1,0,"Avenida Marechal Rondon, 477 - São Francisco Xavier, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 87m²",Aceita animais,Ar-condicionado,Playground,Salão de festas,Condomínio fechado,-22.9058417,-43.2435769
+470000,0,210,3,2,1,0,"Rua Padre Mororó, 85 - São José, São Caetano do Sul - SP","Casa com 3 Quartos à Venda, 210m²",,,,,,-23.6318211,-46.5794198
+490000,700,76,2,2,2,0,"Avenida Governador Argemiro de Figueiredo, 925 - Jardim Oceania, João Pessoa - PB","Apartamento com 2 Quartos à Venda, 76m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-7.0737485,-34.8310603
+3500000,1200,389,4,5,4,0,"Rua Morrinhos, 0 - Residencial Alphaville Flamboyant, Goiânia - GO","Casa de condomínio com 4 Quartos à Venda, 389m²",,,,,,-16.7119375,-49.1990104
+1350000,0,375,4,3,3,0,"Rua Alberto Bressane, 247 - São Lucas, Belo Horizonte - MG","Casa com 4 Quartos à Venda, 375m²",Churrasqueira,Aceita animais,Espaço gourmet,Jardim,Varanda gourmet,-19.9300689,-43.9139527
+170000,0,80,2,2,1,0,"Rua Jatobá, 32 - Jardim Record, Taboão da Serra - SP","Casa com 2 Quartos à Venda, 80m²",Aceita animais,,,,,-23.6235899,-46.7945502
+300000,0,99,2,1,1,0,"Rua Júlio Maria, 46 - Parque Mambucaba Mambucaba, Angra dos Reis - RJ","Casa com 2 Quartos à Venda, 99m²",Cozinha americana,Aceita animais,,,,-23.0060971,-44.5318957
+1290000,690,250,4,4,3,0,"Avenida Nossa Senhora de Fátima, 20 - Vila Caicara, Praia Grande - SP","Apartamento com 4 Quartos à Venda, 250m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-24.050836,-46.5273606
+8000000,3000,1450,7,7,10,0,"Alameda Roberta, 471 - Condomínio Terras de São José, Itu - SP","Casa de condomínio com 7 Quartos à Venda, 1450m²",,,,,,-23.2931067,-47.2912889
+270000,500,48,2,1,1,0,"Rua Joviânia, 143 - Vila Carmosina, São Paulo - SP","Apartamento com 2 Quartos à Venda, 48m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5445265,-46.4484579
+633000,964,69,3,2,2,0,"Rua Padre Chico, 551 - Pompeia, São Paulo - SP","Apartamento com 3 Quartos à Venda, 69m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Academia,-23.5288252,-46.683933
+370000,0,140,2,2,2,0,"Rua Ricieri Motta - Vila Monte Alegre, Paulínia - SP","Casa com 2 Quartos à Venda, 140m²",Cozinha americana,Churrasqueira,Jardim,,,-22.7748473,-47.1700394
+475000,400,105,3,2,2,0,"Rua Marina Frutuoso, 914 - Centro, Jaraguá do Sul - SC","Apartamento com 3 Quartos à Venda, 105m²",Aceita animais,Churrasqueira,Piscina,Acesso para deficientes,Elevador,-26.49346825,-49.07412221891711
+900000,311,185,3,5,2,0,"Avenida José da Silva Sé, 1000 - Village Damha Rio Preto III, São José do Rio Preto - SP","Casa de condomínio com 3 Quartos à Venda, 185m²",,,,,,-20.7766249,-49.340939
+1995000,1760,155,3,5,3,0,"Rua Antônio de Macedo Soares, 1112 - Campo Belo, São Paulo - SP","Apartamento com 3 Quartos à Venda, 155m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-23.6245041,-46.6771915
+665000,0,250,3,6,2,0,"Rua Augusto Calheiros, 174 - Jardim Paraventi, Guarulhos - SP","Casa com 3 Quartos à Venda, 250m²",,,,,,-23.4514224,-46.5272494
+630000,1300,165,4,4,2,0,"Rua Mapendi, 550 - Taquara, Rio de Janeiro - RJ","Cobertura com 4 Quartos à Venda, 165m²",,,,,,-22.9250171,-43.3757931
+219000,220,58,2,1,1,1,"Rua Pinheiro, 126 - Arvoredo, Contagem - MG","Apartamento com 2 Quartos à Venda, 58m²",Portão eletrônico,Câmera de segurança,Cozinha americana,Mobiliado,Ar-condicionado,-19.8790029,-44.0323186
+1890000,0,1200,9,10,7,0,"Rua Jorge Rattes - Porto das Dunas, Aquiraz - CE","Hotel/Motel/Pousada com 9 Quartos à Venda, 1200m²",Piscina,Mobiliado,Churrasqueira,Ar-condicionado,Jardim,-3.8505191,-38.3910108
+1590000,1630,150,3,3,1,0,"Avenida Jornalista Alberto Francisco Torres, 155 - Icaraí, Niterói - RJ","Apartamento com 3 Quartos à Venda, 150m²",Churrasqueira,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.904247100000003,-43.115155960869565
+489000,400,89,3,2,2,0,"Rua General Osório, 1209 - Velha, Blumenau - SC","Apartamento com 3 Quartos à Venda, 89m²",Piscina,Mobiliado,Churrasqueira,Academia,Aceita animais,-26.91649315,-49.10880045
+65000,297,66,2,2,1,0,"Caminho do Lago, Caldas Novas - GO","Flat com 2 Quartos à Venda, 66m²",Varanda,Piscina aquecida,Piscina infantil,Área de lazer,Armário embutido no quarto,-17.7391152,-48.58092
+270000,550,60,3,2,1,0,"Avenida São Paulo, 331 - Jardim São Paulo, Recife - PE","Apartamento com 3 Quartos à Venda, 60m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-8.0837354,-34.94015176269795
+1800000,2056,108,3,2,1,0,"Rua Almirante Guilhem, 262 - Leblon, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 108m²",Elevador,Condomínio fechado,Aceita animais,Playground,Salão de festas,-22.9837428,-43.2188514
+496000,250,82,3,2,0,0,"Rua Almirante Alexandrino, 2206 - Santa Teresa, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 82m²",Portão eletrônico,Varanda,,,,-22.9221455,-43.1878285
+1100000,418,320,3,4,4,0,"Rua Geraldo Alonso Guerra, 124 - Nova Aliança, Ribeirão Preto - SP","Casa de condomínio com 3 Quartos à Venda, 320m²",,,,,,-21.2142409,-47.8329894
+1000000,1150,167,3,3,0,0,"Avenida Presidente Wilson, 76 - Gonzaga, Santos - SP","Apartamento com 3 Quartos à Venda, 167m²",Elevador,Condomínio fechado,Ar-condicionado,Jardim,Salão de festas,-23.9687159,-46.3370113
+550000,300,195,3,3,3,0,"Rua Cônego Domingos Martins, 332 - Centro, Betim - MG","Apartamento com 3 Quartos à Venda, 195m²",Churrasqueira,Condomínio fechado,Aceita animais,Espaço gourmet,Varanda gourmet,-19.9738173,-44.1958363
+849900,225,170,3,2,2,0,"Rua Reinaldo Stocco, 546 - Pinheirinho, Curitiba - PR","Casa de condomínio com 3 Quartos à Venda, 170m²",,,,,,-25.5174783,-49.2860838
+335000,580,68,2,1,1,0,"Rua Antonieta de Morais, 530 - Vila Matilde, São Paulo - SP","Apartamento com 2 Quartos à Venda, 68m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5429304,-46.5280411
+660000,740,86,3,2,2,0,"Rua Dona Maria Custódia, 197 - Santa Teresinha, São Paulo - SP","Apartamento com 3 Quartos à Venda, 86m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.4874868,-46.6395856
+300000,570,58,2,1,1,0,"Rua Dona Cecília Santana, 72 - Vila Granada, São Paulo - SP","Apartamento com 2 Quartos à Venda, 58m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-23.5172833,-46.5160047
+776000,0,240,3,3,2,0,"Rua Pinheiro Preto, 363 - Itaquera, São Paulo - SP","Casa com 3 Quartos à Venda, 240m²",Portão eletrônico,,,,,-23.545693,-46.4598808
+385000,200,77,2,1,1,0,"Rua Benjamin Constant, 1379 - Areias Brancas, Arroio do Sal - RS","Apartamento com 2 Quartos à Venda, 77m²",Piscina,Elevador,Aceita animais,Varanda gourmet,Câmera de segurança,-29.5397544,-49.8799121
+510000,700,78,2,2,1,0,"Rua Henry Ford - Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 78m²",Aceita animais,Portaria 24h,Condomínio fechado,,,-22.9286809,-43.2351407
+610000,440,159,3,3,2,0,"Rua Almirante Tamandaré, 128 - Alto da Rua XV, Curitiba - PR","Apartamento com 3 Quartos à Venda, 159m²",Mobiliado,Elevador,Aceita animais,Jardim,Área de serviço,-25.4318078,-49.2554586
+370000,624,50,1,1,1,0,"Rua da Consolação, 328 - Consolação, São Paulo - SP","Apartamento com Quarto à Venda, 50m²",Portaria 24h,Salão de festas,Elevador,,,-23.5476537,-46.6484836
+270000,800,50,1,2,1,0,"Avenida Orosimbo Maia, 620 - Centro, Campinas - SP","Apartamento com Quarto à Venda, 50m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Portaria 24h,-22.8924289,-47.0594533
+890000,952,84,3,3,1,0,"Rua Barão de Itambi, 20 - Botafogo, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 84m²",Portaria 24h,Salão de festas,Elevador,Portão eletrônico,Bicicletário,-22.9405309,-43.1801292
+170000,0,80,2,2,0,0,"Rua T, 8 - Leandro, Itaguaí - RJ","Casa de condomínio com 2 Quartos à Venda, 80m²",,,,,,-22.8689025,-43.8080227
+798000,650,83,3,3,2,0,"Rua Ettore Ximenes, 313 - Vila Prudente, São Paulo - SP","Apartamento com 3 Quartos à Venda, 83m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5819224,-46.5825009
+240000,315,58,2,2,1,0,"Avenida Thereza Ana Cecon Breda, 1801 - Jardim das Colinas, Hortolândia - SP","Apartamento com 2 Quartos à Venda, 58m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-22.8543887,-47.227073
+360000,500,165,2,2,1,0,"Avenida São Paulo, 698 - Boqueirão, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 165m²",Mobiliado,Elevador,Aceita animais,Playground,Salão de festas,-24.0113965,-46.4178889
+600000,0,220,6,2,2,0,"Rua Costa Ferraz, 21 - Rio Comprido, Rio de Janeiro - RJ","Casa com 6 Quartos à Venda, 220m²",Aceita animais,Ar-condicionado,,,,-22.9232134,-43.2062835
+910000,1064,183,4,4,2,0,"Rua Luiz Jacinto, 88 - Centro, São José dos Campos - SP","Apartamento com 4 Quartos à Venda, 183m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-23.1900749,-45.8898939
+149500,250,47,2,1,1,0,"Rua Arterial, 615 - Santa Maria, Contagem - MG","Apartamento com 2 Quartos à Venda, 47m²",Churrasqueira,Condomínio fechado,Aceita animais,Espaço gourmet,Jardim,-19.967839,-44.0456857
+970000,1140,72,3,3,1,0,"Rua Dona Mariana, 182 - Botafogo, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 72m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.9530169,-43.1885829
+800000,1200,100,3,3,1,0,"Rua Andrade Neves, 93 - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 100m²",Elevador,Aceita animais,Ar-condicionado,Playground,Bicicletário,-22.9314906,-43.23642435943113
+490000,0,60,2,2,1,0,"Rua Tapari, 158 - Vila Esperança, São Paulo - SP","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5290336,-46.5187008
+1200000,0,226,4,4,4,0,"Rua Dália, 37 - Bela Vista, Brumadinho - MG","Casa com 4 Quartos à Venda, 226m²",,,,,,-20.149701,-44.195854
+152000,249,45,2,1,1,0,"Rua Cláudio Sanders, 135 - Centro, Ananindeua - PA","Apartamento com 2 Quartos à Venda, 45m²",Piscina,Churrasqueira,Condomínio fechado,Espaço gourmet,Jardim,-1.3643265,-48.374114
+850000,2200,198,3,4,2,0,"Avenida Nova Cantareira - Tucuruvi, São Paulo - SP","Apartamento com 3 Quartos à Venda, 198m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.4720476,-46.6173331
+830000,1265,105,3,4,2,0,"Rua Vargem do Cedro, 127 - Sumaré, São Paulo - SP","Apartamento com 3 Quartos à Venda, 105m²",Elevador,Condomínio fechado,Academia,Aceita animais,Ar-condicionado,-23.5408137,-46.6814769
+2300000,980,225,4,5,4,0,"Rua Raposo Taváres, 171 - Praia Grande, Ubatuba - SP","Cobertura com 4 Quartos à Venda, 225m²",,,,,,-23.4742243,-45.0703798
+420000,355,73,1,1,0,0,"Rua Doutor Albuquerque Lins, 367 - Santa Cecília, São Paulo - SP","Apartamento com Quarto à Venda, 73m²",Elevador,Interfone,,,,-23.5331022,-46.6545742
+450000,1020,40,1,1,1,0,"Rua Pamplona, 83 - Bela Vista, São Paulo - SP","Flat com Quarto à Venda, 40m²",,,,,,-23.5608014,-46.6515841
+750000,0,370,5,5,0,0,"Alameda das Tulipas, 408 - Cidade 2000, Fortaleza - CE","Casa com 5 Quartos à Venda, 370m²",,,,,,-3.7521645,-38.4699652
+955000,1088,93,3,3,2,0,"Rua Bom Pastor, 481 - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 93m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.931362,-43.2345989
+400000,400,56,2,2,1,0,"Rua José Coimbra, 120 - Vila Andrade, São Paulo - SP","Apartamento com 2 Quartos à Venda, 56m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.625058,-46.7407769
+555000,423,118,3,3,1,1,"Rua Pains, 59 - Sion, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 118m²",Aceita animais,Portão eletrônico,,,,-19.9552325,-43.9311756
+830000,1334,98,3,3,2,0,"Estrada do Pontal, 7290 - Recreio Dos Bandeirantes, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 98m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.03043154923077,-43.47461015384615
+980000,600,5000,2,2,3,0,"Rua do Patrocínio, 001 - Centro, Itu - SP","Casa de condomínio com 2 Quartos à Venda, 5000m²",,,,,,-23.2658603,-47.3005968
+580000,0,103,0,3,3,0,"Rua José de Alencar, 521 - Menino Deus, Porto Alegre - RS","Sala/Conjunto à Venda, 103m²",,,,,,-30.0599219,-51.227407
+1380000,0,200,3,3,2,0,"Rua Conceição de Monte Alegre, 448 - Brooklin, São Paulo - SP","Casa de Vila com 3 Quartos à Venda, 200m²",,,,,,-23.6125689,-46.6931967
+345000,200,80,2,2,2,0,"Rua Santos Lemos, 306 - Kayser, Caxias do Sul - RS","Apartamento com 2 Quartos à Venda, 80m²",Aceita animais,Cozinha americana,Mobiliado,Salão de festas,Ar-condicionado,-29.1868132,-51.205762
+420000,0,280,0,0,0,0,"Rua Prates, 590 - Bom Retiro, São Paulo - SP","Ponto comercial/Loja/Box à Venda, 280m²",Ar-condicionado,,,,,-23.528857448863636,-46.63565894659091
+369000,590,79,2,2,1,0,"Rua Paula Brito, 564 - Andaraí, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 79m²",Elevador,Aceita animais,Salão de festas,Bicicletário,Cozinha americana,-22.9248799,-43.25232
+1200000,1350,145,4,4,2,0,"Rua Caraça, 507 - Serra, Belo Horizonte - MG","Apartamento com 4 Quartos à Venda, 145m²",Elevador,Aceita animais,Jardim,Salão de festas,Quadra poliesportiva,-19.9422829,-43.9210875
+1970000,2400,117,3,2,1,0,"Avenida Bartolomeu Mitre, 122 - Leblon, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 117m²",Elevador,Aceita animais,Jardim,Bicicletário,Acesso para deficientes,-22.9859525,-43.2227308
+400000,280,134,2,1,2,0,"Rodovia Raposo Tavares, 274 - Riviera de Santa Cristina II, Itaí - SP","Casa de condomínio com 2 Quartos à Venda, 134m²",,,,,,-23.3678234,-49.007518
+515000,680,61,2,1,2,0,"Rua Assungui, 575 - Vila Gumercindo, São Paulo - SP","Apartamento com 2 Quartos à Venda, 61m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.6071179,-46.6177397
+410000,450,91,3,2,1,0,"Rua Brasil, 1100 - Centro, Canoas - RS","Casa de condomínio com 3 Quartos à Venda, 91m²",,,,,,-29.920865,-51.1879763
+450000,843,78,3,2,1,0,"Rua Paulo Silva Araújo, 201 - Méier, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 78m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.8997237,-43.2858449
+630000,800,94,3,2,1,0,"Avenida Gabriela Prado Maia Ribeiro - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 94m²",Aceita animais,Portão eletrônico,,,,-22.9255209,-43.2314789
+925000,0,360,0,2,0,0,"Rua Amílcar Cabral, 1275 - Milionários, Belo Horizonte - MG","Galpão/Depósito/Armazém à Venda, 360m²",Ar-condicionado,Acesso para deficientes,Entrada para caminhões,Estacionamento,,-19.982812,-44.0042268
+305000,300,60,2,1,2,0,"Avenida João Ponce de Arruda, 884 - Centro, Rondonópolis - MT","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-16.4482941,-54.6242147
+1250000,1472,127,3,4,2,0,"Rua Pedro Pomponazzi - Vila Mariana, São Paulo - SP","Apartamento com 3 Quartos à Venda, 127m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.5912576,-46.6212941
+220000,320,72,3,1,1,0,"Rua Derocy Giácomo da Silva, 30 - Vila Nova, Porto Alegre - RS","Apartamento com 3 Quartos à Venda, 72m²",Mobiliado,Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,-30.1263025,-51.21133
+1350000,1500,211,3,5,4,0,"Rua Américo Alves Pereira Filho, 565 - Morumbi, São Paulo - SP","Apartamento com 3 Quartos à Venda, 211m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Academia,-23.6120049,-46.7069766
+450000,716,77,3,2,2,0,"Rua Francisca de Paula, 240 - Vila Carrão, São Paulo - SP","Apartamento com 3 Quartos à Venda, 77m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.5582311,-46.5303934
+349000,0,380,0,0,0,0,"Rua José Otávio Manica, 170 - Santa Tereza, Porto Alegre - RS","Lote/Terreno à Venda, 380m²",Desnível para trás (fundo),Frente para o leste,Rua asfaltada,Rede de água e esgoto,,-30.0682199,-51.2271152
+385000,0,68,2,1,1,0,"Avenida Germânia, 795 - Vila Germania, Nova Petrópolis - RS","Apartamento com 2 Quartos à Venda, 68m²",Piscina,Churrasqueira,Condomínio fechado,Aceita animais,Espaço gourmet,-29.3752244,-51.1428087
+980000,1510,117,3,4,1,0,"Rua Cardoso de Almeida, 978 - Perdizes, São Paulo - SP","Apartamento com 3 Quartos à Venda, 117m²",Elevador,Academia,Aceita animais,Jardim,Salão de festas,-23.5339608,-46.6653172
+429900,600,134,3,4,1,0,"Rua Sete de Setembro, 799 - Centro, Ribeirão Preto - SP","Apartamento com 3 Quartos à Venda, 134m²",Piscina,Elevador,Aceita animais,Ar-condicionado,Jardim,-21.1829925,-47.806417799789685
+400000,0,215,3,4,2,0,"Rua David Canabarro, 1189 - Centro, Balneário Pinhal - RS","Casa com 3 Quartos à Venda, 215m²",,,,,,-30.254658,-50.2361856
+162000,0,35,0,0,0,0,"Rua Conselheiro Mafra, 220 - Centro, Florianópolis - SC","Sala/Conjunto à Venda, 35m²",,,,,,-27.5938958,-48.5586816
+1800000,0,120000,3,2,10,0,"Rocas Novas, Caeté - MG","Fazenda/Sítio/Chácara com 3 Quartos à Venda, 120000m²",,,,,,-19.7581567,-43.649078431688345
+2620000,1630,164,3,5,3,0,"Rua Barão de Jaceguai - Campo Belo, São Paulo - SP","Apartamento com 3 Quartos à Venda, 164m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.6256697,-46.6797248
+1320000,850,132,3,4,2,0,"Alameda América, 101 - Tamboré, Santana de Parnaíba - SP","Apartamento com 3 Quartos à Venda, 132m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.4729475,-46.8305104
+900000,0,423,4,5,3,0,"Barra do Jacuípe, Camaçari - BA","Fazenda/Sítio/Chácara com 4 Quartos à Venda, 423m²",Condomínio fechado,Aceita animais,Ar-condicionado,Portaria 24h,Cozinha americana,-12.7001756,-38.1342717
+900000,500,60,2,2,0,0,"Rua Vinícius de Moraes, 146 - Ipanema, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 60m²",Aceita animais,Ar-condicionado,Elevador,Portão eletrônico,Portaria 24h,-22.982206,-43.2027095
+725000,0,160,3,1,6,0,"Rua Raul Rangel, 290 A - Centro, Itaguaí - RJ","Casa com 3 Quartos à Venda, 160m²",Aceita animais,Closet,Ar-condicionado,Mobiliado,Lavanderia,-22.8711239,-43.7738711
+850000,600,140,4,3,1,0,"Rua Santa Rita Durão, 614 - Savassi, Belo Horizonte - MG","Apartamento com 4 Quartos à Venda, 140m²",Aceita animais,Ar-condicionado,,,,-19.9354248,-43.9307281
+265000,320,52,2,1,1,0,"Rua Athaide Cardon, 38 - Novo Mundo, Curitiba - PR","Apartamento com 2 Quartos à Venda, 52m²",Aceita animais,Mobiliado,Salão de festas,Acesso para deficientes,Elevador,-25.4852843,-49.2875739
+660000,823,151,3,3,2,0,"Rua Professor Henrique Costa, 264 - Pechincha, Rio de Janeiro - RJ","Cobertura com 3 Quartos à Venda, 151m²",,,,,,-22.9314865,-43.362215
+370000,350,58,2,2,1,0,"Rua Ositha Sigrist Pongeluppi, 1113 - Morumbi, Paulínia - SP","Apartamento com 2 Quartos à Venda, 58m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.7744997,-47.1401258
+850000,750,85,2,2,2,0,"Rua Pereira de Siqueira, 44 - Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 85m²",Closet,Academia,Espaço gourmet,Piscina,Playground,-22.9189741,-43.2238138
+1200000,0,600,12,4,6,0,"Rua Luís Barbosa, 30 - Vila Isabel, Rio de Janeiro - RJ","Prédio/Edifício inteiro com 12 Quartos à Venda, 600m²",Andar inteiro,Ambientes integrados,,,,-22.9149466,-43.250532
+325000,420,72,3,2,2,0,"Rua Alexandre Herculano, 40 - Vila Monteiro, Piracicaba - SP","Apartamento com 3 Quartos à Venda, 72m²",Churrasqueira,Elevador,Aceita animais,Ar-condicionado,Jardim,-22.7307548,-47.6324401
+220000,382,57,2,1,1,0,"Avenida Engenheiro Antônio Francisco de Paula Souza, 3007 - Jardim São Vicente, Campinas - SP","Apartamento com 2 Quartos à Venda, 57m²",Piscina,Churrasqueira,Condomínio fechado,Academia,Aceita animais,-22.9259027,-47.0484088
+1700000,920,140,3,3,2,0,"Avenida Mofarrej, 1130 - Vila Leopoldina, São Paulo - SP","Apartamento com 3 Quartos à Venda, 140m²",Piscina,Elevador,Condomínio fechado,Academia,Aceita animais,-23.5272463,-46.7402306
+795000,650,85,3,2,2,0,"Rua Elias Antonio Zogbi, 150 - Santo Amaro, São Paulo - SP","Apartamento com 3 Quartos à Venda, 85m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-23.661246,-46.7070745
+320000,750,83,2,3,1,0,"Estrada do Encanamento, 702 - Casa Forte, Recife - PE","Apartamento com 2 Quartos à Venda, 83m²",Elevador,Portaria 24h,Aceita animais,,,-8.0309763,-34.9165256
+1850000,750,437,3,5,2,0,"Avenida Américo Belay, 1103 - Jardim Imperial, Maringá - PR","Casa de condomínio com 3 Quartos à Venda, 437m²",,,,,,-23.3831546,-51.9235152
+360000,150,90,3,1,0,0,"Rua Caiapó, 69 - Engenho Novo, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 90m²",,,,,,-22.9094001,-43.2740164
+265000,0,75,2,2,2,0,"Rua Ana Lúcia da Silveira Oliveira Santos - Jardim Santa Lúcia, Franca - SP","Apartamento com 2 Quartos à Venda, 75m²",Portão eletrônico,Varanda gourmet,,,,-20.5621272,-47.3869304
+450000,398,84,2,3,1,0,"Avenida Beira Mar - Praia do Morro, Guarapari - ES","Apartamento com 2 Quartos à Venda, 84m²",Piscina,Mobiliado,Aceita animais,Espaço gourmet,Salão de festas,-20.6521253,-40.4812965
+690000,800,150,2,3,2,0,"Travessa Santa Rosa do Viterbo, 24 - Santa Rosa, Niterói - RJ","Apartamento com 2 Quartos à Venda, 150m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9036768,-43.0945288
+269000,300,72,2,2,1,0,"Rua Alfredo Fernandes, 150 - Casa Forte, Recife - PE","Apartamento com 2 Quartos à Venda, 72m²",Aceita animais,Ar-condicionado,,,,-8.0361325,-34.9142188
+320000,0,52,2,1,1,0,"Avenida Samuel Martins, 000 - Vila Progresso, Jundiaí - SP","Apartamento com 2 Quartos à Venda, 52m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.2069765,-46.8680478
+920000,600,80,2,3,2,0,"Rua Olavo Bilac, 770 - Santana, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 80m²",Piscina,Mobiliado,Churrasqueira,Elevador,Academia,-30.0420904,-51.2154918
+875000,0,230,4,5,8,0,"Rua Pedro de Melo Sousa - Freguesia do Ó, São Paulo - SP","Casa com 4 Quartos à Venda, 230m²",Aceita animais,Closet,Mobiliado,Varanda gourmet,Portão eletrônico,-23.5040622,-46.7023946
+580000,0,190,4,2,3,0,"Rua Jordalino Pietro Bom, 288 - Jardim Morada do Sol, Indaiatuba - SP","Sobrado com 4 Quartos à Venda, 190m²",,,,,,-23.1216391,-47.2388787
+320000,374,75,2,2,1,0,"Rua Bartolomeu Dias, 314 - Aviação, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 75m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-24.016244,-46.4458937
+170000,750,40,1,1,1,0,"Setor Oeste, Goiânia - GO","Flat com Quarto à Venda, 40m²",,,,,,-16.68122,-49.272167
+950000,730,90,2,2,1,0,"Rua Iguatemi, 380 - Itaim Bibi, São Paulo - SP","Apartamento com 2 Quartos à Venda, 90m²",Aceita animais,Elevador,Lavanderia,Condomínio fechado,Portão eletrônico,-23.5859696,-46.6813336
+1250000,0,328,4,3,2,0,"Rua Francisco Guedes da Silva, 475 - Penedo, Itatiaia - RJ","Casa com 4 Quartos à Venda, 328m²",Ar-condicionado,Closet,Lareira,,,-22.4482236,-44.5262387
+1500000,0,180,5,2,2,0,"Estrada Francisco da Cruz Nunes, 1810 - Itaipu, Niterói - RJ","Casa com 5 Quartos à Venda, 180m²",Ar-condicionado,Acesso para deficientes,Estacionamento,,,-22.9452882,-43.0337557
+1390000,450,245,3,6,5,0,"Residencial Gaivota II, São José do Rio Preto - SP","Casa de condomínio com 3 Quartos à Venda, 245m²",,,,,,-20.8084806,-49.3369727
+155000,198,50,2,1,1,0,"Rua Santo Antônio - São João Batista, Belo Horizonte - MG","Apartamento com 2 Quartos à Venda, 50m²",Condomínio fechado,Salão de festas,Portaria 24h,Área de lazer,Gesso - Sanca - Teto Rebaixado,-19.8201501,-43.9551005
+780000,0,300,3,3,6,0,"Avenida Nossa Senhora de Nazareth - Itauna, Saquarema - RJ","Casa com 3 Quartos à Venda, 300m²",Aceita animais,Jardim,,,,-22.9349332,-42.4652347
+250000,290,68,2,1,1,0,"Rua Mário Mendes, 91 - Jardim Chapadão, Campinas - SP","Apartamento com 2 Quartos à Venda, 68m²",Ar-condicionado,Bicicletário,Condomínio fechado,Portão eletrônico,Aceita animais,-22.8968865,-47.0837062
+174900,400,50,2,1,1,0,"Rua Dona Leopolda - Vila São Paulo, Ferraz de Vasconcelos - SP","Apartamento com 2 Quartos à Venda, 50m²",Piscina,Churrasqueira,Varanda,Academia,Playground,-23.5580748,-46.3635935
+365000,440,54,2,1,1,0,"Rua Nilza Chiapeta Fadigas - Varzea, Teresópolis - RJ","Apartamento com 2 Quartos à Venda, 54m²",Jardim,Portão eletrônico,,,,-22.4185685,-42.972363
+500000,650,140,3,3,1,0,"Rua São Mateus, 516 - São Mateus, Juiz de Fora - MG","Apartamento com 3 Quartos à Venda, 140m²",Aceita animais,Salão de festas,Elevador,Portaria 24h,,-21.7773322,-43.3559263
+320000,350,74,3,1,1,0,"Avenida Governador Ivo Silveira, 2716 - Capoeiras, Florianópolis - SC","Apartamento com 3 Quartos à Venda, 74m²",Mobiliado,Churrasqueira,Condomínio fechado,Aceita animais,Ar-condicionado,-27.5988142,-48.578813
+400000,345,58,2,2,1,0,"Avenida Imperatriz Leopoldina, 550 - Taquaral, Campinas - SP","Apartamento com 2 Quartos à Venda, 58m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.8820771,-47.0655902
+670000,1738,111,3,3,1,0,"Rua Edmundo March, 47 - Boa Viagem, Niterói - RJ","Apartamento com 3 Quartos à Venda, 111m²",Elevador,Condomínio fechado,Ar-condicionado,Salão de festas,Bicicletário,-22.9059837,-43.1311551
+700000,0,240,3,3,2,0,"Rodovia SC-281 - Colonia Santana, São José - SC","Casa com 3 Quartos à Venda, 240m²",Piscina,Mobiliado,Aceita animais,Ar-condicionado,Jardim,-27.586363,-48.7255008
+150000,0,48,0,1,0,0,"Rua Álvaro Muller, 743 - Vila Itapura, Campinas - SP","Sala/Conjunto à Venda, 48m²",,,,,,-22.8955407,-47.0630025
+790000,1200,69,3,2,0,0,"Rua Paula Freitas, 90 - Copacabana, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 69m²",Elevador,Aceita animais,Ar-condicionado,Área de serviço,Portaria 24h,-22.9681485,-43.1828045
+610000,0,190,5,5,5,0,"Centro, Guarapari - ES","Casa com 5 Quartos à Venda, 190m²",Mobiliado,Churrasqueira,Varanda,Aceita animais,Área de serviço,-20.671132,-40.4994027
+550000,0,86,0,4,0,0,"Rua Portugal - Eldorado, Contagem - MG","Sala/Conjunto à Venda, 86m²",,,,,,-19.9381556,-44.045782
+195000,250,50,2,1,1,0,"Rua Manoel Rosa, 116 - Areias, São José - SC","Apartamento com 2 Quartos à Venda, 50m²",Piscina,Churrasqueira,Condomínio fechado,Academia,Aceita animais,-27.5527216,-48.6349062
+1810000,1800,186,4,5,2,0,"Rua Bartira, 901 - Perdizes, São Paulo - SP","Apartamento com 4 Quartos à Venda, 186m²",Piscina,Elevador,Condomínio fechado,Salão de festas,Portaria 24h,-23.5350252,-46.6770901
+255000,850,38,1,1,1,0,"Rua Visconde do Rio Branco, 1338 - Centro, Curitiba - PR","Flat com Quarto à Venda, 38m²",,,,,,-25.433539099999997,-49.27985219999999
+1755000,2600,150,3,4,2,0,"Rua Soares Cabral - Laranjeiras, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 150m²",Piscina,Elevador,Aceita animais,Salão de festas,Portaria 24h,-22.9345816,-43.1874919
+290000,1690,54,1,1,1,0,"Alameda Madeira, 292 - Alphaville, Barueri - SP","Flat com Quarto à Venda, 54m²",Varanda,Área de lazer,Armário embutido no quarto,Armário na cozinha,Armário no banheiro,-23.495389,-46.8515508
+350000,600,80,3,2,1,0,"Rua Emílio Trevisan - Jardim Bela Daria, Presidente Prudente - SP","Apartamento com 3 Quartos à Venda, 80m²",Mobiliado,Elevador,Condomínio fechado,Aceita animais,Ar-condicionado,-22.1373198,-51.3869128
+255000,0,180,2,4,2,0,"Rua do Governo, 1677 - Realengo, Rio de Janeiro - RJ","Casa de Vila com 2 Quartos à Venda, 180m²",,,,,,-22.8922985,-43.4401977
+480000,0,147,3,2,3,0,"Rua Guararapes, 1067 - Vila Claudia, Limeira - SP","Casa com 3 Quartos à Venda, 147m²",,,,,,-22.5808988,-47.3988269
+490000,400,33,1,1,0,0,"Rua Artur Prado, 501 - Bela Vista, São Paulo - SP","Apartamento com Quarto à Venda, 33m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5609606,-46.6426224
+950000,0,292,6,5,3,0,"Avenida Cristiano Machado, 0 - Colégio Batista, Belo Horizonte - MG","Casa com 6 Quartos à Venda, 292m²",Aceita animais,,,,,-19.9058542,-43.9371935
+450000,470,126,3,3,0,0,"Rua Laurindo, 426 - Santana, Porto Alegre - RS","Apartamento com 3 Quartos à Venda, 126m²",,,,,,-30.0423649,-51.2104429
+3390000,1000,168,4,4,2,0,"Boulevard Paulo Zimmer, 101 - Agronômica, Florianópolis - SC","Apartamento com 4 Quartos à Venda, 168m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-27.5743046,-48.5384626
+1280000,1510,92,2,2,1,0,"Rua do Humaitá, 270 - Humaitá, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 92m²",Piscina,Churrasqueira,Elevador,Academia,Espaço gourmet,-22.9600888,-43.20302
+245000,400,52,2,2,1,0,"Rua Tenente Ary Tarrago, 3095 - Jardim Itú Sabará, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 52m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-30.0315763,-51.1345354
+475500,400,76,2,2,1,0,"Avenida Luiz Boiteux Piazza, 3800 - Cachoeira do Bom Jesus, Florianópolis - SC","Apartamento com 2 Quartos à Venda, 76m²",Ar-condicionado,,,,,-27.4211011,-48.4338225
+3000000,1700,174,3,5,2,0,"Rua Ministro Godói, 664 - Perdizes, São Paulo - SP","Apartamento com 3 Quartos à Venda, 174m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.5382711,-46.6722576
+870000,1350,122,3,3,2,0,"Rua Dona Delfina, 138 - Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 122m²",Salão de festas,Elevador,Portão eletrônico,Aceita animais,Ar-condicionado,-22.9315729,-43.2397977
+360000,400,81,2,2,0,0,"Rua General Gomes Carneiro, 465 - Medianeira, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 81m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-30.068941,-51.2109603
+10000000,0,5878,80,80,0,0,"Avenida General Melo, 75 - Poção, Cuiabá - MT","Prédio/Edifício inteiro com 80 Quartos à Venda, 5878m²",,,,,,-15.606831,-56.0913406
+180000,130,44,1,1,1,0,"Rua São Sebastião - Sao Sebastiao, Petrópolis - RJ","Apartamento com Quarto à Venda, 44m²",Gás Encanado,Playground,Salão de festas,,,-22.5365797,-43.1919725
+2300000,3600,242,4,5,4,0,"Rua Pascal, 1160 - Campo Belo, São Paulo - SP","Apartamento com 4 Quartos à Venda, 242m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-23.6163611,-46.6772909
+1250000,1100,77,2,2,1,0,"Rua Roberto Dias Lópes, 220 - Leme, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 77m²",Piscina,Mobiliado,Elevador,Aceita animais,Ar-condicionado,-22.9627089,-43.1734841
+239000,0,6760,2,2,3,0,"Rua Luis Sergio de Sousa Oliveira, 122 - Parque das Laranjeiras, Uberaba - MG","Casa com 2 Quartos à Venda, 6760m²",,,,,,-19.7903612,-47.979296
+800000,0,260,3,2,2,0,"Olaria, Rio de Janeiro - RJ","Casa com 3 Quartos à Venda, 260m²",,,,,,-22.3045957,-42.5406267
+450000,500,63,2,2,1,0,"Avenida Santo Antônio, 561 - Vila Osasco, Osasco - SP","Apartamento com 2 Quartos à Venda, 63m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.5421317,-46.7777023
+650000,1300,100,3,3,3,0,"Rua Togo - Vila Maria, São Paulo - SP","Apartamento com 3 Quartos à Venda, 100m²",Piscina,Mobiliado,Condomínio fechado,Aceita animais,Jardim,-23.5073529,-46.582147
+315000,580,44,1,1,1,0,"Rua Major Solon, 880 - Centro, Campinas - SP","Apartamento com Quarto à Venda, 44m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.8971983,-47.0589991
+370000,160,61,2,1,1,0,"Jacarepaguá, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 61m²",Mobiliado,Condomínio fechado,Varanda,Aceita animais,Ar-condicionado,-22.9665038,-43.3713193
+1050000,2680,322,4,3,5,0,"Avenida Boa Viagem, 914 - Boa Viagem, Recife - PE","Apartamento com 4 Quartos à Venda, 322m²",Aceita animais,Salão de festas,Elevador,Portaria 24h,Espaço gourmet,-8.0993824,-34.8848114098732
+235000,0,27,0,1,1,0,"Rua Francisco Eugênio, 268 - São Cristóvão, Rio de Janeiro - RJ","Sala/Conjunto à Venda, 27m²",,,,,,-22.9079671,-43.2197555
+400000,207,95,3,2,2,0,"Rua Antonio Sérgio Roccon - Horto Florestal, Sorocaba - SP","Casa com 3 Quartos à Venda, 95m²",Churrasqueira,Quintal,Espaço gourmet,Playground,Varanda gourmet,-23.4402309,-47.4939401
+680000,1600,284,5,5,4,0,"Avenida Engenheiro Domingos Ferreira, 3652 - Boa Viagem, Recife - PE","Cobertura com 5 Quartos à Venda, 284m²",,,,,,-8.1201232,-34.8985373
+480000,692,103,2,2,1,0,"Avenida Almirante Tamandaré - Enseada, Guarujá - SP","Apartamento com 2 Quartos à Venda, 103m²",Mobiliado,Churrasqueira,Elevador,Aceita animais,Ar-condicionado,-23.9882645,-46.239713
+260000,0,83,2,2,2,0,"Rua Doutor Vital Brasil, 1341 - Jardim Boa Esperança, Franca - SP","Apartamento com 2 Quartos à Venda, 83m²",Churrasqueira,Condomínio fechado,Aceita animais,Espaço gourmet,Varanda gourmet,-20.5232051,-47.3796461
+620000,440,96,3,3,1,0,"Rua Nestor Victor, 750 - Água Verde, Curitiba - PR","Apartamento com 3 Quartos à Venda, 96m²",Mobiliado,Churrasqueira,Condomínio fechado,Aceita animais,Jardim,-25.4564228,-49.2738257
+670000,0,180,3,4,0,0,"Rua Silva Jardim, 36 - Centro, Niterói - RJ","Casa de Vila com 3 Quartos à Venda, 180m²",,,,,,-22.8849206,-43.1251346
+159000,300,50,1,1,1,0,"Avenida José Olegário de Barros - Vila Nossa Senhora das Gracas, Taubaté - SP","Apartamento com Quarto à Venda, 50m²",Piscina,Varanda,Academia,Espaço gourmet,Playground,-23.0192189,-45.55599565179736
+310000,800,45,1,1,1,0,"Rua Quintino Bocaiúva, 17 - Gonzaga, Santos - SP","Apartamento com Quarto à Venda, 45m²",Aceita animais,Ar-condicionado,Elevador,Portaria 24h,,-23.9669759,-46.3370396
+449000,50,120,3,3,2,0,"Rua Renato Meira Lima, 453 - Tanque, Rio de Janeiro - RJ","Casa de condomínio com 3 Quartos à Venda, 120m²",,,,,,-22.9221727,-43.3604669
+740000,950,81,3,2,1,0,"Rua Augusto dos Anjos, 139 - Melville Empresarial Ii, Barueri - SP","Apartamento com 3 Quartos à Venda, 81m²",Condomínio fechado,Ar-condicionado,Varanda gourmet,Portaria 24h,Closet,-23.4837894,-46.8480322
+230000,0,608,0,0,0,0,"Rua Ivan Lins, S/N - Enseada das Gaivotas, Rio das Ostras - RJ","Lote/Terreno à Venda, 608m²",Plano,,,,,-22.489401,-41.9100818
+350000,982,45,1,1,0,0,"Avenida Antônio Justa, 2324 - Meireles, Fortaleza - CE","Flat com Quarto à Venda, 45m²",,,,,,-3.7278576,-38.4940711
+550000,0,250,4,3,2,0,"Rua Luiz Roberto Alcântara, 695 - Alto Umuarama, Uberlândia - MG","Casa com 4 Quartos à Venda, 250m²",Churrasqueira,Espaço gourmet,Ar-condicionado,Jardim,Varanda gourmet,-18.8889062,-48.2360787
+1570000,0,300,5,4,0,0,"Rua Laurindo José de Souza, 513 - Barra da Lagoa, Florianópolis - SC","Casa com 5 Quartos à Venda, 300m²",Ar-condicionado,Varanda gourmet,Mobiliado,Portão eletrônico,,-27.588059,-48.4338203
+590000,480,86,3,2,1,0,"Rua João Ângelo Cordeiro, 1047 - São Pedro, São José dos Pinhais - PR","Apartamento com 3 Quartos à Venda, 86m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-25.54586325,-49.19832286908783
+590000,400,52,1,2,1,0,"Rua Gutemberg, 101 - Petrópolis, Porto Alegre - RS","Apartamento com Quarto à Venda, 52m²",,,,,,-30.0402594,-51.1725947
+920000,650,127,3,5,3,0,"Avenida Affonso José Aiello, 24115 - Vila Aviação, Bauru - SP","Apartamento com 3 Quartos à Venda, 127m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.3566073,-49.0476654
+507000,400,73,3,2,2,0,"Rua Morretes, 1174 - Portão, Curitiba - PR","Apartamento com 3 Quartos à Venda, 73m²",Churrasqueira,Elevador,Academia,Aceita animais,Jardim,-25.4742517,-49.2867825
+1380000,0,370,4,5,4,0,"Rua Ator Fregolente, 171 - Centro, Mendes - RJ","Casa com 4 Quartos à Venda, 370m²",Piscina,Churrasqueira,Aceita animais,Espaço gourmet,Ar-condicionado,-22.5205687,-43.7415129
+700000,0,168,3,2,5,0,"Rua dos Babaçus - Itauna, Saquarema - RJ","Casa com 3 Quartos à Venda, 168m²",,,,,,-22.9290845,-42.4815927
+785000,1336,187,4,4,3,0,"Rua Casemiro de Abreu, 435 - Vila Seixas, Ribeirão Preto - SP","Apartamento com 4 Quartos à Venda, 187m²",Piscina,Elevador,Academia,Jardim,Salão de festas,-21.1877317,-47.8019361
+1750000,1347,120,3,3,2,0,"Rua Leite Leal, 135 - Laranjeiras, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 120m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9366147,-43.18779976646602
+250000,0,125,3,2,2,0,"Rua Luiz Dal Porto, 248 - Planalto Verde I, Ribeirão Preto - SP","Casa com 3 Quartos à Venda, 125m²",,,,,,-21.1439108,-47.8381322
+589000,500,98,3,3,2,0,"Rua Bonaparte - Padre Eustáquio, Belo Horizonte - MG","Apartamento com 3 Quartos à Venda, 98m²",Elevador,Varanda,Móvel planejado,Armário embutido,Armário na cozinha,-19.9161171,-43.9725356
+190000,250,61,2,1,1,0,"Rua Expedicionário José Maria Ferreira, 18 - Jardim Pitoresco, Jacareí - SP","Apartamento com 2 Quartos à Venda, 61m²",Condomínio fechado,Portão eletrônico,Portaria 24h,,,-23.3085201,-45.9394479
+400000,280,140,2,3,2,0,"Rua Otávio Pinto Cesar, 490 - Cidade Nova, São José do Rio Preto - SP","Cobertura com 2 Quartos à Venda, 140m²",,,,,,-20.8349844,-49.38537
+449000,100,130,3,2,2,0,"Rua Professor José Maurício Higgins, 1582 - Boqueirão, Curitiba - PR","Casa de condomínio com 3 Quartos à Venda, 130m²",,,,,,-25.4954432,-49.2453583
+330000,620,73,2,2,1,0,"Rua Jamil Issa, 150 - Vila Caicara, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 73m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-24.0496862,-46.5363787
+680000,438,84,2,2,1,0,"Rua Doutor Paulo César, 155 - Santa Rosa, Niterói - RJ","Apartamento com 2 Quartos à Venda, 84m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.8990329,-43.1070327
+700000,500,80,3,3,1,0,"Rua Anita Garibaldi, 1144 - Mont' Serrat, Porto Alegre - RS","Apartamento com 3 Quartos à Venda, 80m²",,,,,,-30.02732,-51.1947772
+2350000,950,400,5,7,4,0,"Ponta Negra, Manaus - AM","Casa de condomínio com 5 Quartos à Venda, 400m²",,,,,,-3.0653214,-60.097923
+425000,500,100,3,2,2,0,"Avenida Benedicto Castilho de Andrade, 1007 - Parque Residencial Eloy Chaves, Jundiaí - SP","Apartamento com 3 Quartos à Venda, 100m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.1875708,-46.9600882
+1000000,0,253,3,5,4,0,"Rua Gonçalves Dias, 17 - Centro, São Bernardo do Campo - SP","Casa com 3 Quartos à Venda, 253m²",Churrasqueira,,,,,-23.7162619,-46.5450331
+210000,600,78,3,2,2,0,"Rua Eduardo Bezerra, 1650 - São João do Tauape, Fortaleza - CE","Apartamento com 3 Quartos à Venda, 78m²",Condomínio fechado,Aceita animais,Ar-condicionado,Jardim,Salão de festas,-3.7542524,-38.5180405
+500000000,0,2000,0,0,0,0,"PIRANGI DO NORTE, Nísia Floresta - RN","Lote/Terreno à Venda, 2000m²",Arenoso,Plano,Energia elétrica,,,-5.9838359,-35.1263097
+3600000,0,598,0,0,0,0,"Avenida Rio Branco, 257 - Centro, Rio de Janeiro - RJ","Sala/Conjunto à Venda, 598m²",,,,,,-22.9115833,-43.1748862
+320000,0,200,4,3,2,0,"Rocha Miranda, Rio de Janeiro - RJ","Casa com 4 Quartos à Venda, 200m²",Aceita animais,Varanda gourmet,,,,-22.8503472,-43.3463053
+415000,0,147,2,3,2,0,"Ingleses do Rio Vermelho, Florianópolis - SC","Sobrado com 2 Quartos à Venda, 147m²",Varanda,Quintal,Área de serviço,Móvel planejado,Churrasqueira na varanda,-27.4399071,-48.401143
+500000,0,181,3,3,2,0,"Rua Riachuelo, 1062 - Centro, Tramandaí - RS","Casa com 3 Quartos à Venda, 181m²",Mobiliado,Churrasqueira,Aceita animais,Jardim,Closet,-29.9913052,-50.1326036
+840000,0,289,5,3,6,0,"Rua Doutor Pedro Zavaski - Pinheirinho, Curitiba - PR","Sobrado com 5 Quartos à Venda, 289m²",Quintal,Churrasqueira na varanda,Armário embutido no quarto,Armário na cozinha,Edícula,-25.5195884,-49.273917
+1700000,0,500,4,5,4,0,"Rua Conselheiro Lampreia - Cosme Velho, Rio de Janeiro - RJ","Casa com 4 Quartos à Venda, 500m²",Mobiliado,Quintal,Aceita animais,Ar-condicionado,Área de serviço,-22.9431517,-43.2066563
+1350000,0,200,3,4,2,0,"Rua da Prece - Vila Prudente, São Paulo - SP","Sobrado com 3 Quartos à Venda, 200m²",,,,,,-23.5818041,-46.5711043
+670000,800,113,4,3,2,0,"Travessa Augusta, 51 - Jardim Messina, Jundiaí - SP","Apartamento com 4 Quartos à Venda, 113m²",Piscina,Churrasqueira,Elevador,Academia,Aceita animais,-23.2027278,-46.8877483
+3300000,0,149,3,4,2,0,"Avenida Cotovia, 611 - Moema, São Paulo - SP","Apartamento com 3 Quartos à Venda, 149m²",Piscina,Elevador,Condomínio fechado,Academia,Espaço gourmet,-23.60868,-46.6690308
+790000,0,71,2,2,1,0,"Rua dos Araujos, 15 - Tijuca, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 71m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9265755,-43.2269137
+1300000,0,480,5,5,10,0,"Monte Verde, Camanducaia - MG","Fazenda/Sítio/Chácara com 5 Quartos à Venda, 480m²",Churrasqueira,Aceita animais,Espaço gourmet,Jardim,Cozinha americana,-22.8722784,-46.066933874095554
+185000,0,39,0,1,1,0,"Rua Barata Ribeiro, 430 - Centro, Campinas - SP","Sala/Conjunto à Venda, 39m²",,,,,,-22.8965636,-47.061036
+325000,450,72,3,2,1,0,"Rua Voluntários da Pátria, 65 - Centro, Campos dos Goytacazes - RJ","Apartamento com 3 Quartos à Venda, 72m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-21.7573817,-41.3308764
+310000,710,62,2,2,1,0,"Estrada Japore, 221 - Vila Valqueire, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 62m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.8794921,-43.3745831
+685000,0,78,0,2,2,0,"Rua Doutor Homem de Melo - Perdizes, São Paulo - SP","Sala/Conjunto à Venda, 78m²",Área de serviço,Banheiro de serviço,Armário embutido,Copa,Recepção,-23.5308663,-46.6776272
+100000,0,450,0,0,0,0,"Avenida Anchieta, 73 - Praia dos Castelhanos, Anchieta - ES","Lote/Terreno à Venda, 450m²",Plano,,,,,-20.8239472,-40.6188932
+400000,400,67,2,2,2,0,"Rua Vitalino Ferro, 720 - Santa Terezinha, Paulínia - SP","Apartamento com 2 Quartos à Venda, 67m²",Piscina,Mobiliado,Condomínio fechado,Academia,Aceita animais,-22.7792407,-47.137452
+910000,1539,70,1,1,1,0,"Avenida Lúcio Costa, 6900 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 70m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-23.0107484,-43.3686305
+270000,300,83,3,2,1,0,"Rua K, 0 - Bairro Cidade Jardim, Anápolis - GO","Apartamento com 3 Quartos à Venda, 83m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Academia,-16.3107645,-48.9447625
+240000,490,40,1,1,1,0,"Rua Juvenal Mário da Silva, 1108 - Manaíra, João Pessoa - PB","Flat com Quarto à Venda, 40m²",Piscina aquecida,Piscina infantil,Área de lazer,Conexão à internet,Bar na piscina,-7.0983434,-34.8343666
+850000,0,102,3,4,2,0,"Avenida Embaixador Abelardo Bueno, 600 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 102m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.9731912,-43.3869014
+212000,150,41,1,1,1,0,"Rua João Rolim, 404 - Nossa Senhora de Lourdes, Santa Maria - RS","Apartamento com Quarto à Venda, 41m²",Elevador,Aceita animais,Ar-condicionado,Cozinha americana,Acesso para deficientes,-29.6924186,-53.80009389083885
+690000,618,88,3,1,2,0,"Rua Coronel Schwab Filho, 42 - Bento Ferreira, Vitória - ES","Apartamento com 3 Quartos à Venda, 88m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-20.314337899999998,-40.30245016188782
+450000,460,37,1,1,0,0,"Rua Bertioga, 123 - Chácara Inglesa, São Paulo - SP","Apartamento com Quarto à Venda, 37m²",Mobiliado,Churrasqueira,Elevador,Academia,Aceita animais,-23.61017412,-46.63569206
+10000,0,15,0,0,5,0,"Rua Anita Garibaldi, 45 - Sé, São Paulo - SP","Garagem à Venda, 15m²",Acesso para deficientes,Elevador,Condomínio fechado,Portaria 24h,,-23.55230105,-46.632595146731056
+755000,0,189,3,2,2,0,"Rua Luis Alberto Ribeiro de Castro, 457 - Estância Velha, Canoas - RS","Casa com 3 Quartos à Venda, 189m²",Lareira,,,,,-29.9091194,-51.153037
+450000,0,100,3,3,3,0,"Santa Cruz da Serra, Duque de Caxias - RJ","Casa com 3 Quartos à Venda, 100m²",Aceita animais,Varanda gourmet,,,,-22.640809,-43.2750302
+180000,0,80,3,2,3,0,"Três Vendas, Pelotas - RS","Casa com 3 Quartos à Venda, 80m²",,,,,,-31.7299969,-52.3438028
+1300000,1450,145,4,3,2,0,"Rua Esteves Júnior, 120 - Centro, Florianópolis - SC","Apartamento com 4 Quartos à Venda, 145m²",Mobiliado,Churrasqueira,Elevador,Condomínio fechado,Aceita animais,-27.58904,-48.5533548
+380000,544,110,2,4,1,0,"Estrada de Camorim - Camorim, Rio de Janeiro - RJ","Casa de condomínio com 2 Quartos à Venda, 110m²",,,,,,-22.969156,-43.4280009
+2470000,0,182,3,3,4,0,"Rua Antônio Parreiras - Bela Vista, Porto Alegre - RS","Apartamento com 3 Quartos à Venda, 182m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-30.0306564,-51.1929465
+700000,0,180,4,2,3,0,"Rua Mário Joaquim Santana, 603 - São Francisco, Niterói - RJ","Casa com 4 Quartos à Venda, 180m²",Ar-condicionado,Closet,,,,-22.9137867,-43.0792983
+885000,1050,108,3,3,2,0,"Rua Viaza, 374 - Campo Belo, São Paulo - SP","Apartamento com 3 Quartos à Venda, 108m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-23.6316312,-46.6697859
+2600000,0,280,6,7,4,0,"Praia de Juquehy, São Sebastião - SP","Casa com 6 Quartos à Venda, 280m²",Piscina,Mobiliado,Churrasqueira,Varanda,Quintal,-23.7692492,-45.7279898883443
+180000,523,51,2,1,10,0,"Estacao de Moreiras, Mairinque - SP","Casa de condomínio com 2 Quartos à Venda, 51m²",,,,,,-23.4893354,-47.20177444494722
+950000,0,200,3,4,2,0,"Rua Vênus, 238 - Vila Formosa, São Paulo - SP","Casa com 3 Quartos à Venda, 200m²",Aceita animais,Ar-condicionado,Closet,Varanda gourmet,,-23.5660416,-46.539889
+550000,770,80,3,3,2,0,"Rua Marina Crespi - Móoca, São Paulo - SP","Apartamento com 3 Quartos à Venda, 80m²",Piscina,Mobiliado,Churrasqueira,Academia,Espaço gourmet,-23.5569801,-46.6044773
+480000,950,62,2,2,1,0,"Rua Cuminapanema, 50 - Saúde, São Paulo - SP","Apartamento com 2 Quartos à Venda, 62m²",Piscina,Mobiliado,Churrasqueira,Elevador,Salão de festas,-23.6150369,-46.6295757
+799000,700,126,3,4,2,0,"Rua 55, 500 - Jardim Goiás, Goiânia - GO","Apartamento com 3 Quartos à Venda, 126m²",Piscina,Churrasqueira,Academia,Espaço gourmet,Ar-condicionado,-16.7001417,-49.2405235
+1430000,0,199,3,3,2,0,"Rua Fernando Osvaldo de Oliveira, 35 - Cachoeira do Bom Jesus, Florianópolis - SC","Cobertura com 3 Quartos à Venda, 199m²",,,,,,-27.4236361,-48.438685
+240000,0,90,2,2,1,0,"Estrada Holanda, 61 - Rio do Ouro, Niterói - RJ","Casa com 2 Quartos à Venda, 90m²",,,,,,-22.9041196,-42.9897889
+400000,0,42,0,1,2,0,"Avenida das Américas, 3434 - Barra da Tijuca, Rio de Janeiro - RJ","Sala/Conjunto à Venda, 42m²",Espaço verde / Parque,Restaurante,Estacionamento para visitantes,,,-22.9983632,-43.3467542
+1850000,1200,330,2,3,1,0,"Rodovia Tertuliano Brito Xavier, 2715 - Jurerê, Florianópolis - SC","Cobertura com 2 Quartos à Venda, 330m²",,,,,,-27.4338607,-48.4784684
+490000,0,72,3,2,1,0,"Rua Valentim Feltrin, 120 - Santa Cruz, Americana - SP","Apartamento com 3 Quartos à Venda, 72m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-22.7398757,-47.3064493
+65000,180,44,2,1,1,0,"Rua João Jacob Bainy, 401 - Três Vendas, Pelotas - RS","Apartamento com 2 Quartos à Venda, 44m²",Churrasqueira,Condomínio fechado,Aceita animais,Jardim,Playground,-31.7344537,-52.355298
+419900,350,72,3,2,1,0,"Rua Teotônia, 300 - Camaquã, Porto Alegre - RS","Apartamento com 3 Quartos à Venda, 72m²",Piscina,Mobiliado,Churrasqueira,Elevador,Condomínio fechado,-30.1032809,-51.2422801
+615000,0,180,3,2,2,0,"Rua Palmira Cervi Barbaro, 511 - Cidade Santos Dumont, Jundiaí - SP","Casa com 3 Quartos à Venda, 180m²",,,,,,-23.1659564,-46.9098911
+1340000,0,398,8,8,4,0,"Rua Bento Alves, 1488 - Rio Branco, São Leopoldo - RS","Casa com 8 Quartos à Venda, 398m²",,,,,,-29.7702182,-51.131915
+265000,0,200,3,2,1,0,"Rua Abílio Camilo Valença, 323 - Heliopolis, Garanhuns - PE","Casa com 3 Quartos à Venda, 200m²",Aceita animais,Cozinha americana,,,,-8.8772579,-36.4727462
+1100000,680,190,4,2,2,0,"Rua Doutor Rubens Guimarães, 256 - Castelo, Belo Horizonte - MG","Apartamento com 4 Quartos à Venda, 190m²",Mobiliado,Churrasqueira,Aceita animais,Ar-condicionado,Bicicletário,-19.8880639,-43.9981387
+649000,3400,55,1,1,1,0,"Avenida Lúcio Costa, 3150 - Barra da Tijuca, Rio de Janeiro - RJ","Apartamento com Quarto à Venda, 55m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Academia,-23.0103177,-43.326960830714235
+560000,990,136,4,3,2,0,"Rua Doutor Noel Nutels, 104 - Ponta Verde, Maceió - AL","Apartamento com 4 Quartos à Venda, 136m²",Elevador,Aceita animais,Ar-condicionado,Jardim,Salão de festas,-9.6575186,-35.7002413
+220000,210,0,0,0,0,0,"Serra do Cipó, Santana do Riacho - MG",Lote/Terreno à Venda,Piscina,Churrasqueira,Condomínio fechado,Espaço gourmet,Portaria 24h,-19.211566949999998,-43.56197551683576
+590000,1322,52,2,2,1,0,"Chácara Santo Antônio, São Paulo - SP","Apartamento com 2 Quartos à Venda, 52m²",Piscina,Mobiliado,Elevador,Condomínio fechado,Aceita animais,-23.4997345,-47.5533139
+350000,384,73,2,1,0,0,"Avenida Ganzo, 708 - Menino Deus, Porto Alegre - RS","Apartamento com 2 Quartos à Venda, 73m²",Ar-condicionado,Aceita animais,Lareira,Chuveiro a gás,Móvel planejado,-30.0514839,-51.2266328
+2500000,0,100,0,2,0,0,"Rua Barata Ribeiro, 259 - Copacabana, Rio de Janeiro - RJ","Ponto comercial/Loja/Box à Venda, 100m²",,,,,,-22.9692945,-43.1867913
+630000,0,255,4,4,2,0,"Rua Campo Grande, 6329 - Candeias, Jaboatão dos Guararapes - PE","Casa com 4 Quartos à Venda, 255m²",Ar-condicionado,Closet,,,,-8.2010789,-34.9242832
+689000,0,261,0,0,8,0,"Avenida Presidente Altino, 386 - Jaguaré, São Paulo - SP","Ponto comercial/Loja/Box à Venda, 261m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Jardim,-23.540486,-46.753488
+395000,0,32,0,2,1,0,"Avenida Rouxinol, 1041 - Moema, São Paulo - SP","Sala/Conjunto à Venda, 32m²",,,,,,-23.6006468,-46.6738412
+200000,800,60,2,2,1,0,"Rua Araújo Leitão - Engenho Novo, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 60m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-22.9132009,-43.2681134
+370000,0,700,4,5,5,0,"Rua Lílium, 260 - Frei Leopoldo, Belo Horizonte - MG","Casa com 4 Quartos à Venda, 700m²",Piscina,Estacionamento,,,,-19.8088842,-43.9392006
+960000,500,180,4,4,3,0,"Rua Álvares de Azevedo, 116 - Colégio Batista, Belo Horizonte - MG","Cobertura com 4 Quartos à Venda, 180m²",,,,,,-19.908646,-43.9397161
+1200000,0,296,3,4,2,0,"Rua Curuca, 266 - Freguesia, Rio de Janeiro - RJ","Casa com 3 Quartos à Venda, 296m²",,,,,,-22.7928971,-43.1714878
+369900,450,70,2,2,2,0,"Rua Antenor de Souza Melo - Jardim Maricá, Mogi das Cruzes - SP","Casa de condomínio com 2 Quartos à Venda, 70m²",,,,,,-23.4979661,-46.1825933
+1970000,0,500,10,3,10,0,"Rua Miguel Daux, 129 - Coqueiros, Florianópolis - SC","Casa com 10 Quartos à Venda, 500m²",Mobiliado,Churrasqueira,Espaço gourmet,Ar-condicionado,Jardim,-27.6084768,-48.5781015
+27000,0,15,0,0,2,0,"Rua Barata Ribeiro, 312 - Copacabana, Rio de Janeiro - RJ","Garagem à Venda, 15m²",,,,,,-22.9692945,-43.1867913
+890000,1050,115,3,2,1,0,"Rua Voluntários da Pátria - Botafogo, Rio de Janeiro - RJ","Apartamento com 3 Quartos à Venda, 115m²",Churrasqueira,Playground,Elevador,Portaria 24h,,-22.9526218,-43.1877325
+440000,600,66,2,2,1,0,"Estrada Coronel Pedro Corrêa - Jacarepaguá, Rio de Janeiro - RJ","Apartamento com 2 Quartos à Venda, 66m²",Piscina,Churrasqueira,Academia,Espaço gourmet,Playground,-22.9708712,-43.3888212
+299000,500,78,2,2,1,0,"Avenida Presidente Castelo Branco, 11292 - Cidade Ocian, Praia Grande - SP","Apartamento com 2 Quartos à Venda, 78m²",Elevador,Aceita animais,Jardim,Salão de festas,Bicicletário,-24.0291833,-46.4730413
+255000,55,1044,0,0,0,0,"Rua Joana Lourdes Rezende, 419 - Açude, Betim - MG","Lote/Terreno à Venda, 1044m²",Rede de água e esgoto,Rua asfaltada,Condomínio fechado,Portão eletrônico,,-19.9519353,-44.2379773
+1190000,0,135,3,5,3,0,"Rua Huet Bacelar - Ipiranga, São Paulo - SP","Casa com 3 Quartos à Venda, 135m²",Mobiliado,Quintal,Aceita animais,Ar-condicionado,Área de serviço,-23.593458,-46.6132213
+2350000,1657,180,4,4,3,0,"Rua Bernardo Guimarães, 1220 - Funcionários, Belo Horizonte - MG","Apartamento com 4 Quartos à Venda, 180m²",Piscina,Churrasqueira,Elevador,Condomínio fechado,Academia,-19.9316393,-43.9306334
